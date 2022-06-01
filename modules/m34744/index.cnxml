@@ -1,0 +1,244 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Primate Alarm Calls</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34744</md:content-id>
+  <md:title>Primate Alarm Calls</md:title>
+  <md:abstract>Primates have evolved alarm call systems to communicate predation risks to other group members.   Diana monkeys use their alarm call as an all clear signal, and increase the frequency of calling when at higher risk of predation.  In species that face attack from both the air and the ground and have multiple escape options, alarm calls have developed to identify the particular predator.  Vervet monkeys have evolved three distinct alarm calls for snakes, eagles, and leopards, and each call elicits a particular response.  Chacma baboons, which have one escape option, employ an alarm call system that conveys the degree of risk rather than the particular type of predator.  Primates inhabiting the Tai Coast have developed alarm calls that are designed to discourage predators from pursuing them.  Primate alarm calls have developed for inter and intraspecies communication.</md:abstract>
+  <md:uuid>ae84b540-048c-47ea-8287-2356ab300d69</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1170664974212"><emphasis effect="bold">Author:</emphasis> Samantha Berkey</para>
+    <section id="id1170670459861"><title>Introduction</title><para id="id1170665818862">Primates live in complex social structures and have developed extensive and highly varied communication systems. A distinctive type of communication found across primate species is loud, attention drawing calls. These are <term>alarm calls</term>, which are adaptive as anti-predation measures. The specific alarm calls’ structure and function vary from species to species, as each type of primate faces different ecological challenges and lives in different kinds of groups.</para>
+      <para id="id1170662238809">Alarm calls can function to alert group members which specific predator is approaching (Seyfarth et al, 1980). Primates such as the vervet monkey or white-faced capuchin have evolved very distinct calls that they only use in response to certain predators (Digweed et al, 2005; Seyfarth et al, 1980). This system allows the primate to recognize the difference in calls and to pick the anti-predator response that is most adaptive. For example, a predator that hunts from the air should elicit a different alarm call than one that hunts from the ground, and the primates should respond appropriately by moving lower or higher in the trees (Seyfarth et al, 1980).</para>
+      <example id="oo-id1170660928889"><label>Box</label><title>Primate Phylogeny</title>
+ 
+     
+      <para id="id1170679885814">The primates used to illustrate the functions of alarm calls have varying degrees of relatedness. They can be classified as Old World (residing in Africa and Asia) or New World (residing in the Americas) monkeys, and exhibit a few distinct differences. The Old World monkeys, or Platyrrhines, have flatter, outward-pointing noses, larger canines, and are generally larger in body size. The New World monkeys, or Catarrhines, are hook-nosed and tend to be more terrestrial. We can evaluate species’ relatedness by examining a phylogenetic tree (see <link target-id="id1170663785859"/>).</para>
+      <para id="id1170673564978">The capuchins and tamarins are both New World monkeys related by two past divergence events. Their common ancestor split once, and then each of these two species diverged again to give four new species, two of which were the capuchins and tamarins. </para>
+      <para id="id1170667316242">The vervet monkeys and Diana monkeys (guenons) and baboons are Old World monkeys that also share a common ancestor. After diverging at this ancestor, the vervet monkey and Diana monkey ancestral line underwent three more speciation events, while the baboons stayed a distinct lineage. </para>
+      <para id="id1170661930795">By this phylogenetic tree, it appears the vervet monkeys and Diana monkeys are the closest relatives, and are about equally related to baboons as capuchins and tamarins are to each other. The types of alarm calls observed in each species match this tree. The Diana monkeys and vervet monkeys both use three referential alarm calls (see <link target-id="id1170660913119"/>). The tamarins and capuchins each have an aerial alarm call and a terrestrial alarm call. In addition, both species use their terrestrial alarm call as a general warning (see <link target-id="id1170660913119"/>).</para></example>
+      <figure id="id1170663785859"><media id="id1170663785859_media" alt="">
+          <image mime-type="image/jpg" src="../../media/Picture 1-aa45.jpg" id="id1170663785859__onlineimage" height="343" width="600"/>
+        </media>
+      <caption>The phylogenetic tree of primates shows the varying degrees of relatedness.  The three main sub groups are the Hominidae, Platyrrhines, and Catarrhines</caption></figure>
+      <para id="id6593405">Other alarm call systems convey the degree of risk (Fischer et al, 2001). A system based on urgency has evolved in primates with only one escape strategy. These alarm calls differ in their frequency and duration, but don’t refer to any specific threat (Fischer et al, 2001). The South African chacma baboon has evolved a graded urgency system that allows it to respond with a quick escape from a high-risk situation, or perhaps ignore the warning when the risk is very small (Fischer et al, 2001). </para>
+      
+      <para id="id1170673820728">Primate species that use specific alarm calls have also evolved calls that communicate directly with the predator (Zuberbühler 1999). These systems appear in species that face attack from predators that rely on surprise tactics. Alarm calls for ambushing predators are much louder and more conspicuous than those given in response to other types of predators, as if the primate is letting the predator know it’s been spotted and is now out of luck (Zuberbühler 1999).</para>
+    </section>
+    <section id="id1170668123379">
+      <title>Communication among Primates</title>
+      
+      <table id="id1170660913119" summary="Comparison of primate communication systems">
+<tgroup cols="5"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>Primate Species</entry>
+              <entry>Type of call</entry>
+              <entry>Sounds like</entry>
+              <entry>Suggested Meaning</entry>
+              <entry>Observable Response</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">Diana Monkeys</emphasis> (<emphasis effect="italics">Cercopithecus Diana</emphasis>)</entry>
+              <entry>clear call</entry>
+              <entry>symmetric tonal call</entry>
+              <entry>Signals the area is free of threats</entry>
+              <entry>The monkeys responded with their own clear calls and continued their daily activities.</entry>
+            </row>
+            <row>
+              <entry>(Boxes A2-E4: Zuberbühler et al, 1997; Zuberbühler 2000)</entry>
+              <entry>crowned-hawk eagle alarm call</entry>
+              <entry>loud, shrill</entry>
+              <entry>A crowned-hawk eagle has been spotted</entry>
+              <entry>The monkeys descend from the treetops.</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>leopard alarm call</entry>
+              <entry>loud, shrill, with many changes in frequency </entry>
+              <entry>A leopard has been spotted</entry>
+              <entry>The monkeys run into the treetops. </entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">White-faced Capuchin </emphasis>(<emphasis effect="italics">Cebus capucinus</emphasis>)</entry>
+              <entry>aerial alarm call</entry>
+              <entry>harsh, given in single bursts</entry>
+              <entry>Signals that an aerial predator has been spotted</entry>
+              <entry>The monkeys scanned the sky then retreated down the tree</entry>
+            </row>
+            <row>
+              <entry>(Boxes A5-E6: Digweed et al, 2005)</entry>
+              <entry>alerting call</entry>
+              <entry>bark-like, given in long bouts</entry>
+              <entry>A more general signal for terrestrial predators; sometimes may also draw attention to non-predators that are causing a disturbance (better safe than sorry)</entry>
+              <entry>The monkeys scanned the sky and then usually ran into the treetops; occasionally they would mob the predator</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">Chacma Baboons</emphasis> (<emphasis effect="italics">Papio cynocephalus ursinus</emphasis>)</entry>
+              <entry>contact bark</entry>
+              <entry>tonal, clear bark</entry>
+              <entry>These are the two extremes of the range of barks Chacma baboons possess. The contact barks signify there is no risk, while the alarm barks indicate a very threatening situation. There are intermediate barks that allow the baboons to express varying degrees of risk.</entry>
+              <entry>The baboons ignore contact barks but investigate intermediate ones</entry>
+            </row>
+            <row>
+              <entry>(Boxes A7-E8: Fischer et al, 2001)</entry>
+              <entry>alarm bark</entry>
+              <entry>harsh, shrill bark</entry>
+              <entry>Signify a high degree of risk</entry>
+              <entry>The baboons fled to the trees</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">Vervet Monkeys</emphasis> (<emphasis effect="italics">Cercopithecus aethiops</emphasis>)</entry>
+              <entry>leopard alarm</entry>
+              <entry>short tonal call</entry>
+              <entry>A leopard has been spotted</entry>
+              <entry>The monkeys ran up into the treetops</entry>
+            </row>
+            <row>
+              <entry>(Boxes A9-11E: Seyfarth et al, 1980; Seyfarth et al, 1986)</entry>
+              <entry>eagle alarm</entry>
+              <entry>low-pitched staccato grunts</entry>
+              <entry>An eagle, or other aerial predator, has been spotted</entry>
+              <entry>The monkeys scanned the sky and ran into dense brush</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>snake alarm</entry>
+              <entry>high-pitched chutters</entry>
+              <entry>A snake has been spotted</entry>
+              <entry>The monkeys examined the ground around them</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">Moustached</emphasis><emphasis effect="bold">and Saddleback</emphasis><emphasis effect="bold">Tamarins </emphasis>(<emphasis effect="italics">Saguinus </emphasis><emphasis effect="italics"/><emphasis effect="italics">mystax and Saguinus fuscicollis</emphasis>)</entry>
+              <entry>aerial alarm call</entry>
+              <entry>high frequency, staccato</entry>
+              <entry>An aerial predator has been spotted</entry>
+              <entry>The tamarins scanned the sky for the potential danger</entry>
+            </row>
+            <row>
+              <entry>(Boxes A12-E13: Kirchhof et al., 2006; Fichtel 2007)</entry>
+              <entry>terrestrial alarm call</entry>
+              <entry>low frequent, more drawn out</entry>
+              <entry>A terrestrial predator has been spotted; this call is also sometimes used as an all purpose alert</entry>
+              <entry>The tamarins scanned the ground for the potential danger and retreated into the treetops</entry>
+            </row>
+          </tbody>
+        
+
+</tgroup><caption>Comparison of Primate Communication Systems</caption>
+</table>
+      <section id="id1170663313792">
+        <title>Calling Frequency Increases with Risk of Predation</title>
+        <para id="id4742358">Many primate species use alarm calls to mitigate the threat of predation. Close range <term>clear calls</term> are observed in multiple primate species (Gautier &amp; Gautier 1977; Zuberbühler et al, 1997). The clear calls could be used to avoid predation, as a form of vigilance, in which case the frequency of calls should increase with heightened risk of predation (Uster et al, 2001). Multiple predators threaten Diana monkeys as they forage throughout the day, and individuals often find themselves out of sight of other group members (Uster et al, 2001). The clear calls that males produce may function to confirm that a particular area is safe. Fitting with this idea, the monkeys produce calls most often when they are widely dispersed, when they are about to move to a new area, in areas of low visibility, and when they are foraging separately to find food (Uster et al, 2001). In other words, the Diana monkeys call more often when there is an increased risk of predation. All of this corroborates the hypothesis that Diana monkeys use clear calls as a form of <term>mutualistic vigilance</term> to communicate about the presence of danger, and this communication increases when the monkeys face an increased chance of predation.</para>
+      </section>
+      <section id="id1170675473352">
+        <title>Predator Specific Alarm calls are Adaptive</title>
+        <para id="id1170672747165">Besides calling to give a reassuring “all clear” signal, primates use alarm calls to indicate danger, sometimes in very specific ways. Primate alarm systems can often consist of distinct alarm calls for different predators. These <term>functionally referential</term> signals should be adaptive because certain responses are beneficial in one instance but harmful in another; a species with predators that attack in different ways should develop distinct alarm calls to allow the primate to choose the beneficial strategy. Vervet monkeys (see <link target-id="id1170662609065"/>), which face attack from both the air and the ground, have evolved three calls: a short tonal call for leopards, a series of staccato grunts for eagles, and a high pitched <term>chutter</term> for snakes (Evans 1997; Seyfarth et al, 1986). Vervet monkeys will run into the trees, safe from ambush, in response to a short tonal leopard call, but will hide in dense brush, closer to the ground, in response to grunts for eagles (Seyfarth et al, 1980). If Vervet monkeys could not identify different predators by different calls, they would have to simply guess which evasion strategy to use, and may end up choosing a strategy that makes them easier prey.</para>
+        <figure id="id1170662609065"><media id="id1170662609065_media" alt="A vervet monkey foraging in the treetops.">
+            <image mime-type="image/jpg" src="../../media/Picture 2-a16f.jpg" id="id1170662609065__onlineimage" height="369" width="554"/>
+          </media>
+          
+        <caption>A Vervet monkey forages in the treetops while listening for alarm calls from other group members.<newline/> (Picture obtained with permission from http://flickr.com/photos/stignygaard/2434572058/).</caption></figure>
+        <para id="id1170667841952">The semi-arboreal and semi-terrestrial white-faced capuchin (see <link target-id="id1170669467103"/>), which also faces predators from the ground and the air, has an aerial predator alarm and a terrestrial predator alarm (Digweed et al, 2005). The aerial alarm always results in a rapid descent from the treetops, while the terrestrial alarm has a more diverse response. It will sometimes lead to retreat into the trees, but may also lead to closer inspection or mobbing of the threat. Capuchins have more than one escape option open to them based on the predator, which makes it especially advantageous to have different alarm calls that allow the capuchin to pick the “best” strategy (Digweed et al, 2005).</para>
+        <example id="oo-id1170674723839"><label>Box</label><title>Comparative Studies on Functionally Referential Alarm Systems</title> 
+          <para id="id1170674137244">Predator specific alarm systems are proposed to be beneficial in primates that face multiple predator types and that can respond with different survival strategies (Macedonia &amp; Evans 1993). Other species that face similar ecological conditions should have similar alarm systems. Small songbirds have two different anti-predator strategies, either mobbing a perched predator or hiding from one in flight, and have developed two distinct alarm calls for each type of behavior (Marler 1955). These birds give a high frequency “seet” or a short “chink” in response to an airborne or perched predator respectively; this is similar to the system used by the white-faced capuchins. Another bird species, chickens (<emphasis effect="italics">Gallus gallus), </emphasis>also gives distinct aerial and terrestrial alarm calls (Evans 1993). Chickens will crouch down or run for cover in response to the aerial call, but stand up tall in a vigilant stance when responding to a terrestrial call (Evans 1993). All of these species can respond to different types of predators in distinct ways; consequently, they have evolved functionally referential alarm systems. Cooperatively breeding meerkats have developed three distinct alarm calls, in a system similar to that of vervet monkeys. The meerkats always respond to an aerial call by running to a bolthole, but scan the area and then move to a different burrow system in response to a terrestrial alarm call (Manser 2001). In response to their “recruitment” call, which seems to be used for snakes, meerkats approach the source of the call cautiously and inspect the area (Manser 2001). As with the vervet monkeys, the meerkats have evolved a specific alarm system because certain anti-predator responses are more beneficial in a specific case (Manser 2001). </para>
+        </example>
+        <para id="id1170665393737">Other semi-arboreal and semi-terrestrial primates, such as tamarins and the red-tailed sportive lemurs, seem to have developed predator-specific alarm systems for the same reason (Kirchhof et al, 2006; Fichtel 2007). Kirchhof observed that mustached and saddleback tamarins’ alarm calls do correspond with certain predators by measuring the time spent searching in a certain direction by the listening tamarins. He found tamarins spent a significantly longer amount of time looking up in response to the aerial alarm call but a much longer time looking down in response to the terrestrial alarm call (Kirchhof et al, 2006). Putty-nosed monkeys are another species that uses two distinct calls, pyows and hacks (Arnold et al, 2006). The monkeys combine these two calls in various ways; however, eagles always elicit hacks first and more often. The Putty-nosed monkeys use the different sequences of the distinct calls to determine whether an aerial or terrestrial predator is attacking (Arnold et al, 2008). These alarm calls are predator specific which is advantageous to species with multiple escape strategies.</para>
+      </section>
+      <section id="id1170661502206">
+        <title>Alarm calls that Indicate Urgency are also Adaptive</title>
+        <para id="id4622286">In species with only one escape strategy, identifying the predator has less value. Instead, it might be more helpful to evolve a communication system that conveys the degree of risk. A primate that can only escape to the trees for safety would prefer to know whether the predator is fifty feet away or in the bush next to him, but not necessarily which type of monkey-eater he must avoid. Chacma baboons face a wide range of predators but do not have multiple escape strategies. The baboons use the same calls, which range from tonal clear barks to harsher alarm barks for all types of predators, but vary the calls to convey the degree of risk (Fischer et al, 2001; Cheney et al, 2003). The baboons respond differently based on the duration and frequency of the calls, simply ignoring any intermediate calls that are not urgent alarm calls (Fischer et al, 2001). One of the first clues that this system may be based on risk determination is the increase in alarm calls when the group is more widely dispersed (Rendall et al, 2000). This is expected; a greater area of dispersal increases the danger to each individual, representing heightened danger. In addition, chacma baboons may give a few scattered alarm barks when confronted with relatively low risk predators such as hyenas or wild dogs (Cheney et al, 2003). Lions, however, always elicit frequent harsh alarm barks from more than one baboon because they pose a greater risk (Cheney et al, 2003). The most frequent alarm calling occurs when baboons cross water infested with crocodiles. This is a high risk situation for the chacma baboons, thus it makes sense that a call system based on the degree of the threat would cause the baboons to bark most frequently in response to their riskiest predator (Cheney et al, 2003). The baboons even barked in response to harmless objects that could potentially be crocodiles, such as floating elephant dung or submerged hippos (Cheney et al, 2003). The heightened sensitivity and increase in call frequency in response to a more threatening predator confirms that their system is meant to demonstrate the relative urgency of the threat, not the particular predator (Fischer et al, 2001).</para>
+        <example id="oo-id1170662180534"><label>Box</label><title>Comparative Studies on Urgency Gradient Alarm Systems</title>
+          <para id="id1170674268780">Alarm systems that convey urgency should be beneficial in primates if the species has only one anti-predation response. If this system has evolved because the primates can only respond in one way, but do not always need to waste their energy in responding to a non-urgent threat, then a similar system should have developed in other species with limited strategies. The California ground squirrel has two distinct alarm calls, a whistle and a chatter, that were originally believed to signal either large raptors or terrestrial predators (Owings &amp; Virginia 1978; Owings &amp; Leger 1980). However, the California ground squirrel does not have multiple anti-predator strategies, and its alarm calls were eventually found to denote the degree of urgency, instead of the specific type of predator (Owings &amp; Hennessy 1984). Belding’s ground squirrels are another species that use alarm calls; again, these squirrels have only one way of dealing with predators, and thus their alarm calls vary in frequency and duration depending on the risk a predator presents (Robinson 1981; Robinson 1980). Even though only one response is possible, it is advantageous to know how quickly to respond to a predator. If the risk is not great, perhaps the squirrel should continue using its energy to forage or find mates. These ground squirrels have developed alarm systems similar to those of the chacma baboon, which affirms the idea that limited anti-predator responses will result in the evolution of a risk based alarm system.</para>
+        </example>
+      </section>
+      <section id="id1170676351521">
+        <title>Alarm calls can discourage predation</title>
+        <para id="id1170661104963">An additional hypothesis for the evolution of alarm calls asserts that primates may actually communicate to the predator (Zuberbühler 1999). An alarm call directed at a predator would let the predator know he had been spotted; this strategy could be adaptive if the predator relied on surprise for successful hunting and could be expected to give up once spotted. A predator that relies on ambush might “realize” that to catch this monkey would take more time and energy than attacking a group of unsuspecting monkeys. Six different monkey species in the Tai forest on the Ivory Coast are subject to predation by leopards, which hunt by surprise (Hoppe-Dominik 1984), and all give different alarm calls in response to a leopard versus a chimpanzee predator (Zuberbühler 1999). The alarm calls given in response to leopards are much more conspicuous than those given to chimpanzees, who are not as dependent on surprise and hunt using the acoustic cues of their prey (Boesch &amp; Boesch 1989; Zuberbühler 1999). This <term>conspicuous signal</term> seemed to be directed at the leopard, as it was repeated often and affected the leopards’ hunting behavior – the leopard gave up the hunt after the alarm calls more often than can be attributed to chance (Zuberbühler 1999).</para>
+        <para id="id1170670213800">
+          <figure id="id1170669467103"><media id="id1170669467103_media" alt="a white-faced Capuchin monkey">
+              <image mime-type="image/jpg" src="../../media/Picture 3-f128.jpg" id="id1170669467103__onlineimage" height="404" width="563"/>
+            </media>
+            
+          <caption>A White-faced Capuchin monkey keeps an eye out for any potential predators. <newline/>
+ (Picture obtained with permission from <link url="http://flickr.com/photos/atbaker/395960391/">http://flickr.com/photos/atbaker/395960391/</link>)
+            </caption></figure>
+        </para>
+        <example id="oo-id8854326"><label>Box</label><title>Interspecies Understanding</title>
+          <para id="id1170672336799">Recent studies suggest that primates may understand and respond to the alarm calls used by other species. Diana monkeys are often observed to form mixed species groups, notably with the red colobus monkey and the campbell’s monkey (Höner et al, 1997; Zuberbuhler 2000). Originally, these associations were thought to be due to improved foraging efficiency, but this hypothesis does not stand as the primates have different diets (Noë et al., 1997). Instead, its been proposed that group intermingling provides increased protection from predation; this view is supported by the red colobus monkeys’ increase in association with Diana monkeys during their main predator’s, the chimpanzee, hunting season (Noë et al., 1997). These two primate species also decrease their vigilance and increase their exposure when associated with another group, further supporting the idea that the pressure from predation is mitigated (Bshary et al., 1997). The decreased risk is most likely due to the Diana monkeys’ skill as ground sentinels accompanied by the red colobus monkeys much better effectiveness for aerial predators. In fact, red colobus monkeys were significantly more exposed from below and descended to the ground more often when associated with Diana monkeys (Bshary et al., 1997). However, this hypothesis requires proof that the monkeys are actually communicating between each other about the presence of predators using alarm calls. A study on Diana monkeys and Campbell’s monkeys, who also form associations, has suggested that this is the case. Campbell’s monkeys produce two distinct alarm calls in reference to crowned eagles and leopards, and Diana monkeys respond by producing their own distinct alarm call (Zuberbuhler 2000). The Diana monkeys always give their leopard call in response to the Campbell monkey’s leopard call, and their eagle call in response to the Campbell monkey’s eagle call (Zuberbuhler 2000). Additional species need to be studied, but it appears that primates may have evolved to understand the meanings in other species alarm calls.</para>
+        </example>
+        <para id="id6852756">If using a conspicuous signal is adaptive, then other primate species in the same situation should show the same patterns; those species with referential alarm calls should give the more conspicuous one to the predator type using surprise and a less conspicuous, warning signal in response to the predator type not dependent on surprise. This is found in Diana monkeys, which give two different calls in response to their terrestrial predators, chimpanzees and leopards, or eagles (Zuberbühler 1999; Zuberbühler 2000). However, the Diana monkeys give much more conspicuous signals in response to eagles and especially leopards, which are the most dependent on ambush attacks (Zuberbühler et al, 1997).</para>
+        <para id="id1170662412890">Alarm calls can vary to a wide degree among primate species, but have evolved to be advantageous. Each type of system, whether it refers to a specific predator or the degree of urgency, is the most adaptive type available in the precise ecological conditions.</para>
+      </section>
+    </section>
+    <section id="id1170669412319">
+      <title>Discussion Questions</title>
+      <list id="id1170662253318" list-type="enumerated" number-style="arabic">
+        <item>Why are there variations in the types of alarm calls (predator specific, risk specific, etc) that different predators use?</item>
+        <item>What might be some risks of alarm calling? </item>
+      </list>
+      
+    </section>
+    <section id="id1170667983024"><title>Glossary</title><list id="eip-id1167141376161"><item id="id1170665840087"><term>Alarm calls</term>- These are loud, attention getting calls that indicate the presence of a predator or other threat. They are made by one or more individuals and benefit others, and so have been extensively studied as examples of kin selection and reciprocal altruism.</item>
+      <item id="id1170673520777"><term>Apes</term>- The apes are in the family Hominidae, which includes the gorillas, chimpanzees, orangutans, and humans. They are omnivorous, agile tree climbers native to Africa and Asia.</item>
+      <item id="id1170671408084"><term>Chutter</term>- A rapid, staccato series of notes that sound like “chit.”</item>
+      <item id="id5565436"><term>Clear calls</term>- These are tonal calls audible over about fifty meters. Diana monkeys use clear calls to signal that an area is currently threat free.</item>
+      <item id="id2642034"><term>Conspicuous signal</term>- This is a behavior that seems to communicate directly to a predator to draw its attention but results in a higher survival rate. For example, skylarks sing when chased by predatory merlins.</item>
+      <item id="id1170676954535"><term>Comparative study</term>- A study in which the characteristics of distinct species facing related ecological situations are compared for similarities and differences. These studies are used to support claims that specific ecological conditions are the reason for the evolution of certain behaviors. For example, multiple species that can employ different anti-predator responses have evolved alarm calls that specify predators by type.</item>
+      <item id="id1170674476456"><term>Ecological Conditions</term>- The ecological conditions are the sum of the organism’s habitat; these include climate, geology, predators, prey, and any other factors that influence an organism’s fitness.</item>
+      <item id="id1170682120671"><term>Fitness</term>- An organism’s fitness is its chance that its genes will be successfully passed down to future generations. Relative fitness is usually used because that determines whether an individual’s genes will increase in frequency in the population in future generations. Fitness depends on a variety of factors, including reproductive success and predator avoidance.</item>
+      <item id="id1170662609196"><term>Functionally referential alarm system</term>- An alarm system where acoustically distinct calls refer to specific predators and lead to specific responses.</item>
+      <item id="id1170664206630"><term>Monkeys</term>- The monkeys are a very diverse group that may be classified into New (Platyrrhini) or Old (Catarrhini) World monkeys. Monkeys exhibit a great range of characteristics; they may be herbivores or omnivores, and some are arboreal while others live on the savannah.</item>
+      <item id="id1170671363632"><term>Mutualistic vigilance</term>- Diana monkeys exhibit mutualistic vigilance when foraging out of sight of one another; each watches a different area for predators and lets the others know that the area is safe. All the monkeys benefit because with a smaller area to watch they can use more energy for tasks such as foraging instead of vigilance.</item>
+    </list></section>
+    <section id="id1170666183813"><title>References</title><list id="eip-id1168029883303" list-type="labeled-item"><item id="id1170679022096">Arnold K., Zuberbühler K. (2006). Semantic combinations in primate calls. Nature (London). 441:303.</item>
+      <item id="id1170661889198">Arnold K., Zuberbühler K. (2006). The alarm calling system of adult male putty-nosed monkeys, Cercopithecus nictitans martini. Animal Behaviour. 72:643–653 </item>
+      <item id="id1170662201559">Arnold K., Pohlner Y., and Zuberbühler K. (2008). A forest monkey’s alarm call series to predator models. Behavioral Ecology and Sociobiology. 62:549-559.</item>
+      <item id="id1170665361108">Boesch, C., and Boesch, H. (1989). Hunting behavior of wild chimpanzees in the Taï National Park. American Journal of Phys.ical Anthropology. 78:547-573.</item>
+      <item id="id1170665371472">Bshary R., and Noë R. (1997). Red colobus and Diana monkeys provide mutual protection against predators. Animal Behaviour. 54:1461-1474.</item>
+      <item id="id1170666182033">Cheney D.L., Seyfarth R.M., Fischer J., Beehner J., Bergman T., Johnson S.E., Kitchen </item>
+      <item id="id1170677527046">D.M., Palombit R.A., Rendall D., and Silk J.B. (2003). Factors Affecting Reproduction and Mortality Among Baboons in the Okavango Delta, Botswana. International Journal of Primatology. 25:401-428.</item>
+      <item id="id1170673663996">Digweed S.M., Fedigan L.M, and Rendall D. (2005). Variable specificity in the anti-predator vocalizations and behaviour of the white-faced capuchin, Cebus capucinus. Behaviour. 142:997-1021.</item>
+      <item id="id1170667903334">Evans C.S., Evans L., and Marler P. (1993). On the meaning of alarm calls: Functional reference in an avian vocal system. Animal Behaviour. 46:23-38.</item>
+      <item id="id1170673718277">Evans C.S. (1997). Referential Signals. In: Perspectives of ethology. (ed. D.H. Owings, </item>
+      <item id="id6799108">M.D. Beacher, and N.S. Thompson). pp. 99-143. New York: Plenum Press.</item>
+      <item id="id1170669456293">Fichtel C. (2007). Avoiding predators at night: antipredator strategies in red-tailed sportive lemurs (Lepilemur ruficaudatus). American Journal of Primatology. 69:611-624.</item>
+      <item id="id1170669397602">Fischer J., Metz M., Cheney D.L., Seyfarth R.M. (2001). Baboon responses to graded bark variants. Animal Behaviour. 61:925-931.</item>
+      <item id="id1170679466572">Gautier J.P., Gautier A. (1977) Communication in old world monkeys. In: Sebeok TA (ed) How animals communicate. InDiana University Press, Bloomington, InDiana, pp890–964 60:155–159.</item>
+      <item id="id1170671603286">Kirchhof J., Hammerschmidt K. (2006). Functionally referential alarm calls in tamarins (Saguinus fuscicollis and Saguinus mystax) - evidence from playback experiments. Ethology. 4:346-354.</item>
+      <item id="id1170666885289">Höner, O. P., Leumann, L. &amp; Noë, R. (1997). Dyadic associations of red colobus (Colobus badius) and Diana monkey (Cercopithecus Diana) groups in the Taï National Park, Ivory Coast. Primates. 38:281-291.</item>
+      <item id="id1170678475380">Hoppe-Dominik B. (1984). Etude du spectre des proies de la panthere (Panthera pardus). dans le Parc National de Ta. 37: 366-376.</item>
+      <item id="id1170666088115">Macedonia, J.M. &amp; Evans, C.S. (1993). Variation among mammalian alarm call systems and the problem of meaning in animal signals. Ethology. 93:177-197.</item>
+      <item id="id1170665553193">Manser M. (2001). The acoustic structure of suricates' alarm calls varies with predator type and the level of response urgency. Proceedings of the Royal Society Biological Sciences Series B. 268:2315-2324.</item>
+      <item id="id1170673842057">Manser M., Bell M.B., and Fletcher L.B. (2001). The information that receiver extract from alarm calls in suricates. Proceedings of the Royal Society B: Biological Sciences. 268:2485-2491.</item>
+      <item id="id1170664760235">Marler, P. (1955). Characteristics of some animal calls. Nature. 176:6-8.</item>
+      <item id="id1170662882024">Noë R., and Bshary R. (1997). The formation of red colobus - Diana monkey associations under predation pressure from chimpanzees. Proceedings of the Royal Society, London, B. 264:253-259.</item>
+      <item id="id1170666413282">“The Old World Monkeys.” <emphasis effect="underline">University of Michigan</emphasis>. 15 November 2008. <link url="http://www-personal.umich.edu/~phyl/anthro/cata.html">http://www-personal.umich.edu/~phyl/anthro/cata.html</link>.</item>
+      <item id="id1170667667617">Owings, D.H., and Hennessy, D.F. (1984). The importance of variation in Sciurid visual and vocal communication. In: The biology of ground dwelling squirrels. (Murie, J.O. &amp; Michener, G.R., eds). University of Nebraska Press, Lincoln, p. 167-201.</item>
+      <item id="id1170662016816">Owings, D.H., and Leger, D.W. (1980). Chatter vocalizations of California ground squirrels: Predator- and social-role specificity. Z. Tierpsych. 54:163-184.</item>
+      <item id="id1170660473002">Owings, D.H., and Virginia, R.A. (1978). Alarm calls of California ground squirrels (Spermophilus beecheyi). Z. Tierpsych. 46:58-70.</item>
+      <item id="id1170679273315">“Primate Phylogeny.” Who Zoo: The Fort Worth Zoo. 15 November 2008. <link url="http://whozoo.org/mammals/Primates/primatephylogeny.htm">http://whozoo.org/mammals/Primates/primatephylogeny.htm</link>.</item>
+      <item id="id1170663460173">Rendall D., Cheney D.L., and Seyfarth R. M. (2000). Proximate factors mediating ‘contact’ calls in adult female baboons (Papio cynocephalus ursinus) and their infants. Journal of Comparative Psychology. 114: 36-46. </item>
+      <item id="id1170661593874">Rendall D. (2003). Long-distance calls in Neotropical Primates. Journal of the Acoustical Society of America. 113:3390-3402.</item>
+      <item id="id1170662168320">Robinson S.R. (1980). Antipredator behaviour and predator recognition in Belding’s ground squirrels. Animal Behaviour. 28:840-852.</item>
+      <item id="id1170661945940">Robinson S.R. (1981). Alarm Communication in Belding’s Ground Squirrels. Zeitschrift Tierpsychology. 56:150-168.</item>
+      <item id="id1170665383231">Seyfarth R.M., Cheney D.L., and Marler P. (1980). Monkey responses to three different alarm calls: evidence of predator classification and semantic communication. Science (Washington DC). 210:801-803.</item>
+      <item id="id1170665374153">Seyfarth R.M., and Cheney D.L. (1986). Vocal development in vervet monkeys. Animal Behaviour. 34:1640-1658.</item>
+      <item id="id1170663619527">Uster D., Zuberbühler K. (2001). The functional significance of Diana monkey 'clear' calls. Behaviour. 138:741-756.</item>
+      <item id="id1170662445642">Zuberbühler K., Noë R., and Seyfarth R.M. (1997). Diana monkey long- distance calls: messages for conspecifics and predators. Animal Behaviour. 53:589–604. </item>
+      <item id="id1170662163048">Zuberbühler K. (1999). The predator deterrence function of primate alarm calls. Ethology. 105:477-490.</item>
+      <item id="id1170673508939">Zuberbühler K., Cheney D.L., and Seyfarth R.M. (1999). Conceptual semantics in a nonhuman primate. Journal of Comparative Psychology. 113:33–42. </item>
+      <item id="id4627468">Zuberbühler K. (2000). Referential labeling in Diana monkeys. Animal Behaviour. 59:917-927.</item>
+      <item id="id1170668597682">Zuberbühler K. (2000). Interspecies semantic communication in two forest primates. Proceedings of the Royal Society B: Biological Sciences. 267:713-718.</item>
+    </list></section>
+    <section id="id6921011">
+      <title>Biography</title>
+      <para id="id1170662327669">My name is Samantha Berkey and I am from Sarasota, Florida. I am a sophomore biology major at Rice University and hope to eventually go to graduate school. I’m very interested in doing research, though I haven’t quite decided whether to go into microbiology and medical research or study animal behavior and evolution. </para>
+    </section>
+  </content>
+</document>

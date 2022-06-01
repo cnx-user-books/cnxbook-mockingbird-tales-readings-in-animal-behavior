@@ -1,0 +1,292 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Why Copy? The Evolution of Mimicry</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34757</md:content-id>
+  <md:title>Why Copy? The Evolution of Mimicry</md:title>
+  <md:abstract>Mimicry, at its most basic, is copying the form, color, or behavior of another species. There is an issue with this phenomenon that often the two or more species in a mimetic system are not closely related at all, which begs the question, evolutionarily speaking, of why these similar forms or behaviors evolve in multiple different groups and species if not from common ancestry? Snakes are a good model for researching and learning about mimetic systems because many types of mimicry are found within the sub-order. Theory states that there are three general strategies of mimicry: defensive, aggressive, and sexual mimicry. According to theory, defensive mimicry is copying another species in order to be less likely preyed upon by another individual and therefore increase survivability. An increase in survivability directly relates to an increase in fitness because the individual will live to have more opportunities to mate. Aggressive mimicry also increases an individual’s fitness by increasing its chances to survive to mate more, but is focused on the capture of prey instead of defense against predators. Sexual mimicry directly increases the individual’s fitness in terms of increasing the number of copulations it participates in.</md:abstract>
+  <md:uuid>b5487014-21d7-4664-a631-daad6b3cac7f</md:uuid>
+</metadata>
+
+<content>
+    
+    
+    <para id="eip-213"><emphasis effect="bold">Author:</emphasis> Michael Schiff</para><section id="id1169809255128"><title>Introduction</title><para id="id1169812278414"> Biological studies today are done under a lens of the theory of evolution by natural selection. This means that populations change over time because the ratios of specific <term>genes</term> within individuals change through time as the environment around that population changes, and that these changes make the individuals in the population better able, in some way, to pass their genes on to the next generation. This leads to the understanding that most genes that are actually expressed in a given individual should generally be adaptive to that individual’s environment because the maladaptive genes would have been outperformed by the adaptive ones through time. Traits can be adaptive in two general ways: either by A) directly increasing the organism’s <term>reproductive success </term>or B) increasing its survivability, which generally leads to an increase in reproductive success. Mimicry is most often adaptive in the latter sense, i.e. that it increases the individual’s chance to survive long enough to reproduce one or more times. For example, a bull snake looking like a rattlesnake increases its survivability because predators are less likely to eat something that looks like a venomous rattlesnake. There is seemingly a contradiction here though, as many forms of mimicry make the organism more susceptible to predation via loud colors or conspicuous displays, such as a king snake mimicking a coral snake. So why should mimicry have evolved in the first place? </para>
+    <example id="fs-id1172462284147">
+      <label>Box</label><title>Coral Snake Mimicry</title>
+      <para id="id1169799313946">The System: There are many species of coral snakes and similarly colored/patterned snakes throughout the tropical and temperate parts of North and South America. Several are extremely venomous, some mildly venomous, and many are non-venomous.</para>
+      <para id="id1169829032713">The Story: When Batesian mimicry was first described, coral snakes and their supposed mimics were often used as seemingly obvious examples. Many non-venomous species seem to suffer less predation due to having similarly colored bands along their bodies as do true coral snakes. However, as more research was performed, the system showed itself to be more complex. In 1878, Fritz Muller suggested another type of mimicry system, Mullerian mimicry (Wickler 1968). This mimicry is basically the same idea as Batesian mimicry except that it extends to mutual mimicry of different venomous species. In short, multiple dangerous species mutually benefit by mimicking each other because it gives each individual less chance of being a "mistake" a predator attacks before learning not to attack species with that pattern because they are venomous. This seemed to apply readily to coral snakes because several of their mimics are also venomous. But then herpetologist Robert Mertens came along and suggested that this is still partly incorrect because the true coral snakes have such potent venom that would-be predators would not survive a defensive bite. Therefore he suggested that it is actually the mildly venomous snakes that are being mimicked by both the true coral snakes and the non-venomous species. This was later labeled as Mertensian mimicry It should however also be noted that many newer studies suggest the similar patterns and coloration of these species to be due to similar environmental factors, not mimicry at all (Herrera, Smith, &amp; Chiszar 1981), and that predators may not avoid true coral snakes at all (Beckers , Leenders &amp; Strijbosch 1996a).</para></example>
+      <para id="id1169799584778">There are several hypotheses around as possible answers to this question. In general they come down to the benefit of mimicking outweighing the cost of being more conspicuous. Also, many mimics (like the bull snake example) are not especially conspicuous compared to non-mimetic relatives, meaning that the cost of mimicking another organism is even lower. There are many different forms of mimicry, but the main categories discussed here will be Batesian mimicry, death feigning, a form of aggressive mimicry called <term>caudal luring</term>, and sexual mimicry. The most common technique for the study of mimetic systems is the comparative method, since most systems involve two or more separate species and the same basic system is found in many groups of animals. However, within species observation and experimental studies are also performed when applicable. Snakes make a great model group for learning about this subject because all of these broad categories can be found within the suborder serpentes. There are a few especially interesting cases of snake mimicry as well.</para>
+    </section>
+    <section id="id1169812999353"><title>Batesian mimicry</title><figure id="id1169821581377"><media id="id1169821581377_media" alt="a picture of an eastern coral snake and a king snake.">
+          <image mime-type="image/png" src="../../media/Picture 6-a2a8.png" id="id1169821581377__onlineimage" height="147" width="307"/>
+        </media>
+      <caption>Eastern Coral Snake, <emphasis effect="italics">Micrurus fulvius</emphasis>, compared to King snake, <emphasis effect="italics">Lampropeltis sp</emphasis>. Photos by Snakecollector on Flickr and *~DAWN~* on flickr respectively.<newline/>
+*See end of reference section for intellectual property </caption></figure>
+      
+      
+      <para id="id1169800163225"> The most well known and extensively studied form of mimicry is a type of defensive mimicry known as <term>Batesian mimicry</term>. It was first described by, and later named for, Henry Bates who proposed mimicry as the reason for unrelated species of butterflies often having very similar patterns. Batesian mimicry is where a member of a palatable species has the same color patterns and/or body size and shape as a non-palatable species. That is to say that a species that predators would have no problem eating mimics a species that is dangerous or distasteful to eat in either looks or behavior, often both. The benefits to the mimic here are relatively obvious. It gains a greatly decreased chance of being preyed upon since predators will associate it with the dangerous or distasteful nature of the mimicked species. The cost-benefit hypothesis therefore asserts that this benefit outweighs whatever cost the mimicry has on the individual. </para>
+      <figure id="id1169813169477"><media id="id1169813169477_media" alt="a cobra">
+          <image mime-type="image/png" src="../../media/Picture 5-b7a9.png" id="id1169813169477__onlineimage" height="276" width="204"/>
+        </media><caption>Bull Snake, Pituophis catenifer sayi. Note that the dorsal markings are similar to those of many rattlesnakes. Photo by Lady Shmee on flickr.</caption>
+      </figure>
+      <para id="id1169825530847">The most well known suggested example of this type of mimicry in snakes is the coral snake and its mimics. However, this system is far more complex than originally thought and is discussed at length in <link target-id="fs-id1172462284147"/>. Another common, and far less complex, system of Batesian mimicry in snakes are the cobras and their mimics. Several species of non-venomous snakes copy the shape of a cobra's hood and strike posture. A further and really excellent example is that of the bull snake, <emphasis effect="italics">Pituophis catenifer sayi</emphasis>, mimicking rattlesnakes in both looks and behavior (Herrera, Smith, &amp; Chiszar 1981). Not only are the two species patterned very similarly, but the rattlesnake covers all of the bull snake’s <term>native range</term>, and the bull snake also vigorously shakes its tail when threatened, even though it lacks the rattlesnake’s rattle. These traits all added together strongly suggest that bull snakes are true Batesian mimics of rattlesnakes. However, there is some concern expressed by a few scientists that rattlesnakes are too venomous to allow predators to learn from “mistakes” (see <link target-id="fs-id1172462284147"/>). It has been strongly suggested though, that a rattlesnake does have control over how much venom it injects with any given strike (see figure 3) and often delivers a “sub-lethal” amount when defending itself (Hayes, LavÆn-Murcio, &amp; Kardong 1995). Recently, it has also been shown using model snakes with distinctively viper-like markings that Batesian mimicry definitely does not need bright warning colors to be effective (see <link target-id="id1169815798847"/>) (Wüster et al. 2004).</para>
+      <para id="id1169798904600">
+        <figure id="id1169798732888"><media id="id1169798732888_media" alt="A chart of the amount of venom expended by different snakes for different prey sizes.">
+            <image mime-type="image/png" src="../../media/Picture 1-70c0.png" id="id1169798732888__onlineimage" height="260" width="435"/>
+          </media>
+        <caption>Amount of venom expended per hit by large and medium rattlesnakes on large and small prey. This figure shows that rattlesnakes inject different amounts of venom depending on prey size. It supports the idea that rattlesnakes have control of some sort on the lethality of a bite. (Recreated from Hayes, Lavin-Murcio &amp; Kardong 1995)</caption></figure>
+      </para>
+      
+      <figure id="id1169815798847"><media id="id1169815798847_media" alt="A chart of the relationship between color and attack rate of different snakes.">
+          <image mime-type="image/png" src="../../media/Picture 2-9296.png" id="id1169815798847__onlineimage" height="294" width="490"/>
+        </media>
+      <caption>Percent of time solid colored model snakes were attacked compared to models of the same base color with viper patterns. This shows that predators learn to avoid venomous snakes without bright warning colors, in support of the hypothesis that bright colors are not necessary for a Batesian mimicry system (Recreated from Wüster et al. 2004).</caption></figure>
+      
+      <para id="id1169812725197">In both these cases, the non venomous snake increases its survivability by mimicking the venomous snake to the point that predators think they are the same species (and therefore themselves venomous). They are very good examples because the mimic does not gain any conspicuous colors that would hinder it from catching prey or make it more likely to be spotted by would be predators. There are two other forms of defensive mimicry that are subtypes of Batesian mimicry called <term>Mullerian mimicry</term> and <term>Mertensian mimicry</term>, which are forms of defensive mimicry between multiple venomous species and are explained with the coral snake mimics in <link target-id="fs-id1172462284147"/>.</para>
+    <example id="fs-id1172465984269">
+      <label>Box</label><title>Olfactory Mimicry</title>
+      <para id="id1169830907119">Another possible type of defensive mimicry is <term>olfactory mimicry</term>. It has been shown in the past that a few plants mimic the smell of dead meat or female insects to attract pollinators into the flowers. However, many scientists were skeptical of the possibility for defensive mimicry based solely on olfactory cues without any visual ones. In 1975, James A. Czalpicki and his colleagues performed an experiment that showed olfactory mimicry could theoretically serve as a form of defense (Czalpicki, Porter, &amp; Wilcoxon 1975). During the experiment, several garter snakes were divided into two groups. Members of both groups were mostly fed minnows, but they were also fed night crawler worms on occasion. The experimental group was given a small dose of lithium chloride, which would make them mildly ill, while the control group was injected with saline solution. The results showed that the experimental group later rejected minnows that were dipped in “night crawler surface extract” so they smelled like the worms, but didn’t reject regular minnows. The control group did not reject the minnows that smelled like worms. Also, as a further experiment, they ran the same test but included some minnows made to smell like salamanders, without injection of LiCl, which neither group rejected. This showed that the experimental group rejected the earlier minnows because they smelled specifically like night crawlers and not because they smelled different from their normal meals for the previous several weeks. It seems though, that there have not been any cases found in the wild were olfactory mimicry is used by a species specifically for defensive purposes to date.</para></example>
+    </section>
+    <section id="id1169823555744"><title>Death Feigning</title><para id="id1169799284986"> Another interesting defensive mimicry behavior in snakes is the well known death feigning of American hognose snakes, <emphasis effect="italics">Heterodon spp</emphasis>. When threatened, a hognose snake flips onto its back and starts writhing around as if it is about to die from serious illness. This is followed by bloating and excretion (Munyer 1967). The snakes perform this display in water as well as on land, but tend to move more quickly to bloating and stillness when in water. When flipped back upright, the snake immediately flips onto its back again and continues the bluff. But what evolutionary purpose does death feigning really have? One possible explanation, and the most likely for hognose snakes, is that feigning death in such a dramatic and disturbing way will make the predator think that the snake has a disease or parasites and will not eat it for that reason (Milius 2006). It has also been discussed with insect and fish species that feigning death can provide defense by way of the bad odor emitted by many species displaying this behavior or can even be a form of aggressive mimicry that lures unsuspecting scavengers near the organism, which then 'comes back to life' and eats them. Some cases of similar behavior have been misinterpreted as death feigning, but are actually a form of defense where the bloating of the individual just makes it hard to swallow.</para>
+<figure id="eip-id2773047"><media id="eip-id1172301812537" alt="A hognose snake feigning death by rolling over and regurgitating its last meal."><image mime-type="image/png" src="../../media/snakess1.png"/></media>
+      <caption>Hognose snake, Heterodon sp, feigning death by rolling over and regurgitating its last meal. Photo by Benimoto on Flickr.</caption></figure>
+
+<table id="id1169829035710" summary=""><tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>General Type of Mimicry</entry>
+              <entry>Specific type of Mimicry</entry>
+              <entry>Species</entry>
+            </row>
+            <row>
+              <entry>Defensive Mimicry</entry>
+              <entrytbl namest="c2" nameend="c3" cols="2">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <tbody>
+                  <row>
+                    <entry>Batesian Mimicry</entry>
+                    <entry>Bull Snake, False Cobra</entry>
+                  </row>
+                  <row>
+                    <entry>Death Feigning</entry>
+                    <entry>Eastern Hognose Snake</entry>
+                  </row>
+                  <row>
+                    <entry>Mullerian Mimicry</entry>
+                    <entry>Certain Asiatic Pitvipers </entry>
+                  </row>
+                  <row>
+                    <entry>Mertensian Mimicry</entry>
+                    <entry>Coral Snake*</entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+            </row>
+            <row>
+              <entry>Aggressive Mimicry</entry>
+              <entrytbl namest="c2" nameend="c3" cols="2">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <tbody>
+                  <row>
+                    <entry>Caudal luring</entry>
+                    <entry>Pygmy Rattlesnake, Green Tree Python, Puerto Rican Racer</entry>
+                  </row>
+                  <row>
+                    <entry>Lingual luring</entry>
+                    <entry>Garter Snakes</entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+            </row>
+            <row>
+              <entry>Sexual Mimicry</entry>
+              <entry>Female Mimicry</entry>
+              <entry>Garter Snakes</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      <caption>lists the six most common categories of mimicry among snakes (in order of when discussed in the paper) and species that are examples of that mimicry. <newline/>
+*Similar color patterns in coral snakes and would-be mimics may be a result of other shared environmental factors besides warning colors.</caption></table>
+      
+      
+    </section>
+    <section id="id1169813187356">
+      <title>Caudal Luring</title>
+      
+      <para id="id1169825720482">One of the types of mimicry that is increasingly being studied within the past two decades is caudal luring. This is a form of aggressive mimicry where an individual uses its tail to mimic the shape and movements of a species eaten by their prey, most often worms or insect larvae, in order to attract a meal. This is done by the strategically moving its tail back and forth in a specific way meant to look like the mimicked species, often with their body hidden. Caudal luring is most well known among pit-vipers but has also been shown to happen in pythons and boas (Murphy, Carpenter, &amp; Gillingham 1978) and colubrids (Tiebout 1997 and Barun, Perry, Henderson, &amp; Powell 2007). In his paper, Tiebout explains that the occurrence of caudal luring in colubrid snakes that share ranges with rattlesnakes opposes the hypothesis that rattle snake rattles evolved from small nubs on snake tails used in caudal luring. He states that given this evidence, the other hypothesis for rattles: that they evolved from a hard tail nub used to rub against grass and leaves to ward off danger, is much more likely. A few interesting studies on the subject have shown that younger snakes are much more likely to caudal lure than adults (Rabatsky &amp; Farrell 1996b and Rabatsky &amp; Waterman 2005). However, the reasons for this are still somewhat unclear. It has been suggested that the type of prey has a significance caudal luring, where younger snakes generally eat lizards, frogs, and large insects that would likely prey on worms and larvae, but it was shown that pygmy rattlesnakes, <emphasis effect="italics">Sistrurus miliarius</emphasis>, which still eat these prey items even as adults, also generally stop caudal luring upon reaching adulthood. In their 2005 paper, Rabatsky and Waterman also tested a hypothesis made by Neill that males of sexually dimorphic species that perform caudal luring, such as pygmy rattlesnakes, will have better success rates than females. The theory is that a longer tail segment in males compared to females will be better able to mimic movements of different types of organisms, and therefore will seem more desirable or more realistic to the intended prey. In support of the hypothesis, they found that it took juvenile males less than half the time it took juvenile females, on average, to lure prey within striking distance while caudal luring, as shown in <link target-id="id1169809903208"/> (although only one individual prey was attacked within a 30 minute trial period).</para>
+    
+    <example id="fs-id1169318634791">
+      <label>Box</label><title>Lingual Luring</title>
+      <para id="id1169813185834">While garter snakes, <emphasis effect="italics">Thamnophis spp</emphasis>, are much better known in terms of mimicry for often being sexual mimics, some have been found to perform an unusual form of aggressive mimicry known as lingual luring (Welsh &amp; Lind 2000b). Lingual luring is very similar to caudal luring except an individual flicks its tongue against the water instead of waving its tail in the air or along the ground. Most other characteristics of the two are generally the same, and they are both used to mimic the snake’s prey’s prey. However, while caudal luring has been observed in some lizards, lingual luring has not to date. Lingual luring is distinguishable from normal tongue flicking by the position of the tongue and duration of flicking. Also the authors show that like caudal luring, lingual luring is almost exclusively done by juvenile snakes, not adults. Lingual luring is best known in a slightly different form used by alligator snapping turtles, <emphasis effect="italics">Macrochelys temminckii</emphasis>, where the shape of the tongue mimics prey much like in caudal luring by snakes and lizards.</para></example>
+      <figure id="id1169809903208"><media id="id1169809903208_media" alt="A chart of the amount of time spent by different aged snakes in luring prey into striking range.">
+          <image mime-type="image/png" src="../../media/Picture 3-d255.png" id="id1169809903208__onlineimage" height="297" width="465"/>
+        </media>
+      <caption>Approximate median amount of time spent caudal luring by each age-gender group of pygmy rattlesnakes to lure prey into striking range. No caudal luring behavior was displayed by any adult snakes, male or female (Recreated from Rabatsky &amp; Waterman 2005). </caption></figure>
+      
+<example id="fs-id1169322259430"><label>Box</label><title>Competitive Mimicry</title>
+<para id="fs-id1169313616219">In a 2007 paper, Meredith Rainey and Gregory Grether explained another possible classification of mimicry that is often left out of other mimicry classifications and research. They argued that competitive mimicry, or mimicking another species to gain access to resources over a competitor, should be included in these lists. According to the paper, there are three types of <term>competitive mimicry</term>: mimicking a non-competitor, mimicking the competitor itself, and mimicking a competitor’s predator (Rainey &amp; Grether 2007b). Mimicking a non-competitor is said to be beneficial because a competitor will not see you as a threat and will either share the resource or can be surprise attacked for it. An example given is some surgeonfish mimic angelfish in order to not be attacked by damselfish when invading the damselfish’s territory. A possible reason to mimic a competitor is if the competitor uses display against its own species during disputes, but fights against other species. This would allow the mimic, win or lose, to avoid costly battles with the mimicked species. Due to the complex nature of this form of mimicry, natural examples are not perfectly clear. The reasons for mimicking a competitor’s predator are obvious in that the mimic can scare off the competitor without costly displays or battles. Burrowing owls can make a hissing sound that sounds very similar to rattlesnakes and has been shown to scare away rodents from burrows that were too large for the owls to easily kill themselves.</para></example>
+      <para id="id1169816920986">Most of the species that have been found to use caudal luring are terrestrial species, but some arboreal species have been shown to use this as well (Murphy, Carpenter, &amp; Gillingham 1978). It has also been shown that many of the species that use caudal luring have tails that are a slightly different color or are brighter than the rest of their bodies, especially as juveniles. Caudal luring does come with a cost, though. Puerto Rican racers, <emphasis effect="italics">Alsophis portoricensis</emphasis>, were found to have much more tail damage than is normally found in non-caudal luring species (Barun, Perry, Henderson, &amp; Powell2007). This means that it is highly likely that many snakes are attacked by lured prey before successfully killing them. Also, it is highly possible that predation is higher in species with brightly colored tails used for caudal luring than it otherwise would be because the combination of bright color and conspicuous tail movement will make them easier to spot than similar species that don't perform caudal luring. Another possible form of aggressive mimicry in snakes is known as “lingual luring” (see <link target-id="fs-id1169318634791"/>).</para>
+    </section>
+    <section id="id1169812728613">
+      <title>Sexual Mimicry</title>
+      <para id="id1169831496244">Sexual mimicry, or mimicking an individual of the opposite sex, is different from most other forms of mimicry because the individual is mimicking another individual of its own species as opposed to one of a different species. Sexual mimicry is also one of the hardest forms of mimicry to understand because it seems to have very small benefits compared to the costs of posing as a member of the opposite sex. In snakes, the most well studied system of sexual mimicry is female mimicry among male garter snakes, <emphasis effect="italics">Thamnophis spp</emphasis>. Certain males will give off pheromones that are very similar to the ones produced by females (Shine, O’Connor, &amp; Mason 2000a).</para>
+      <para id="id1169811049753"> The costs to this form of mimicry are relatively high, however, because the female mimics will often be courted by other males. This would not seem to be such a big cost in most mammal or bird courtship systems, but in garter snakes, the males form a large, writhing mass around the female, where the stronger ones can get closest to the female and therefore have the best chance of mating with it. While serious injury is rare for the female (or female mimic) being courted, it is still somewhat physically hard on the individual. So what could the benefits of female mimicry in garter snakes be that can outweigh these costs? Shine and his colleagues found several things that seem to help explain this phenomenon. One is that female mimics tend to be smaller than many other males. Another is that a large number of female mimics were found covered with soil compared to non-mimics. Being covered in soil at time of observation means the individual more likely emerged from hibernation closer to that time than a clean male.</para>
+      <figure id="id1169812732157"><media id="id1169812732157_media" alt="A garter snake.">
+          <image mime-type="image/png" src="../../media/Picture 8-a848.png" id="id1169812732157__onlineimage" height="191" width="289"/>
+        </media>
+      <caption>Two-striped Garter snake, <emphasis effect="italics">Thamnophis hammondii</emphasis>. Photo by rmceoin on Flickr.</caption></figure>
+      
+      <para id="id1169811063422">These two general characteristics of female mimics show a likely reason for its benefit to the mimic. A small male is not very likely to reach the female in a mating ball. Also, males that emerge from hibernation late are also less likely to reach a female during courtship because so many other males will already be present in the courtship site. However, when a small, late emerging male mimics a female, it can move through the mating ball with relative ease, only having to fend off courting males who are much less likely to hurt a female they are courting than a competing male. By being able to reach the female, the female mimic greatly increases its chances to mate.</para>
+      <para id="id1169813173506">But reaching the female isn’t the only obstacle to overcome in a garter snake mating-ball. The male must also be able to get the female receptive enough to mate. However, it was recently shown that the female may have less choice than previously thought. Although female garter snakes tend to be larger than males, especially female mimicking ones, and female mimics are more likely to court a large female than a small one (Shine, O’Connor, &amp; Mason 2000a), males do have a distinct way to forcibly copulate with females (Shine, Langkilde, &amp; Mason 2003). By pressing against the side of a female during courtship, the male can contract its muscles in certain ways that presses against the female’s lungs and invokes a defensive response from the female due to a lack of oxygen (see <link target-id="id1169799493258"/>). During this response, the female’s <term>cloaca</term> opens and excretes musk and excrement. This would very often get rid of a predator trying to attack the female, but the male uses the opportunity to forcibly inseminate the female with his sperm. Thus by mimicking a female and exploiting the anatomy of the species, a small male that emerges from hibernation relatively late can inseminate a female and pass on his genes to the next generation.</para>
+      <figure id="id1169799493258"><media id="id1169799493258_media" alt="A chart of the volume of air in two different garter snakes lungs.">
+          <image mime-type="image/png" src="../../media/Picture 4-904d.png" id="id1169799493258__onlineimage" height="283" width="472"/>
+        </media>
+      <caption>Mean volume fo air in lungs of two female garter snakes, Thamnophis sirtalis parietali, before and during courtship by several males (Recreated from Shine, Langkilde, &amp; Mason 2003). The graph shows that females being courted by males lose a significant amount of air in their lungs during courtship. This loss of air is thought to be caused by the males in order to forcibly inseminate the female.</caption></figure>
+      
+    </section>
+    <section id="id1169800259180"><title>Discussion Questions</title><list id="eip-id1169442322100" list-type="enumerated">
+          <item id="id1169814946745">Why would mimicking a brightly colored venomous species not be entirely beneficial?</item>
+        
+          <item id="id1169811017674">Why would a venomous species mimic another species that is less venomous?</item>
+        
+          <item id="id1169824496442">How would wriggling one’s tail help attract prey to eat?</item>
+        
+<item>
+          <para id="id1169813086502">What costs and benefits are likely to exist for having a tail that is more conspicuous than the rest of a snake’s body?</para>
+      <para id="id1169819785333">
+        <figure id="id1169813186836"><media id="id1169813186836_media" alt="A green snake.">
+            <image mime-type="image/jpg" src="../../media/Picture 9-f3d8.jpg" id="id1169813186836__onlineimage" height="423" width="564"/>
+          </media>
+        </figure>
+      </para>
+</item></list>
+    </section>
+    <section id="id1169799336383"><title>Glossary</title><list id="eip-id7648597"><item id="id1169813673635"><term>Aggressive Mimicry</term>- Having a similar appearance or behavior to another species which increases the ability of the individual to acquire food or other resources.</item>
+      <item id="id1169827377873"><term>Batesian Mimicry</term>- Having a similar appearance or behavior to another species that is dangerous or unpalatable which decreases the individual's likelihood of being preyed upon, even if it doesn't have the trait that coincides with the mimicked trait.</item>
+      <item id="id1169799994023"><term>Caudal Luring</term>- A form of aggressive mimicry in which a snake or lizard wiggles its tail to look like an insect larvae or worm in order to attract prey.</item>
+      <item id="id1169813099649"><term>Cloaca</term>- The orifice near a snake's tail used for excretion of feces and urine as well as for mating.</item>
+      <item id="id1169799736616"><term>Competitive Mimicry</term>- Having a similar appearance or behavior to another species in order to better access or defend resources.</item>
+      <item id="id1169817860401"><term>Defensive Mimicry</term>- Having a similar appearance or behavior to another species which decreases the chance of an individual being attacked by a predator.</item>
+      <item id="id1169805488345"><term>Sexual Mimicry</term>- Having a similar appearance or behavior to the opposite sex or another species in order to increase the individual's likelihood of mating.</item>
+      <item id="id1169813158049"><term>Fitness</term>: An individual's ability to pass their genes on to the next generation. </item>
+      <item id="id1169812279927"><term>Gene</term>- An amount of DNA such that it is likely to be inherited intact by the next generation during reproduction.</item>
+      <item id="id1169811004118"><term>Lingual Luring</term>- A form of aggressive mimicry in which an individual flicks its tongue against the surface of a body of water to simulate a small insect in order to attract prey.</item>
+      <item id="id1169811085086"><term>Mertensian Mimicry</term>- Having a similar appearance or behavior to another species that is less dangerous than the individual because the predators learn not to attack organisms with that trait from the non-lethal species.</item>
+      <item id="id1169819822055"><term>Mimicry</term>- Having a similar appearance or behavior to another individual which increases an organism's fitness in some way because it is mistaken for the individual being mimicked.</item>
+      <item id="id1169827230436"><term>Mullerian Mimicry</term>- Mutual mimicry between two or more unpalatable species which decreases any given individual's likelihood of being the 'mistake' a predator learns to avoid the shared trait from.</item>
+      <item id="id1169813690014"><term>Native Range</term>- The area in which a given species is known to naturally occur.</item>
+      <item id="id1169811024766"><term>Olfactory Mimicry</term>- Having a similar smell to an individual of another species or another object in order to attract pollinators or possibly to repel predators</item>
+      <item id="id1169813040846"><term>Reproductive Success</term>- The number of an individual's genes passed on during reproduction to offspring that have the ability to reproduce.</item>
+    </list></section>
+    <section id="id1169824608295"><title>References</title><list id="eip-id1166657276231" list-type="labeled-item"><item>
+<para id="id1169813067485">Barun A, Perry G, Henderson RW, Powell R. 2007a. Alsophis portoricensis anegadae (Squamata: Colubridae): Morphometric Characteristics, Activity Patterns, and Habitat Use. Copeia. 2007(1): 93-100</para>
+
+      <para id="id1169832590217">This article is used to point out some of the apparent costs of caudal luring.</para>
+</item>
+<item>
+      <para id="id1169813120549">Beckers GJL, Leenders TAAM, Strijbosch H. 1996a. Coral Snake Mimicry: Live Snakes Not Avoided by a Mammalian Predator. Oecologia. 106 (4): 461-463</para>
+      <para id="id1169821486322">This article discusses the function of brightly colored bands in supposed coral snake mimics and whether or not this can be considered true Batesian mimicry.</para>
+</item>
+<item>
+      <para id="id1169813168693">Czalpicki JA, Porter RH, Wilcoxon HC. 1975. Olfactory Mimicry Involving Garter Snakes and Artificial Models and Mimics. Behaviour. 54: 60-71</para>
+</item>
+<item>
+      <para id="id1169812714032">Downes SJ. 2002. Size-dependent predation by snakes: selective foraging or differential prey vulnerability? Behavioral Ecology. 13 (4): 551-560</para>
+</item>
+<item>
+      <para id="id1169799137920">Edgren RA, Edgren MK. 1955. Experiments on Bluffing and Death-Feigning in the Hognose Snake Heterodon platyrhinos. Copeia. 1955(1): 2-4</para>
+      <para id="id1169805741999">Early paper about mimicking dangerous snakes by hissing and striking as well as feigning death in eastern hognose snakes.</para>
+</item>
+<item>
+      <para id="id1169799571843">Hagman M, Phillips BL, Shine R. 2008a. Tails of enticement: caudal luring by an ambush foraging snake (Acanthophis praelongus, Elapidae). Functional Ecology. 22: 1134-1139</para>
+</item>
+<item>
+      <para id="id1169819094041">Hayes WK, Lavin-Murcio P, Kardong KV. 1995. Northern Pacific Rattlesnakes (Crotalus viridis oreganus) Meter Venom When Feeding on Prey of Different Sizes. Copiea. 1995 (2): 337-343</para>
+      <para id="id1169821319867">Provides evidence that Rattlesnakes can control amount of venom used per bite. Used to show evidence that rattlesnakes can inject non-lethal amounts of venom and therefore be the base species to a Batesian mimicry system.</para>
+</item>
+<item>
+      <para id="id1169817860734">Herrera OS, Smith HM, Chiszar D. 1981. Another Suggested Case of Ophidian Deceptive Mimicry. Transactions of the Kansas Academy of Science. 84 (3): 121- 127</para>
+      <para id="id1169799590274">Suggests mimicry of rattlesnakes by bull snakes, keeping in mind that similar appearances and behaviors may stem from having similar environmental pressures.</para>
+</item>
+<item>
+      <para id="id1169814545874">Milius S. 2006a. Why Play Dead? Science News. 170 (18): 280-281</para>
+      <para id="id1169806697345">This article explains why animals like the hognose snake would want to feign death, with new possible reasons besides the well known ones.</para>
+</item>
+<item>
+      <para id="id1169805459946">Munyer EA. 1967. Behavior of an Eastern Hognose Snake, Heterodon platyrhinos, in Water. Copeia. 1967(3): 668-670</para>
+      <para id="id1169806956139">Another article on feigning death in hognose snakes. Used to show that when flipped upright, the snake will often flip back over even though this makes it seem less dead.</para>
+</item>
+<item>
+      <para id="id1169811009554">Murphy JB, Carpenter CC, Gillingham JC. 1978. Caudal Luring in the Green Tree Python, Chondropython viridis (Reptilia, Serpentes, Boidae). Journal of Herpetology. 12 (1): 117-119</para>
+</item>
+<item>
+      <para id="id1169833776920">Pasteur G. 1982. A Classificatory Review of Mimicry Systems. Annual Review of Ecology and Systematics. 13: 169-199</para>
+</item>
+<item>
+      <para id="id1169808681496">Rabatsky AM, Farrell TM. 1996b. The Effects of Age and Light Level on Foraging Posture and Frequency of Caudal Luring in the Rattlesnake, Sistrurus miliarius barbouri. Journal of Herpetology. 30 (4): 558-561</para>
+      <para id="id1169830858998">Discusses how younger snakes are more likely to use caudal luring to ambush food than older ones.</para>
+</item>
+<item>
+      <para id="id1169812969125">Rabatsky AM, Waterman JM. 2005. Ontogenetic Shifts and Sex Differences in Caudal Luring in the Dusky Pygmy Rattlesnake, Sistrurus miliarius barbouri. Herpetologica. 61 (2): 87-91</para>
+      <para id="id1169811268435">Suggests that longer tails in sexually dimorphic species can cause an increased success rate from caudal luring for the larger sex.</para>
+</item>
+<item>
+      <para id="id1169812247672">Rainey MM, Grether GF. 2007b. Competitive Mimicry: Synthesis of a Neglected Class of Mimetic Relationships. Ecology. 88 (10): 2440-2448</para>
+</item>
+<item>
+      <para id="id1169813150074">Reiserer RS, Schuett GW. 2008b. Aggressive mimicry in neonates of the sidewinder rattlesnake, Crotalus cerastes (Serpentes: Viperidae): stimulus control and visual perception of prey luring. Biological Journal of the Linnean Society. 95: 81-91</para>
+</item>
+<item>
+      <para id="id1169811486865">Sanders KL, Malhotra A, Thorpe RS. 2006b. Evidence for a Mullerian Mimetic Radiation in Asian Pitvipers. Proceedings: Biological Sciences. 273 (1590): 1135-1141</para>
+      <para id="id1169798970938">Suggests that pitvipers in southeast asia have similar markings even when in different habitats because of Mullerian Mimicry. Used as a source for Mullerian mimicry data as well as example species for Mullerian mimicry besides coral snake patterned snakes.</para>
+</item>
+<item>
+      <para id="id1169813606528">Sazima I. 1991. Caudal Luring in Two Neotropical Pitvipers, Bothrops jararaca and B. jararacussu. Copeia. 1991 (1): 245-248</para>
+</item>
+<item>
+      <para id="id1169812999469">Sazima I, Puorto G. 1993. Feeding Technique of Juvenile Tropidodryas striaticeps: Probable Caudal Luring in a Colubrid Snake. Copeia. 1993 (1): 222-226</para>
+</item>
+<item>
+      <para id="id1169829182278">Shine R, Langkilde T, Mason RT. 2003. Cryptic Forcible Insemination: Male Snakes Exploit Female Physiology, Anatomy, and Behavior to Obtain Coercive Matings. The American Naturalist. 162 (5): 653-667</para>
+      <para id="id1169800042103">Male garter snakes mimic females in order to increase chances of mating.</para>
+</item>
+<item>
+      <para id="id1169812747144">Shine R, O’Connor D, Mason RT. 2000a. Female Mimicry in Garter Snakes: Behavioral tactics of “she-males” and the males that court them. Canadian Journal of Zoology. 78 (8): 1391-1396</para>
+      <para id="id1169811010457">An in-depth look at the behavior of female mimicry in garter snakes.</para>
+</item>
+<item>
+      <para id="id1169806702671">Tiebout HM. 1997. Caudal Luring by a Temperate Colubrid Snake, Elaphe obsoleta, and Its Implications for the Evolution of the Rattle among Rattlesnakes. Journal of Herpetology. 31 (2): 290-292</para>
+      <para id="id1169817231657">Found another Colubrid snake that exhibits caudal luring and discusses how this negatively affects the hypothesis that rattlesnake rattles were evolved from a tail segment meant to aid in caudal luring instead of from a small hardened tail tip for shaking substrate.</para>
+</item>
+<item>
+      <para id="id1169813070084">Welsh HH, Lind AJ. 2000b. Evidence of Lingual-Luring by an Aquatic Snake. Journal of Herpetology. 34 (1): 67-74</para>
+      <para id="id1169808918598">Provides evidence that some aquatic species of snakes practice lingual-luring, a type of aggressive feeding mimicry that is employed by some birds and other aquatic reptiles.</para>
+</item>
+<item>
+      <para id="id1169811016721">Wickler W. 1968. Mimicry in Plants and Animals. New York: McGraw-Hill</para>
+      <para id="id1169830963194">A broad overview of different forms of mimicry described by 1968, useful for background information.</para>
+</item>
+<item>
+      <para id="id1169813073483">Wüster W, et al. 2004. Do Aposematism and Batesian Mimicry Require Bright Colours? A Test, Using European Viper Markings. Proceedings: Biological Sciences. 271 (1556): 2495-2499</para>
+      <para id="id1169813051311">Gives evidence that while Batesian mimicry is generally associated with bright warning colors, there is a decrease in predator attacks on non-venomous species that mimic venomous snakes lacking bright warning colors.</para></item></list></section>
+<section id="fs-id1169313564958"><title>Images</title><para id="id1169813128586">All photo images (except for figure number 9 which was taken by the author) are subject to the Creative Commons Attribution 2.0 Generic license where they can be used and redistributed by anyone as long as they are attributed to the original author/creator. See complete rules/details here: http://creativecommons.org/licenses/by/2.0/ </para>
+      <para id="id1169800025715">Attributions are in the caption for each image and full links to their source can be found below.</para>
+
+<list id="eip-id1172302096622">
+      <item id="id1169816881425">Eastern Coral snake, Micrurus fulvius, By snakecollector: http://www.flickr.com/photos/8373783@N07/2562524532/in/photostream/</item>
+      <item id="id1169813042095">King snake, Lampropeltis sp, By *~Dawn~*: http://www.flickr.com/photos/naturesdawn/4111830224/ </item>
+      <item id="id1169803851744">Bull Snake, Pituophis catenifer sayi, By Lady Shmee: http://www.flickr.com/photos/medusasnail/3090855675/ </item>
+      <item id="id1169813126755">Hognose Snake, Heterodon sp, By Benimoto: http://www.flickr.com/photos/benimoto/2788651836/</item>
+      <item id="id1169799846246">Two-striped Garter snake, Thamnophis hammondii, By rmceoin: http://www.flickr.com/photos/rmceoin/3207412781/ </item></list></section>
+<section id="fs-id1169322471944">
+      <title>Biography</title>
+<figure id="fs-id1169314132078"><media id="fs-id1169329410474" alt="portrait of the author"><image src="../../media/mschiff.png" mime-type="image/png" width="200px"/></media></figure>
+      <para id="id1169812210702">Michael Schiff is currently a junior working towards a Bachelor of Science degree in Ecology and Evolutionary Biology at Rice University. He was born in Los Angeles, CA but raised in Las Vegas, NV. Michael spent the first two years of college at the University of Arizona, where as a freshman he studied for a B.S. in Aerospace Engineering, but quickly switched to Environmental Biology because engineering was too focused on the business side of science and bored him compared to his lifelong fondness for the natural and life sciences. He also found a severe dislike for calculus and physics, which would be essential to an engineering career. After receiving his degree, Michael hopes to move on to a career in either animal keeping and enrichment or environmental consulting for at least a few years before possibly attending graduate school. His hobbies include visiting zoos, computer games, and archery.</para>
+    </section>
+  </content>
+</document>

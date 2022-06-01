@@ -1,0 +1,307 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Host Interaction and Regulation in Parasitoid Wasps</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34732</md:content-id>
+  <md:title>Host Interaction and Regulation in Parasitoid Wasps</md:title>
+  <md:abstract>Parasitoid wasps exhibit a wide range of interactions with hosts.  In order to successfully parasitize their hosts, wasps must overcome their host’s immune response and a number of ecological constraints.  Consequently, parasitoid wasps have evolved a variety of developmental strategies to effectively exploit their host.  The evolution of parasitoid diversity in wasps can be explained by tracing the evolutionary history of these organisms and understanding the ecological factors that affect parasitoid development.  Developmental strategies differ among species of parasitoid wasps with respect to these evolutionary and ecological factors.  Parasitoid wasps use various physiological and molecular tools to escape their host’s immune response.  While some species use passive mechanisms to avoid recognition, other species produce factors that suppress or destroy the host’s immunity.  Venoms from female parasitoid wasps are injected into the host to disrupt host development, while symbiotic polydnaviruses (PDVs) are used to infect host tissues and similarly suppress the host’s immune system.  Analysis of the different mechanisms of wasp parasitism provides valuable insight to the evolution of biological diversity in this group of insects.</md:abstract>
+  <md:uuid>a20c6b97-b865-49da-b639-5f46439d8213</md:uuid>
+</metadata>
+
+<content>
+    
+    
+    
+    
+    <para id="eip-897"><emphasis effect="bold">Author:</emphasis> Jennifer Pan</para>
+    <section id="id1163932680282">
+      <title>Introduction</title>
+      <para id="id1163937710382">Successful <term>parasitism</term> by insect parasitoids is a complex evolutionary process. The <term>parasitoid</term> insect must locate a host, overcome the host immune response, and adapt to a constantly changing environment to satisfy the metabolic and nutritional needs of the immature parasitoid. Parasitic organisms have diverse origins and have evolved a variety of developmental strategies to exploit their host (Brodeur and Boivin, 2004). While several orders of insects include parasitoids, the <term>Hymenoptera</term> are a particularly diverse order of <term>holometabolous</term> insects that are abundant in terrestrial areas throughout the world (Whitfield, 1998). Parasitoid <term>wasps</term> belong to the Hymenoptera order and are important for biological control since they reduce pest populations by parasitizing various species of insects. Not only are they ecologically important, parasitoid wasps greatly contribute to insect diversity. Recent estimates indicate that around 10% to 20% of all insects are parasitoid wasps (Quicke, 1997). Just as they demonstrate extensive species diversity, parasitoid wasps display a wide variety of interactions with their hosts. </para>
+      <para id="id1163936237820">Wasps commonly parasitize other insects by attacking a particular host life stage, such as the eggs, larvae, pupae, or adults. Parasitoids are classified into two groups: <term>idiobionts</term> and <term>koinobionts</term>. The difference between these two types is that a host ceases to develop after being infested by an idiobiont, whereas a host will continue to develop after being infested by a koinobiont (Askew and Shaw, 1986). Iodobionts are either <term>ectoparasitoids</term> that develop outside the host or <term>endoparasitoids</term> that develop inside the host. Koinobionts are usually endoparasitoids of <term>larval stage</term> insects, and only a few are ectoparasitic. Both ectoparasitoids and endoparasitoids have developed a variety of strategies to escape or overcome their host’s immunity defenses and regulate the host’s physiology to allow for their own development (Beckage and Gelman, 2004).</para>
+      <para id="id1163929350198">Understanding the evolution of parasitoid wasps is essential to explaining the observed diversity of relationships between parasitoid wasps and their hosts. The interactions between parasitoids and hosts are primarily controlled by genetic factors. Therefore in order to understand the occurrence of parasitoid diversity we must trace the evolutionary history of these organisms by considering the ecological constraints that affect parasitoid development and the observed physiological traits parasitoids use to infest other organisms (Pennacchio and Strand, 2006). This paper will focus on the evolution of the parasitoid lifestyle, ecological constraints that shape parasitoid development, methods of host location and oviposition, and the physiological tools parasitoid wasps use to regulate their hosts. </para>
+    </section>
+    <section id="id1163938121975"><title>Evolution of Parasitoid Lifestyle</title><para id="id1163939506851"> Hymenopteran insects first appear in the fossil record around 220 million years ago and the first parasitoids appear around 160 million years ago (Whitfield, 1998). The evolution of hymenopteran insects paralleled that of plants and other insects. As <term>angiosperms</term> became increasingly diversified, the Hymenoptera underwent substantial radiation such that all the major lineages of Hymenoptera present today exist by 65 million years ago (Whitfield, 1998). </para>
+      <para id="id1163937609132">Recent studies of hymenopteran <term>phylogeny</term> have used comparative <term>morphology</term> and DNA sequencing to provide a thorough understanding of this order (Whitfield, 1998). Phylogenetic hypotheses have since been formulated to investigate the evolution of various parasitoid lifestyles. Current evidence indicates that parasitism evolved once in a common ancestor of the Orrussoidea and <term>Apocrita</term>. After the occurrence of the original life history transition, many developmental strategies that facilitate parasitism have evolved independently multiple times (Whitfield, 1998).</para>
+      
+      <figure id="id1163933072906" orient="horizontal"><subfigure id="eip-id1167273922537"><media id="id1163933072906_media" alt="Female parasitoid wasp">
+          <image mime-type="image/jpg" src="../../media/930085269_2e5006c447.jpg" id="id1163933072906__onlineimage" height="249" width="235"/></media></subfigure><subfigure id="eip-id1167275003479"><media id="eip-id1167273888188" alt="Female parasitoid wasp">
+<image mime-type="image/jpg" src="../../media/egss into aphids2.jpg"/>
+        </media></subfigure>
+      
+           
+        <caption>Examples of parasitoid wasps. (a) Female parasitoid wasp using ovipositor to inject her eggs into moth pupa; (b) Female parasitoid wasp injecting her eggs into aphids.</caption></figure>
+      
+      <para id="id1163933811587">Orrussoids and several basal apocritan lineages share biological habits and developmental strategies, tending to be ectoparasitic idiobionts of beetles. Thus, the ancestral parasitoid was most likely an ectoparasitic idiobiont that lived on concealed wood-boring beetle larvae (Wharton, 1993). Developmental strategies evolved after the original appearance of ectoparasitic idiobionts. The Ichneumonoidea is divided into the Braconidae and Ichneumonidae. While most ectoparasitic ichneumonoids are idiobonts that develop on concealed hosts, a few groups, such as the Polysphinctini, are koinobionts that parasitize mobile hosts such as spiders (Shaw, 1994). Many aculeates are ectoparasitic idiobionts or have evolved closely related developmental strategies. Novel habits such as pollination, predation, and sociality also evolved in the aculeates (Whitfield, 1998).</para>
+      <figure id="id1163932232521"><media id="id1163932232521_media" alt="a chart of Phylogentic hypotheses">
+          <image mime-type="image/jpg" src="../../media/Whitman phylogeny.jpg" id="id1163932232521__onlineimage" height="425" width="419"/>
+        </media>
+      <caption>Phylogentic hypothesis for the Hymenoptera based on current evidence (Courtesy of Whitfield, 1998).</caption></figure>
+      
+      
+      <table id="id1163929296237" summary=""><tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>SuborderSuperfamily</entry>
+              <entry>Estimated number of species</entry>
+              <entry namest="c3" nameend="c4">Biological habits and developmental strategies</entry>
+            </row>
+            <row>
+              <entry>Symphyta</entry>
+              <entry namest="c2" nameend="c3"/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Xyeloidea</entry>
+              <entry namest="c2" nameend="c3">60</entry>
+              <entry>Phytophagous as immature</entry>
+            </row>
+            <row>
+              <entry>Megalodontoidea</entry>
+              <entry namest="c2" nameend="c3">300</entry>
+              <entry>Phytophagous as immatures</entry>
+            </row>
+            <row>
+              <entry>Tenthredinoidea</entry>
+              <entry namest="c2" nameend="c3">7,000</entry>
+              <entry>Phytophagous as immatures, some gallformers, some predators as adults</entry>
+            </row>
+            <row>
+              <entry>Cephoidea</entry>
+              <entry namest="c2" nameend="c3">100</entry>
+              <entry>Stem-boring herbivores as immatures</entry>
+            </row>
+            <row>
+              <entry>Siricoidea</entry>
+              <entry namest="c2" nameend="c3">200</entry>
+              <entry>Phytophagous and mycophagous as immatures</entry>
+            </row>
+            <row>
+              <entry>Orussoidea</entry>
+              <entry namest="c2" nameend="c3">70</entry>
+              <entry>Idiobiont ectoparasitoids of beetles(Buprestidae)</entry>
+            </row>
+            <row>
+              <entry>Apocrita</entry>
+              <entry namest="c2" nameend="c3"/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Stephanoidea</entry>
+              <entry namest="c2" nameend="c3">100</entry>
+              <entry>Idiobiont ectoparasitoids of wood-boringbeetles and wasps</entry>
+            </row>
+            <row>
+              <entry>Megalyroidea</entry>
+              <entry namest="c2" nameend="c3">100</entry>
+              <entry>Ectoparasitic idiobionts of beetles</entry>
+            </row>
+            <row>
+              <entry>Trigonalyoidea</entry>
+              <entry namest="c2" nameend="c3">100</entry>
+              <entry>Parasitoids oviposit on plants. Eggs eaten byLepidoptera but only develop if lepidopteranlarva is parasitized and thus developendoparasitically, possibly ashyperparasitoids</entry>
+            </row>
+            <row>
+              <entry>Aculeata</entry>
+              <entry namest="c2" nameend="c3">92,000</entry>
+              <entry>Basal lineages idiobiont ectoparasitoids. Nestprovisioning with adults providing multipleprey to offspring that feed as ectoparasitoidsalso common. Other species are predators orpollin/nectar feeders; many social species</entry>
+            </row>
+            <row>
+              <entry>Evanioidea</entry>
+              <entry namest="c2" nameend="c3">1,200</entry>
+              <entry>Ectoparasitic idiobionts or cleptoparasites(Gasteruptiidae), endoparasitic koinobionts ofbeetles (Aulacidae), or egg predators(Evaniidae)</entry>
+            </row>
+            <row>
+              <entry>Ceraphronoidea</entry>
+              <entry namest="c2" nameend="c3">2,000</entry>
+              <entry>Both ectoparasitic and endoparasitic; biologypoorly known</entry>
+            </row>
+            <row>
+              <entry>Ichneumonoidea</entry>
+              <entry namest="c2" nameend="c3">100,000</entry>
+              <entry>Basal lineages ectoparasitic idiobionts;multiple origins of endoparasitic koinobionts;polydnaviruses associated with selectedadvanced lineages</entry>
+            </row>
+            <row>
+              <entry>Chalcidoidea</entry>
+              <entry namest="c2" nameend="c3">100,000</entry>
+              <entry>Extremely diverse habits that includeectoparasitism, endoparasitism, predation,gall formation, seed feeding, and other formsof phytophagy</entry>
+            </row>
+            <row>
+              <entry>Platygastroidea</entry>
+              <entry namest="c2" nameend="c3">10,000</entry>
+              <entry>Endoparasitic idiobionts of eggs (Scelionidae)or endoparasitic koinobionts of larvae(Platygastridae)</entry>
+            </row>
+            <row>
+              <entry>Cynipoidea</entry>
+              <entry namest="c2" nameend="c3">4,000</entry>
+              <entry>Basal lineages of endoparasitic koinobiontsthat complete their development asectoparasitoids. Derived lineages includeendoparasitic koinobionts (Figitidae) or gallformers (Cynipidae)</entry>
+            </row>
+            <row>
+              <entry>Proctotrupoidea</entry>
+              <entry namest="c2" nameend="c3">6,000</entry>
+              <entry>Endoparasitic koinobionts of diverse hosts</entry>
+            </row>
+            <row>
+              <entry>Total</entry>
+              <entry namest="c2" nameend="c3">280–320,000</entry>
+              <entry>More than 75% of known species areparasitoids</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      <caption>Species richness and biological habits of the major superfamilies of Hymenoptera (Courtesy of Pennacchio and Strand 2006).</caption></table>
+      <para id="id1163937386604">*Data extracted from Whitfield 1998, Whitefield 2003 and Dowton 2001</para>
+    </section>
+    <section id="id1163931360380"><title>Ecological Constraints and Parasitoid Development</title><para id="id1163931021907"> Parasite lineages tend to parallel those of their hosts (Brooks and McLennan, 1993). A number of studies have shown patterns of coevolution between parasitoid wasps and their hosts. Fig-pollinating wasps, which originated from a parasitoid ancestor, appear to have evolved in response to their host plants (Machado et al., 2001). </para>
+      
+      <figure id="id1163937092249"><media id="id1163937092249_media" alt="a diagram of Co-speciation of figs and their pollinators">
+          <image mime-type="image/jpg" src="../../media/Picture 14.jpg" id="id1163937092249__onlineimage" height="415" width="650"/>
+        </media>
+      <caption>Co-speciation of figs and their pollinators (Courtesy of Cook and Rasplus, 2003). Phylogenies of <emphasis effect="italics">Ceratosolen</emphasis> pollinators show significant congruence with their host figs.</caption></figure>
+      <para id="id1163931353389">The relationship between parasitoid and host is attributed to mortality risk (Strand, 2000). A trade-off exists between size and development time – an organism must choose between growing larger at the cost of greater mortality risk due to increased development time and developing rapidly to reduce mortality risk at the cost of reduced size (Abrams, 1996). Thus, conditions that increase development time increase risk of mortality for both the host and parasitoid. Because of this trade-off, parasitoids that face high mortality risk favor shorter development times and are smaller. Conversely, species that face low mortality risks favor size at the cost of increased development time. Parasitoids that attack exposed species appear to experience higher levels of intraguild competition than parasitoids that attack concealed hosts (Blackburn, 1991). In response to this increase in mortality risk, parasitoids that attack exposed hosts have shorter development times.</para>
+      
+      <example id="eip-184"><label>Box</label><title>Nonpollinating Fig Wasps</title>
+<para id="eip-983">
+  Although this paper focuses on parasitism of insect hosts, wasps also parasitize plants. Like many other mutualisms, the fig-pollinator association has been exploited by wasp parasites (Yu, 2001). One fig species can host up to 30 different species of nonpollinating fig wasps. Niche space within the syconium is separated by different subsets of flowers, timing of oviposition, and by larval diets. Nonpollinating fig wasps can be split into different functional groups (Cook and Rasplus, 2003):
+</para>
+<list id="id1163941755266" list-type="bulleted">
+        <item>Large gall-inducers and their parasitoids: these wasps are much larger than pollinator wasps and oviposit from outside the syconium at or before pollination.</item>
+        <item>Small gall-inducers: these wasps oviposit from outside at or mostly after pollination, but the wasps are similar in size to the pollinations. </item>
+        <item>Internal parasites: these wasps only occur in the old World and enter figs along with similar sized pollinators.</item>
+      </list>
+      <para id="id1163937924677">It has been hypothesized that figs do not exclude nonpollinating fig wasps because defenses against these parasitoid wasps might also exclude necessary pollinators (Cook and Rasplus, 2003). Some parasitoid wasps use the same cues as pollinators to oviposit at the same time, and defenses against these wasps might come at the cost of attracting pollinators to disperse seeds. </para>
+</example>
+      <para id="id1163932913840">Another factor related to development time is fecundity. Parasitoids must compensate for the increase in mortality risk that accompanies host exposure. Therefore, parasitoid fecundity is expected to rise as opportunities of finding hosts increases and the probability of offspring surviving to adulthood declines (Price, 1980). Early host stages such as eggs and young larvae are more abundant and exposed than later host stages, so parasitoids that attack young hosts are expected to have larger fecundities than those who attack older hosts. Conversely, parasitoids that attack concealed hosts are predicted to have lower fecundities (Price, 1980). As predicted, wasps that parasitize young larvae are associated with higher fecundities and are typically endoparasitic koinobionts, while wasps that parasitize pupae are associated with lower fecundities and are typically idiobionts (Mayhew and Blackburn, 1999).</para>
+      <para id="id1163933266202">Examination of phylogenetic data and ecological constraints on parasitoid wasps reveals three main points. The first is that ectoparasitic idiobionts provided the original framework for parasitoid lifestyle from which other developmental strategies evolved. The second is that endoparasitoids developed physiological responses to overcome host immune and developmental factors, which allowed for greater specialization in endoparasitoid wasps. Finally, ecological factors such as host mortality risks have affected developmental traits such as offspring development times and parasitoid fecundities (Pennacchio and Strand, 2006).</para>
+    </section>
+    <section id="id1163933215348"><title>Host Location and Oviposition</title><para id="id1163940798489"> Once an adult parasitoid wasp emerges from its host, it must have an efficient way of finding its next host. Parasitoid wasps respond to a series cues to locate their next potential host. The adult parasitoid is able to determine the general area of their host using various environmental cues, namely temperature, shade or humidity, and semiochemicals associated with plants or other organisms in the place where the host might occur. Thus, adult parasitoids respond to either physical or chemical stimuli associated with the host’s habitat (Gauld and Bolton 1988). This response has been observed in numerous studies of braconids. The braconid <emphasis effect="italics">Cardiochiles nigriceps</emphasis>, which parasitizes budworms, have been shown to respond to lighting cues in order to determine their host’s location. In an experiment conducted by Vinson, <emphasis effect="italics">C. nigriceps</emphasis> eagerly searched for tobacco plants in sunlit places but rarely visited the same plants if they were located in heavily shaded areas (Vinson 1975). </para>
+      <para id="id1163930901005">The majority of parasitoid wasps locate hosts by responding to particular chemical stimuli, such as chemicals emitted from the host’s food source. For example, Read and colleagues found that the aphidiine braconid <emphasis effect="italics">Diaretiella rapae</emphasis>, which parasitizes the cabbage aphid, is attracted to the odor of brassicas, the aphid’s food source (Read et al 1970). As a result of parasitoid reliance on physical or chemical cues, hosts that feed on relatively unusual foodplants can escape parasitism. Salt examined the ability of the parasitoid <emphasis effect="italics">Cotesia glomerata</emphasis> to locate and attack the larvae of their host, the cabbage butterfly <emphasis effect="italics">Pieris brassicae</emphasis>, based on the host’s source of food<emphasis effect="italics">. C. glomerata</emphasis> easily located and parasitized pierid larvae when they fed on their normal foodplant, cabbage. However, the pierid larvae were able to escape parasitism by this parasitoid wasp if the larvae developed on sea rocket or on capers (Salt 1958). </para>
+      <para id="id1163939900628">Once a female parasitoid has located a potential host, she chooses whether or not to lay eggs on or inside the host using host-associated semiochemical cues. She initially examines the host by doing a simple physical exam using her antennae. As a result, the size, shape and surface texture of the prospective host are important characteristics involved in eliciting an oviposition response. Many females then probe the prospective host with their ovipositor and use semiochemical cues to determine that the correct host has been located prior to oviposition (Gauld and Bolton 1988). </para>
+      
+      
+      <example id="eip-417"><label>Box</label><title>Beneficial Branconids</title>
+<para id="eip-253">
+  Braconidae is one of the largest families of parasitic wasps in the Hymenoptera and is estimated to include at least 40,000 species, although only about a 15,000 of these species have been described. The Braconidae family has been divided into about 35 subfamilies, and the subfamilies of greatest interest are: Agathidinae, Alysiinae, Blacinae, Braconinae, Doryctinae, Euphorinae, Homolobinae, Microgastrinae, and Opiinae (Quick 1997). Wasps belonging to the Braconidae family exclusively parasitize other insects and are therefore greatly beneficial for pest control. Braconids are found throughout the world, but most species prefer warm, dry climates. As a result, braconids have been extensively used in biological control programs in tropical and subtropic areas (Gauld and Bolton 1988). 
+</para>
+<para id="id1163930220840">The braconid wasp Toxoneuron nigriceps is an endoparasitoid of the tobacco budworm that uses polydnaviruses, to control its host’s development. After T. nigriceps injects venom containing polydnavirus into its host, teratocytes produce a chitinase just before the parasitoid larva emerge from the host. The chitinase is involved in facilitating the emergence of parasitoid larva by digesting the host cuticle since parasitoid larva lack mandibular apparatus (Consoli et al 2005).</para>
+      <para id="id1163938123791">In addition to polydnaviruses in the female ovary, several different types of virus-like particles (VLPs) have been discovered in the accessory glands of various braconid species. In a recent study by Luo and Zeng (Luo and Zeng 2010) a new rod-shaped virus was found in the accessory gland filaments of the parasitoid wasp D. longicaudata. This braconid parasitizes several species of fly pests and has been used to control fly populations in Thailand. </para>
+    </example></section>
+    <section id="id1163939616412"><title>Venom and its Impact on Host Regulation</title><para id="id1163940447759">In order to successfully parasitize the host, parasitoid wasps must generate and release gene products at oviposition that alter the physiology of the host (Vinson and Iwantsh, 1980). One of the most important morphological adaptations in Hymenoptera that arose to accommodate parasitoid lifestyle was the venom gland (Quicke, 1997). All female hymenopterans internally store poisonous venom in their ovaries and secretory organs. The venom gland appears to produce factors that are injected into hosts or prey that can also be injected into intruders as defensive secretions. Ectoparasitic idiobionts inject venom into hosts that is often paralytic and causes developmental arrest of the host, which benefits the externally developing parasite (Doury et al., 1995). Parasitoid wasps produce a wide range of venoms that could serve as models for developing synthetic chemical insecticides.</para>
+      <para id="id1163934602420">One species that has been extensively studied for its venom is the fly ectoparasitoid <emphasis effect="italics">Nasonia vitripennis</emphasis>. This parasitoid wasp feeds and lays eggs on large flesh fly pupae. Adult females of this species inject venom prior to oviposition and the envenomated fly eventually dies from venom toxicity (Danneels et al 2010). </para>
+      <para id="id1163931067792">
+        <figure id="id1163937949156"><media id="id1163937949156_media" alt="Female Nasonia vitripennis injecting venom in a pupa of the bloyfly">
+            <image mime-type="image/png" src="../../media/Picture 2-d092.png" id="id1163937949156__onlineimage" height="326" width="346"/>
+          </media>
+        <caption>Female Nasonia vitripennis injecting venom in a pupa of the bloyfly Calliphora vomitoria. (Picture courtesy of Professor Dirk C. de Graaf)</caption></figure>
+      </para>
+      
+      <example id="eip-id1169453487495"><label>Box</label><title>Ovarian Antidote to Deadly Venom</title>
+      <para id="id1163941648704">Female parasitoids produce and release venom in order to regulate their host’s immunity and physiology. The venom is injected along with the parasitoid egg during oviposition, and in many species of ichneumonid and braconid families, symbiotic polydnaviruses or virus-like particles are also injected at oviposition as agents of controlling the host’s physiology. In a study on the effects of parasitism by Asobara japonica on Drosophila melanogaster larvae, this parasitoid wasp demonstrated a unique means of avoiding encapsulation, using both venom and ovarian fluids to foster the success of parasitoid development (Mabiala-Moundoungou et al 2010). </para>
+      <para id="id1163929267498">A. japonica venom is injected by the female wasp into fly larvae at oviposition and induces permanent paralysis followed by death of M. melanogaster larvae (Mabiala-Moundoungou et al 2010). However, these paralytic effects can be reversed by injection of ovarian extracts from female wasps. Thus, the venom of the endoparasitoid can have a deadly effect on hosts, but ovarian extracts can act as an antidote and reverse the effects of the parasitoid wasp’s venom. This finding shows that A. japonica produces factors from both the venom gland and ovary that are required to regulate host physiology in a synergistic manner. </para></example>
+      <para id="id1163942753052">The venom secreted by <emphasis effect="italics">Nasonia vitripennis</emphasis> is lethal to a wide range of manure-breeding flies and the common house fly<emphasis effect="italics">, Musca domestica</emphasis>, which is a major vector of human disease. The venom is also toxic to multiple developmental stages of several mosquitoes that are vectors of diseases such as malaria, encephalitis, yellow fever and West Nile fever (Rivers 2004). The evenomation of the host fly results in a number of changes in the fly’s physiology that leads to cell death. David B. Rivers and his colleagues performed bio-assays of <emphasis effect="italics">Nasonia</emphasis> venom and found that the venom operates by nonparalytic means to induce arrested development in evenomated hosts. The venom was found to alter the fly’s lipid metabolism, leading to lipid accumulation in the host fat body, and change plasma membrane permeability leading to an increase in sodium influx. Venom also suppressed the host fly’s immune response and was essential for successful parasitization by the developing wasp larvae (Rivers et al 2002). </para>
+      <para id="id1163932409632">A powerful weapon of parasitization, venom has evolved to produce both immunosuppressive and stimulatory properties to create the optimal host environment for parasitoid offspring. In order to maximize progeny production, female parasitoids must regulate the host without totally suppressing the host’s physiology and creating an unregulated host environment. Should the host become immune-compromised, the parasitoid’s progeny is subjected to unregulated microbrial attack and invasion. Thus, the female wasp must evade the host immune response without compromising the host’s immune system. To accomplish this difficult task, parasitoid wasps use a venomous mixture that includes virus-like particles, such as the <term>polydnavirus</term>, at the time of oviposition to subdue the host (Danneels et al 2010).</para>
+      <para id="id1163930834935">The shift from ectoparasitism to endoparasitism has greatly diversified developmental strategies among parasitoid wasps as novel traits evolved in response to offspring developing inside the host (Pennacchio and Strand, 2006). In order to evade the host’s immunity reaction of encapsulation, some species release “hidden-self” recognition molecules so that the parasitoid egg or larva avoids recognition and attack from host <term>hemocytes</term> (Schmidt and Strand, 2001). Other species have evolved mechanisms of inhibiting or destroying the host’s cellular immunity system (Strand and Pech, 1995). Endoparasitoid wasps regulate the host’s physiology either by targeting hormones or the <term>hemolymph</term> protein content of the parasitized host (Bae and Kim, 2004). These parasitoids produce and release active factors in the host hemocoel that may be synthesized by the female parasitoid in venom glands and injected along with the parasitoid egg during oviposition, or they may be released by the offspring during the course of development (Mabiala-Moundoungou et al., 2010). Many species of the ichneumonid and braconid families use symbiotic polydnaviruses (PDVs) to infect the host tissues and control the host’s physiology with the acquired virus (Schmidt et al., 2001). </para>
+    </section>
+    <section id="id1163933829268">
+      <title>Conclusion</title>
+      <para id="id1163932917450">Hymenopteran insects show an immense range of biological diversity and employ various strategies to escape or overcome their host’s immunity defenses and regulate their host’s physiology to foster the success of their own development. The presence of parasitoid wasp diversity can be better understood by tracing the evolution of the parasitoid lifestyle and discussing the ecological constraints on parasitoid development. In addition, analyzing of the different mechanisms of wasp parasitism sheds light on the evolution of biological diversity in this group of insects. Although a great amount of research has been done on wasp venom and related symbiotic polydnaviruses used to infect host tissues, these re remains plenty of room for research on these secretions. Parasitoid wasps produce a wide range of venoms that could serve as models for developing synthetic chemical insecticides and effectively reduce the spread of human diseases via insect vectors. Parasitoid wasps are a diverse and fascinating group of insects that continue to have a significant global impact. </para>
+    </section>
+    <section id="id1163935826204"><title>Discussion Questions:</title><list id="eip-id1167282856481" list-type="enumerated" number-style="arabic"><item id="id1163933081960">What factors select for the evolution of a parasitoid lifestyle?</item>
+       
+     
+          <item id="id1163929996171">Why would an ectoparasitoid lifestyle evolve before an endoparasitoid lifestyle?</item>
+      
+          <item id="id1163939260792">What are the advantages of having a parasitoid lifestyle over a predatory lifestyle?</item>
+        
+          <item id="id1163940637646">What are the dangers of having a parasitoid lifestyle?</item>
+        
+          <item id="id1163937682602">What defense mechanisms can hosts utilize to escape parasitism? </item>
+      </list>
+    </section>
+    <section id="id1163939379970"><title>Glossary</title><list id="eip-id1165629827608">
+      <item id="id1163940953040"><term>Angiosperms</term>- A plant that produces flowers.</item>
+      <item id="id1163938376956"><term>Apocrita</term>- A suborder of insects in the order Hymenoptera that includes wasps, bees and ants.</item>
+      <item id="id1163929376363"><term>Ectoparasitoid</term>- A parasitoid that develops on the outside of the host’s body.</item>
+      <item id="id1163930709772"><term>Endoparasitoid</term>- A parasitoid that develops inside the host’s body. </item>
+      <item id="id1163931178009"><term>Hemocytes</term>- A cell that plays a role in the immune system of invertebrates; phagocytes found within the hemolymph of invertebrates.</item>
+      <item id="id1163933797424"><term>Hemolymph</term>- The liquid that fills the interior of the body and surrounds all cells in arthropods; analogous to the fluids and cells that comprise blood in higher animals.</item>
+      <item id="id1163939272895"><term>Holometabolous</term>- A term applied to insect groups that exhibit complete metamorphism in which the insect undergoes a series of physical changes during development; includes four life stages – an embryo, a larva, a pupa, and an adult.</item>
+      <item id="id1163936411698"><term>Hymenoptera</term>- one of the largest orders of insects; comprised of sawflies, wasps, bees, and ants</item>
+      <item id="id1163930970028"><term>Idiobiont</term>- A parasitoid whose host ceases to develop after parasitism.</item>
+      <item id="id1163935694898"><term>Koinobionts</term>- A parasitoid whose host continues to develop as the parasitoid’s offspring matures.</item>
+      <item id="id1163938679087"><term>Larval stage</term>- A distinct juvenile stage in an insect’s life that occurs before it undergoes metamorphosis into an adult.</item>
+      <item id="id1163930930803"><term>Morphology</term>- Descriptive structures used to identify an insect.</item>
+      <item id="id1163932713626"><term>Parasitism</term>- A type of relationship between different organisms wherein on organism benefits at the expense of the host.</item>
+      <item id="id1163940208555"><term>Parasitoid</term>- An organism that lives internally or externally on its host and ultimately kills its host. </item>
+      <item id="id1163940988991"><term>Phylogeny</term>- A tool that shows the evolutionary relatedness among various organisms.</item>
+      <item id="id1163939105709"><term>Polydnavirus</term>- A type of insect virus that is secreted with venom at the time of oviposition and aids in immune suppression of the host.</item>
+      <item id="id1163940558593"><term>Wasp</term>- Any insect of the order Hymenoptera and suborder Apocrita that is neither a bee nor ant.</item>
+    </list></section>
+    <section id="id1163931013918"><title>References</title><list id="eip-id1166735084069" list-type="labeled-item"><item id="id1163940125920">Abrams PA, Rowe L. 1996. The effects of predation on the age and size of maturity of prey. Evolution. 50:1052-61.</item>
+      <item id="id1163933239662">Asgari S, Theopold U, Welby C, Schmidt O. 1998. A protein with protective properties against the cellular defense reactions in insects. Developmental Biology. 95:3690-3695. </item>
+      <item id="id1163933889678">Askew RR, Shaw MR. 1986. Parasitoid communities: their size, structure and development. See Ref. 155, pp. 225-63.</item>
+      <item id="id8945941">Bae S, Kim Y. 2004. Host physiological changes due to parasitism of a braconid wasp. Cotesia plutellae, on diamondback moth, Plutella xylostella. Comparative Biochemistry and Physiology Part A. 138: 39-44.</item>
+      <item id="id1163930145054">Beckage NE, Gelman DB. 2004. Wasp parasitoid disruption of host development: implications for new biologically based strategies for insect control. Annual Review of Entomology. 49:299-330.</item>
+      <item id="id1163930846064">Beckage NE, Kanost MR. 1993. Effects of parasitism by the braconid wasp Cotesia congregate on host hemolymph proteins of the tobacco hornworm, Manduca sexta. Insect Biochemistry and Molecular Biology. 23:643-653.</item>
+      <item id="id1163939506934">Bigot Y, Drezen JM, Sizaret PY, Rabouille A, Hamelin MH, et al. 1995. The genome segments of DpRv, a commensal reovirus of the wasp Diadromus pulchellus (Hymenoptera). Virology. 210:109-19.</item>
+      <item id="id1163942114455">Blackburn TM. 1991. A comparative examination of life-span and fecundity in parasitoid Hymenoptera. Journal of Animal Ecology. 60:151-64.</item>
+      <item id="id1163932037441">Blum MS. 1978. Biochemical defenses of insects. In: Rockstein M. Biochemistry of insects. London: Academic Press. pp. 465-513. </item>
+      <item id="id1163929860169">Bosch R, Messenger PS, and Gutierrez AP. 1982. An Introduction to Biological Control. Plenum Press, New York and London. </item>
+      <item id="id1163935223422">Brodeur J, Boivin G. 2004. Functional ecology of immature parasitoids. Annual Review of Entomology. 49:27-49.</item>
+      <item id="id1163936868961">Brooks DR, McLennan DA. 1993. Parascript: Parasites and the Language of Evolution. Washington, DC: Smithson. Inst. </item>
+      <item id="id1163932916811">Clausen CP. 1976. Phoresy among the entomophagous insects. Annual Review of Entomology. 21:343-68.</item>
+      <item id="id1163930755086">Cook JM, Rasplus JY. 2003. Mutualists with attitude: coevolving fig wasps and figs. Trends in Ecology and Evolution. 18:241-248</item>
+      <item id="id1163933769938">Consoli FL, Brandt SL, Coudron TA, Vinson SB. 2005. Host regulation and release of parasitism-specific proteins in the system Toxoneuron nigriceps-Helitohis virescens. Comparative Biochemistry and Physiology. 142: 181-191. </item>
+      <item id="id1163930018559">Danneels EL, Rivers DB, de Graaf DC. 2010. Venom Porteins of the Parasitoid Wasp Nasonia vitripennis: Recent Discovery of an Untapped Pharmacopee. Toxins. 2: 494-516. </item>
+      <item id="id1163930698791">Dani MP, Richards EH, Edwards JP. 2004. Venom from the pupal endoparasitoid, Pimpla hypochondriaca, increases the susceptibility of larval Laconobia oleracea to the entomopathogens Bacillus cereus and Beauveria bassiana. Journal of Invertebrate Pathology. 86:19-25. </item>
+      <item id="id1163937161024">De Lima PR, Brochetto-Braga MR. 2003. Hymenoptera venom review focusing on Apis mellifera. Journal of Venomous Animals and Toxins including Tropical Diseases. 9:149-62.</item>
+      <item id="id1163934600783">Donnell DM. 2004. Vitellogenin of the parasitoid wasp, Encarsia Formosa (Hymenoptera: Aphelinidae): gene organization and differential use by members of the genus. Insect Biochemical and Molecular Biology. 34:951-61. </item>
+      <item id="id1163930009344">Doury G, Bigot Y, Periquet G. 1997. Physiological and biochemical analysis of factors in the female venom gland and larval salivary secretions of the ectoparasitoid wap Eupelmus orientalis. Journal of Insect Physiology. 43:69-81. </item>
+      <item id="id8699965">Dowton M, Austin AD. 2001. Simultaneous analysis of 16S, 28S, CO1 and morphology in the Hymenoptera: Apocrita-evolutionary transitions among parasitic wasps. Biologic Journal of the Linnean Society. 74:87-111.</item>
+      <item id="id1163935017561">Dupas S, Brehelin M, Frey F, Carton Y. 1996. Immune suppressive virus-like particles in a Drosophila parasitoid: significance of their intraspecific morphological variations. Parasitology. 113:207-12.</item>
+      <item id="id1163933244305">Gauld ID. 1988. Evolutionary patterns of host utilization by ichneumonid parasitoids. Biological Journal of Linnean Society. 35:351-77.</item>
+      <item id="id1163939622945">Gauld I and B Bolton. 1988. The Hymenoptera. Oxford University Press, New York, New York.
+      <para id="eip-id1172302577504"><space count="5"/>*This was an extremely helpful book that provides an overview of Hymenoptera and descriptions of Hymenopteran families.</para></item>
+      <item id="id1163933262738">Heimpel GE, Collier TR. 1996. The evolution of host-feeding behavior in insect parasitoids. Biological Reviews 71:373-400. </item>
+      <item id="id1163936417245">Knop-Wright MM, Coudron TA, Brandt SL. 2001. Ecological and physiological relevanc e of biochemical changes in a host as a result of parasitism by Euplectrus spp: a case study. See Ref. 47, pp. 153-75. </item>
+      <item id="id1163929074889">Lawrence PO, Akin DB. 1990. Virus-like particles from the poison glands of the parasitic wasp Biosteres longicaudatus (Hymenoptera: Braconidae). Canadian Journal of Zoology. 68:539-46.</item>
+      <item id="id8647157">Luo L and Zeng L. 2010. A new rod-shaped virus from parasitic wasp Diachasmimorpha longicaudata (Hymenoptera: Braconidae). Journal of Invertebrate Patholology. 102: 165-169.
+      <para id="eip-id1720396"><space count="5"/>*A new and interesting paper on Virus-Like Particles in parasitoid wasps</para></item>
+      <item id="id1163935467597">Mabiala-Moundoungou AD, Doury G, Eslin P, Cherqui A, Prevost G. 2010. Deadly venom of Asobara japonica parasitoid needs ovarian antidote to regulate host physiology. Journal of Insect Physiology. 56:35-41.
+      <para id="eip-id1172302716793"><space count="5"/>*A very interesting paper that provides new and interesting information about parasitoid venom</para></item>
+      <item id="id1163929073913">Machado CA, Jousselin E, Kjellberg F, Compton SG, Herre EA. 2001. Phylogenetic relationships, historical biogeography and character evolution of fig-pollinating wasps. Proceeding of the Royal Society B. 268:685-94. </item>
+      <item id="id1163931211159">Mayhew PJ. Blackburn TM. 1999. Does development mode organize life-history traits in the parasitoid Hymenoptera? Journal of Animal Ecology. 68:906-19.</item>
+      <item id="id1163938855416">Pennacchio F, Strand MR. 2006. Evolution of Developmental Strategies in Parasitic Hymenoptera. Annual Review of Entomology. 51:233-258. </item>
+      <item id="id1163939463796">Price PW. 1980. Evolutionary Biology of Parasites. Princeton, NJ: Princeton University Press.</item>
+      <item id="id1163938751014">Read DP, Feeny PP and Root RB. 1970. Habitat selection by the aphid parasite Diaeretiella rapae (Hymenoptera: Braconidae) and hyperparasite Charips brassicae (Hymenoptera: Cynipidae). Canadian Entomologist. 102: 1567-1578.</item>
+      <item id="id6190646">Rivers DB. 2004. Evaluation of host responses as means to assess ectoparasitic pteromalid wasp’s potential for controlling manure-breeding flies. Biologic Control. 30:181-192.</item>
+      <item id="id1163935499269">Rivers DB, Denlinger DL. 1994. Redirection of metabolism in the flesh fly, Sarcophaga bullata, following envenomation by the ectoparasitoid, Nasonia vitripennis, and correlation of metabolic effects with the diapauses status of the host. Journal of Insect Physiology. 40: 207-15.</item>
+      <item id="id1163929483679">Rivers, DB, Ruggiero, L, Hayes, M. 2002. The ectoparasitic wasp Nasonia vitripennis (Walker) (Hymenoptera: Pteromalidae) differentially affects cells mediating the immune response of its flesh fly host, Sarcophaga bullata Parker (Diptera: Sarcophagidae). Journal of Insect Physiology. 48: 1053-1064.</item>
+      <item id="id1163932229109">Rosenberg LA, Glusman JG, Libersat F. 2007. Octopamine partially restores walking in hypokinestic cockroaches stung by the parasitoid wasp Ampulex compressa. Journal of Experimental Biology. 210:4411-4417.</item>
+      <item id="id1163941488495">Salt G. 1958. Parasite behavior and the control of insect pests. Endeavour. 17:145-148.</item>
+      <item id="id1163940769353">Schmidt O, Theopold U, Strand M. 2001. Innate immunity and its evasion and suppression by hymenopteran endoparasitoids. Bioessays. 23:344-51.</item>
+      <item id="id1163939047841">Shaw M. 1994. Parasitoid host ranges. In Parasitoid Community Ecology, ed. BA Hawkins, W Sheehan, pp. 111-14. Oxford: Oxford University Press.</item>
+      <item id="id1163930730438">Stouthamer R, Breeuwer JAJ, Hurst GDD. 1999. Wolbachia pipientis: microbial manipulator of arthropod reproduction. Annual Review of Microbiology. 53:71-102.</item>
+      <item id="id1163933233907">Strand MR. 2000. Life history variation and developmental constraints in parasitoids. In Population Biology of Parasitoids, ed. M Hochberg, AR Ives, pp. 139-62. Princeton, NJ: Princeton University Press.</item>
+      <item id="id1163940896200">Strand MR. 2002. The interactions between larval parasitoids and their hosts. In Behavioral Ecology of Parasites, ed. M Sukdeo, J Campbell, E Lewis, pp. 129-52. London:CBA.</item>
+      <item id="id1163930958325">Strand MR, Pech LL. 1995. Immunological compatibility in parasitoid-host relationships. Annual Review of Entomology. 40:31-56. </item>
+      <item id="id1163934580920">Vinson SB. 1975. Biochemical coevolution between parasitoids and their hosts. Evolutionary Strategies of Parasitic Insects and Mites. 14-48.</item>
+      <item id="id1163930043538">Vinson SB, Iwantsch GF. 1980. Host regulation by insect parasitoids. Quarterly Review of Biology. 55:143-65. </item>
+      <item id="id1163929305791">Waage JK, Godfray HCJ. 1985. Reproductive strategies and population ecology of insect parasitoids. Behavioural Ecology: Ecological Consequences of Adaptive Behavior. pp. 449-70.</item>
+      <item id="id1163930972638">Weisel-Eichler A, Haspel G, Libersat F. 1999. Venom of a parasitoid wasp induces prolonged grooming in the cockroach. Journal of Experimental Biology. 202:957-64.</item>
+      <item id="id1163933830111">Wharton RA. 1993. Bionomics of the Braconidae. Annual Review of Entomology. 38:121-43.</item>
+      <item id="id1163930833891">Whitfield JB. 1998. Phylogeny and evolution of host-parasitoid interactions in Hymenoptera. Annual Review of Entomology. 43:129–51.</item>
+      <item id="id1163937928818">Whitfield JB. 2002. Estimating the age of the polydnavirus/braconid wasp symbiosis. Proceeding of the National Academy of Sciences USA. 99:7508-13. </item>
+      <item id="id1163939100178">Whitfield JB, Asgari S. 2003. Virus or not? Phylogenetics of polydnaviruses and their wasp carriers. Journal of Insect Physiology. 49:391-405</item>
+      <item id="id1163931576052">Quicke DLJ. 1997. Parasitic Wasps. London: Chapman &amp; Hall.
+      <para id="eip-id1172302700600"><space count="5"/>*This book is a good introduction to parasitoid lifestyle and should be reviewed before exploring the more complicated aspects of parasitism.</para></item>
+      <item id="id1163931088405">Yu DW. 2001. Parasites of mutualisms. Biological Journal of Linnean Society in London. 72:529-546.</item>
+      <item id="id1163937968529">Zchori-Fein E, Perlman SJ, Kelly SE, Katzir N, Hunter MS. 2004. Characterization of a ‘Bacteroidetes’ symbiont in Encarsia wasps (Hymenoptera: Aphelinidae): proposal of Çandidatus Cardinium hertigii.’ International Journal of Systematic and Evolutionary Microbiology. 54:961-68.</item>
+    </list></section>
+    <section id="id1163932969014"><title>About the Author</title><para id="id1163938955158"> Jennifer Tina Pan is a graduating senior at Rice University currently living in Oak Park, California. Originally born in Houston, TX, Jennifer’s family moved to California when she was four years old. A rambunctious and energetic child, Jennifer began playing various sports at the age of five and eventually focused on tennis at the age of ten. Among her friends, Jennifer was called “Panda Express” for being the token Asian girl on the team. Their team made it to the state championships two years in a row, and Jennifer went on to play Varsity tennis her freshman year at Rice University. </para>
+      <para id="id1163942074397"> Jennifer enjoys sampling foreign cuisine and baking in her spare time. An avid fan of Food Network, she recently made chocolate soufflé for twelve friends and is embarking on a quest to make crème brûlée so that her set of ceramic soufflé dishes are put to good use. In addition to sweets, Jennifer has a weakness for sushi and has been to nine different sushi restaurants while living in Houston for the past four years. Her younger sister, Rachel, is also an active sushi connoisseur and the sisters are known to frequent their favorite hometown sushi restaurant, Sushi Gen, multiple times each week. Although she also grew up playing tennis, Rachel discovered a passion for pole vaulting in her freshman year of high school and plans to pole vault for UCI after graduating from Oak Park High School. An important year of transition for both, Jennifer and Rachel plan to finally take a summer vacation together after graduating from their respective places of learning. </para>
+      <para id="id1163930901870"> Jennifer’s multiple sports-related injuries led her to become interested in Sports Medicine in her sophomore year of college. In addition to majoring in Kinesiology, Jennifer continued to pursue her interest in ecology by taking various biology classes and labs. To this day, Jennifer cites Plant Diversity with Tom Miller as her favorite class at Rice University. She is thankful for the wealth of information she gained from her professors while at Rice, and is excited for the next step in her career. </para>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,505 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>To Eat or to Mate?  Sexual Cannibalism in Mantodea and Arachnid Species</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34755</md:content-id>
+  <md:title>To Eat or to Mate?  Sexual Cannibalism in Mantodea and Arachnid Species</md:title>
+  <md:abstract>Fatal attraction takes on an entirely new meaning in the behavior of sexual cannibalism.  In many spider and mantis species, mating can turn fatal when the female consumes the male before, during, or immediately after copulation.  This curious behavior has widely contested adaptive value.  Males incur obvious fitness costs from being consumed because it prevents them from mating in the future.  Females may also compromise their own mating opportunity because spider and mantis females often cannibalize males before copulation.  A variety of hypotheses have arisen to explain the evolution of sexual cannibalism, including an economic model that depicts the cost-benefit conditions needed for the behavior to have fitness value.  Alternate sexual selection and predator-prey hypotheses emphasize the interaction between sexual dimorphism and cannibalism during mating.  Hypotheses differ in that some consider the behavior to be adaptive for individuals, while others view it as a non-adaptive by-product of separate traits’ evolution.  Hypotheses also differ in the extent to which they view the behavior as a conflict of interest between the sexes (more beneficial for one sex than the other).  Ultimately, no hypothesis appear to fit all cases; instead different explanations may apply to different species depending on environmental conditions and species characteristics.  Overall, in both mantises and spiders, sexual cannibalism highlights <term>proximate</term> and <term>ultimate causes</term> underlying the sexes’ asymmetric reproductive tactics, and may illustrate a compelling intersection between <term>natural</term> and <term>sexual selection</term> pressures</md:abstract>
+  <md:uuid>b2cb09a6-329c-406f-8a7b-33918f297c0d</md:uuid>
+</metadata>
+
+<content>
+  <para id="eip-316"><emphasis effect="bold">Author:</emphasis> Rachel Carlson</para><section id="eip-409"><title>Introduction</title><para id="eip-913">Mating interactions are frequently marked by conflict.  Males and females have asymmetric goals in optimizing reproductive fitness, but they must rely on each other to produce offspring in sexual species (<link target-id="eip-928"/>).  A dramatic example of intersexual conflict is sexual cannibalism, in which the female consumes the courting male before, during, or immediately after copulation (Buskirk et al. 1984).  The male appears to be victimized, a hapless casualty of the female’s selfish drive to increase her nutrient store.  However, examination of sexual cannibalism in the context of spider and mantis species reveals that these sexual selection pressures are accompanied by a host of costs and benefits to females as well as males
+</para><example id="eip-928"><label>Box</label><title>Intersexual Conflict with Respect to Paternal Investment</title> 
+<para id="eip-id1166729428635">
+Intersexual conflict occurs when individuals in a mating interaction jockey for the greatest reproductive benefit at the lowest cost.  Though individuals must cooperate at least during the mating act to produce viable offspring, their investment in the common young is often highly asymmetrical (Schneider and Lubin 1998).  This fact is founded on the anisogamy of the sexes.  Female eggs are significantly more nutrient-rich and exacting to produce than male sperm.  The female also has fewer eggs than males do sperm.  Since the donation of an egg  is costlier than that of a sperm, females are immediately more committed to the offspring produced than males.  Embryonic food demand places restrictions on the amount of offspring a female can produce in her lifetime, while male reproductive potential has a very high internal upper limit (Schneider and Lubin 1998).  There are some rare species (sea horses, jacanas, for example) where males care more for progeny than females, reversing these strategies.
+</para><para id="eip-id1166740305854">
+These conditions have created divergent optimum reproductive strategies between the sexes.  Males are driven to mate as many times, and with as many females, as possible in order to maximize the number of eggs he fertilizes.  Simultaneously, however, females seek to offset the disproportionate costs of reproduction by obtaining a paternal investment from the male, which can come in the form of food, protection, defense of resources, or other energetic expenditures.  The female may select mates based on secondary sexual trait indicators of “good providers.” Inducing the male to bear a greater share of the reproductive burden allows the female to store resources for future offspring (reduces her parental investment) (Schneider and Lubin 1998).
+</para><para id="eip-id1166733054346">
+Female selection for paternal investment may impose a suite of costs not directly associated with resource provision, such as elaborate male courtship costs (Schneider and Lubin 1998).  In species of arachnids and insects, females often guard the ootheca before it hatches, but males do not directly provide parental care.  Thus, parental investment and sexual conflict chiefly occur within the context of mating (Schneider and Fromhage 2005).
+</para><para id="eip-id1166739069382">
+Life-history parameters such as the timing of sexual maturation and oviposition, expected number of matings, body size, maturity, and generation length are likely to influence the degree and outcome of intersexual conflict (Buskirk et al. 1984).  Dynamics of functional morphology and ecology may also limit or enhance mating costs/benefits, impacting intersexual conflict (Andrade 2003).
+</para></example><para id="eip-693">Several hypotheses explain ways in which sexual cannibalism can occur by natural selection.  This chapter first discusses the interpretation of sexual cannibalism as a case of <term>paternal investment</term>: females require substantial nutrients to produce their eggs, and extract food from the male’s own biomass.  This <term>“foraging strategy” hypothesis</term> is based on experiments with mantises since male self-sacrifice drastically increases the reproductive yield of the female (Barry et al. 2008).  Enhancing female fecundity improves the male’s direct fitness because he can pass on more of his genes through healthy offspring.  This chapter also reviews corroborating evidence from redback spider males, who initiate their own cannibalism to maximize reproductive benefit in a hostile environment that opposes repeated mating (Andrade 1996).  An outwardly brutal mating interaction may ultimately be adaptive for members of both sexes.</para><para id="eip-770">This chapter proceeds to examine the limitations of, and alternatives to, the above hypothesis.  Many male spiders and mantises are not complicit in self-sacrifice, indicating that cannibalism is not adaptively favorable to males (Liske and Davis 1987; Wilder and Rypstra 2008).  Additionally, sexual cannibalism is prominent in <term>size dimorphic</term> spider species, in which males are too small to substantively feed females.  These observations give rise to claims that cannibalism in the context of mating is actually a non-sexual, predator-prey interaction (Wilder and Rypstra 2008b).  Alternatively, a sexual selection hypothesis suggests that females discriminately eliminate undesirable mates by devouring them (Elgar and Nash 1988).  Overall, the examination of sexual cannibalism reveals the variable influences of species morphology and environmental conditions on a behavior’s evolutionary significance.  Also, since both reproductive and mortality considerations are inherent in sexual cannibalism, examining its adaptive value offers intriguing insight into the fitness dynamics of sexual interactions</para></section><section id="eip-960"><title>The Organisms</title><para id="eip-912">
+Sexual cannibalism has been observed in 30 arthropod species, and occurs in all arachnids and three orders of insects [Figures 10-12].  One of these orders is Mantodea, which is comprised of about 2,000 mantis species worldwide, mostly within the family mantidae (Yagar and Svenson 2008).  Mantises are highly predatory organisms, employing an ambush technique in which they camouflage themselves to wait for prey, then strike rapidly once food approaches.  Most mantis species have spiked, muscular forelegs called raptorial legs, which are designed for gripping a range of prey, including lizards, frogs, birds, snakes, rodents, insects, and, of course, mates (Yagar and Svenson 2008).
+</para><para id="eip-216">Between sexually mature adults, attraction typically occurs via visual cues and the use of pheromones, which the females release during the nighttime (the organisms’ prime mating period) (Robinson and Robinson 1979).  In order to mate, the male approaches the female, leaps onto her back, and uses his forelegs to grip her thorax and wings.  Males transfer sperm from their abdomen into a chamber at the tip of the female’s own abdomen.  Mothers can be polyandrous, mating with several males during a reproductive season (the number of males varies with the mating season).  Eventually, she deposits as many as 400 eggs in a frothy mixture secreted by abdominal glands, which hardens into a clumped egg mass called an ootheca.  After oviposition, mantis mothers almost always abandon the ootheca, increasing the importance of the nutrients and protective protein coat she originally invests in the egg mass. 
+<figure id="ootheca">
+  <media id="ootheca_pic" alt="ootheca from a praying mantis">
+    <image mime-type="image/jpeg" src="../../media/fig_1.jpg"/>
+  </media>
+  <caption>
+     A deposited ootheca from a praying mantis (Mantis religiosa).  Egg clusters are typically abandoned after oviposition by female mantises (Robinson and Robinson 1979).  <emphasis effect="italics">Image :TarynMarie http://www.flickr.com/photos/tarynmarie/233251370/ </emphasis>
+.
+
+  </caption>
+</figure>
+</para><para id="eip-823">Mantises exhibit moderate <term>sexual size dimorphism</term> (<emphasis effect="italics">Iris oratoria</emphasis> males, for example, are 49% the size of females), which improves the female’s ease of cannibalizing the male (Barry et al. 2008).  An estimated 63% of the diet of female Chinese mantises (<emphasis effect="italics">Tenodera sinensis</emphasis>) is derived from cannibalized mates (Fox 1975b).  Even in species that rarely exhibit sexual cannibalism, the behavior can be a major source of population mortality if it occurs in a specific seasonal or life cycle frame (Fox 1975b).  Thus, sexual cannibalism is a crucial component of mantis behavior.  
+<figure id="fig7"><media id="fig7_pic" alt="picture of female praying mantis cannibalizing mate">
+    <image mime-type="image/jpeg" src="../../media/fig7.jpg"/>
+  </media>
+  
+<caption>A praying mantis (<emphasis effect="italics">Mantis religiosa</emphasis>) clutches the head of a cannibalized mate.  Female mantises may substantially improve reproductive output by engaging in sexual cannibalism before, during, or after copulation (Barry et al. 2008). <emphasis effect="italics">Image :TarynMarie http://www.flickr.com/photos/tarynmarie/233251370/ </emphasis>
+.
+  </caption></figure>
+A wide range of spider species also engage in sexual cannibalism, including wolf spiders, orb-weaving garden spiders, and Australian redback spiders.  Though mating tactics, insemination techniques, and oviposition timing vary depending on the species, several common factors affect spider reproduction.  Firstly, high sexual size dimorphism is common in spiders, and females can be over 100 times bigger than males (Schneider and Lubin 1998).  Secondly, female spiders are typically polyandrous, though wide population dispersal and harsh environmental conditions can limit mating opportunities.  When they do find mates, male spiders use <term>palpal emboli (pedipalp)</term> to inject sperm into female storage organs, and their confidence in paternity can be affected by the number of palpal insertions (Andrade and Snow 2005). However, as a tradeoff to trying to ensure paternity, males may incur physical damage from either cannibalism or the loss of their palpal emboli tips during insertion.
+</para><para id="eip-803">This is a concise description of some sexually cannibalistic species, but provides sufficient background to understand the conditions for sexual cannibalism’s adaptive value. </para></section><section id="eip-67"><title>A Parental Investment Hypothesis for Sexual Cannibalism</title><para id="eip-986">In order to produce viable offspring, females must first obtain and process huge amounts of nutrients (<link target-id="eip-130"/>).  Females have evolved a variety of adaptations for efficient food acquisition, including increased consumption rate, selective consumption of certain food types, and dietary mixing (Wilder and Rypstra 2008a).  Some researchers argue that, from a female perspective, sexual cannibalism is simply one in a litany of strategies for gaining more food.  This foraging strategy hypothesis states that sexual cannibalism has adaptive value for both sexes, since the male soma provides a female with nutrients that increase her <term>fecundity</term> (<link target-id="fig2"/>; Barry et al. 2008).  Though the male loses lifetime survivorship, he gains overall fitness from passing on genes to more vigorous offspring.  Male self-sacrifice is therefore considered a beneficial form of <term>paternal investment</term>.
+<figure id="fig2">
+  <media id="fig2_pic" alt="chart showing impact of sexual canaibalism on ootheca mass in Mantids">
+    <image mime-type="image/jpeg" src="../../media/fig2.jpg"/>
+  </media>
+  <caption>
+     Mass of first ootheca from females who cannibalized and did not cannibalize their mates.  Cannibals had more massive ootheca (p=.017) than non-cannibals (Barry et al. 2008).
+  </caption>
+</figure></para>
+<example id="eip-130"><label>Box</label><title>The Impact of Diet on Fecundity in Mantises and Spiders</title>
+<para id="eip-id1165345896200">
+Research on praying mantis species shows that females’ diet impacts two distinct phases of their development.  Firstly, the diet of juveniles determines how long their body becomes as they mature.  Length is a limiting factor for weight, so the adult’s initial body condition restricts its potential for weight gain throughout its life, which in turn impacts fecundity (Eisenberg et al. 1981).  Mantises’ food intake is positively related to the female's maximum attained mass, the mass of her first and second ootheca, the rate of ootheca production, and the number of total young produced (Birkhead et al. 1988).</para>
+<para id="eip-id8299885"> 
+Similar studies in orb-weaving and wolf spiders indicate that spider females achieve a higher body mass when fed with a high-quality diet (Hebets et al. 2007).  Well-fed wolf spiders also mature at a faster rate, which is important for fecundity since females must produce ootheca within a seasonal time frame (they can produce more offspring if they reach the adult stage earlier).  Thus, food acquisition is fundamentally linked to fecundity of mantises and spiders, supporting the hypotheses that it is adaptive to engage in sexual cannibalism, especially when the male can provide a nutritive meal.
+		
+ 
+</para></example>
+<para id="eip-43">In order to test this hypothesis, researchers regulated the diets of three groups of <emphasis effect="italics">Pseudomantis albofimbriata</emphasis> (mantis) females, feeding them with crickets on low to high frequency schedules to produce low to high body conditions (Barry et al. 2008).  The foraging hypothesis predicted that sexual cannibalism would be motivated by the female’s drive to acquire food (and, on the ultimate level, increase her fecundity), so hungrier, needier individuals were expected to cannibalize more mates.  Indeed, females of poor initial body condition, who were starved for nutrients, cannibalized their mates more often than robust females.  Additionally, results showed that cannibalistic females most significantly improved their body condition and produced heavier ootheca than non-cannibalistic subjects, due to food gained from the mate’s biomass (<link target-id="fig3"/>; Barry et al. 2008).  Similar evidence exists in tests involving wolf spiders (Wilder and Rypstra 2008a; Hebets et al. 2008; Hurd et al. 1994).  Overall, the incidence of sexual cannibalism appears to be positively related to reproductive output, so the behavior can increase the fitness of both sexes.
+
+<figure id="fig3"><media id="fig3_pic" alt="chart showing effect of sexual canaibalism on female body condition">
+    <image mime-type="image/jpeg" src="../../media/fig3.jpg"/>
+  </media>
+  
+<caption>Female body condition before and after a trial in which females either cannibalized or did not cannibalize mates.  Cannibalistic females were in poorer condition initially, but their body condition improved more than that of non-cannibals throughout the test (<m:math display="display">
+  <m:apply>
+    <m:lt/>
+    <m:ci>p</m:ci>
+    <m:cn>0.001</m:cn>
+  </m:apply>
+</m:math>)  (Barry et al. 2008).
+  </caption></figure></para><para id="eip-251"><title>Conflict of Interests</title>If the foraging strategy hypothesis adequately explains sexual cannibalism, then one would expect male mantises and spiders to be complicit in their own self-sacrifice.  Since males can improve fitness by investing their body as their mate’s food source, evolution should select for a willingness to be consumed (Lelito and Brown 2006).  The advantage of complicit self-sacrifice is especially apparent in mantis species, because the male’s decapitation often triggers a mechanism that increases the rate and effectiveness of sperm transfer (Liske 1991).  
+<figure id="fig8"><media id="fig8_pic" alt="picture of female praying mantis being mounted by a male she has decapitated">
+    <image mime-type="image/jpeg" src="../../media/fig8.jpg"/>
+  </media>
+  
+<caption>A female mantis is mounted by a male who she has already decapitated.  In mantises, insemination can occur during or after cannibalism.  Decapitation may even increase the rate of copulation (Liske 1991). <emphasis effect="italics">Image :Taurusaficionado  http://www.flickr.com/photos/ </emphasis>.
+  </caption>
+</figure>
+</para><para id="eip-536">Nonetheless, in several species, male compliance does not occur.  Males of both mantis and spider species have evolved various precautionary behaviors designed to thwart female attack.
+<figure id="fig4"><media id="fig4_pic" alt="chart comparing female hunger treatment to male approach">
+    <image mime-type="image/jpeg" src="../../media/fig4.jpg"/>
+  </media>
+  
+<caption>Relationship in <emphasis effect="italics">Tenodera sinensis</emphasis> between female hunger treatment, male orientation of approach, and speed with which males approached females.  Males approached females more quickly from behind (not in female’s direct line of sight), and approached satiated females more quickly  (<m:math display="display">
+  <m:mrow>
+    <m:mi>P</m:mi>
+    <m:mo>&lt;</m:mo>
+    <m:mn>0.0001</m:mn>
+    <m:mo>,</m:mo>
+    <m:msub>
+      <m:mrow>
+        <m:mi mathvariant="italic">P</m:mi>
+      </m:mrow>
+      <m:mrow>
+        <m:mi mathvariant="italic">adj</m:mi>
+      </m:mrow>
+    </m:msub>
+    <m:mo>&lt;</m:mo>
+    <m:mn>0.00055</m:mn>
+  </m:mrow>
+</m:math>).
+  </caption></figure>
+  For example, in one study, praying mantis males tended to mount females from low-risk positions (out of the female’s range of mandible reach) (Birkhead et al. 1988).  Also, <emphasis effect="italics">Hierodula membranacea</emphasis> mantis males approached females more actively (with fewer hesitant pauses) when experimental conditions imitated a cover of nighttime darkness (Birkhead et al. 1988).  Finally, male Chinese praying mantises neared females in a crouching stance, approached them only when they were turned away, and mounted them in a sudden leaping motion that left little opportunity for pre-copulatory cannibalism (Liske and Davis 1987)  
+
+<figure id="fig5"><media id="fig5_pic" alt="chart comparing female hunger treatment to male approach and leaping distance">
+    <image mime-type="image/jpeg" src="../../media/fig5.jpg"/>
+  </media>
+  
+<caption>Relationship in <emphasis effect="italics">Tenodera sinensis</emphasis> between female hunger treatment, male orientation of approach, and distance from which males leapt onto the backs of females.  Males leapt onto hungry females from a longer distance away (<m:math display="display">
+  <m:mrow>
+    <m:mi>P</m:mi>
+    <m:mo>&lt;</m:mo>
+    <m:mn>0.001</m:mn>
+    <m:mo>,</m:mo>
+    <m:msub>
+      <m:mrow>
+        <m:mi mathvariant="italic">P</m:mi>
+      </m:mrow>
+      <m:mrow>
+        <m:mi mathvariant="italic">adj</m:mi>
+      </m:mrow>
+    </m:msub>
+    <m:mo>&lt;</m:mo>
+    <m:mn>0.0044</m:mn>
+  </m:mrow>
+</m:math>)(Lelito and Brown 2006).
+  </caption></figure>These diverse and often sophisticated protection mechanisms would not have evolved if males gained ultimate fitness benefit from self-sacrifice (<link target-id="eip-634"/>).  Females may increase the vitality of a male’s offspring by consuming him, but evidently not enough to offset his cost in death.  The functional design of male mating behavior displays noncompliance, exhibiting a conflict of interest between male and cannibalistic females (Lelito and Brown 2006).</para>
+<example id="eip-634"><label>Box</label><title>Counteradaptations and Cryptic Female Choice</title>
+<para id="eip-id1165282444453">
+Conflicts between interacting organisms can drive adaptation and counteradaptation.  Individuals evolve traits that provide them with the greatest benefit possible from social interactions, even at the cost of another organism.  Thus, two organisms may steadily interact through a system of “one-upmanship,” as each develops counteradaptations to exploit, and avoid being exploited by, the other.  
+</para><para id="eip-id1165268372025">
+Mating interactions are prime arenas for adaptation/counteradaptation, since they often involve a conflict of interest between the sexes.  Males evolve traits that promote their confidence in paternity and sperm viability, while females develop mechanisms for selecting only optimum sperm (sexual selection)(Siller 2001).  While sexual selection is easily recognized before mating (females choose to mate with males who display attractive characteristics and/or fitness indicators), it can also occur post-insemination through sperm ejection or a
+ mechanism called cryptic female choice-the differential selection at the hidden level of the gamete(Eberhard 2000).  Cryptic female choice can be passive, as when eggs are fertilized by sperm that win the “race” to the gamete.   Or, the choice can be active: a female’s sperm storage system can be designed to give priority to the last sperm she receives, allowing her to annul the representation of previous mates if she meets a superior male (Eberhard 2004).
+</para><para id="eip-id1165261494541">
+One intriguing example of cryptic female choice exists in Australian redback spiders.  The female redback has developed multiple sperm storage sites, which promote post-copulatory sperm management by the female.  The male has two palpal emboli, so he could potentially inseminate both sites (the fitness optimizing strategy for males), but the larger female can physically control where the male injects sperm (in one or two sites, or in an empty site versus one occupied by previous males’ sperm) (Andrade and Snow 2005).
+
+ 	 			
+</para><para id="eip-154">The male redback thus appears at a disadvantage for two reasons. Firstly, if he manages the rare deal of finding a mate, his control over paternity is minimal. Also, if takes more time to inseminate two sites as opposed to one, and females usually cannibalize doubly inserting males before copulation is complete (Andrade and Snow 2005). Thus, the male redback has developed an important counteradaptation: a constriction of the abdominal exoskeleton during mating that protects male organs from wounds inflicted by the female mandible. In one study, males displaying constriction had improved survival, heightened physical endurance, and greater mating success with new males (Andrade and Snow 2005). Multiple sperm storage units in females and the constriction mechanism in males illustrate how mating interactions can disproportionately benefit a single sex, driving a progression of counteradaptations.</para><para id="eip-405"><figure id="eip-id1172481353272">
+<media id="eip-id1172481500751" alt="">
+<image mime-type="image/png" src="../../media/one.png"/>
+</media>
+</figure></para></example>
+<para id="eip-873"><title>The Question of Female Fecundity Benefit</title>Even a conflict of interest hypothesis, a claim that females gain disproportionate benefits from eating males, is insufficient to explain the majority of sexual cannibalism cases.  The behavior is prominently observed in spider species that are highly <term>sexual size dimorphic</term>, such as wolf spiders.  In contrast with mantises, male spiders are frequently diminutive compared to females.  The consumption of male bodies can contribute little substance to the mother’s nutrient store, so cannibalism does not measurably increase female body condition or ootheca mass (Wilder and Rypstra 2008).  If female fecundity does not increase from sexual cannibalism (which obviously precludes the male from gaining fitness), then how can this behavior have evolved? Perhaps there is a context in which males alone profit from their own self-sacrifice.</para><para id="eip-175">Does a male ever really present himself to be eaten?  In fact, such complicity is blatantly displayed in Australian redback spider mating, wherein the male grabs the female and somersaults directly into her mouthparts (move this up to the non compliance section).  Without halting his acrobatics, the redback transfers his sperm into female storage organs by inserting one or both emboli into her (Andrade 1996).  As a result, 65% of redback mating interactions end in sexual cannibalism (Andrade 2003).  The male Australian redback’s biomass is miniscule, so his sacrifice has no apparent impact on the female spider’s reproductive output.  </para><para id="eip-514"><title>Discussion Question: </title><emphasis effect="italics">Why could males have evolved such exaggerated willingness for self-sacrifice? </emphasis></para></section><section id="eip-756"><title>The Tradeoffs: Economic Models for Sexual Cannibalism</title><para id="eip-681">
+In an attempt to develop an adaptionist description of sexual cannibalism, several researchers have devised mathematical <emphasis>cost-benefit</emphasis> models that address both the foraging strategy hypothesis and observations of redback self-sacrifice.
+</para><para id="eip-682"><title>The Male Perspective</title>Male complicity in sexual cannibalism is interpreted by the economic model of Buskirk et al.  Buskirk posits that a male should permit himself to be eaten only if he increases his inclusive fitness more in that manner than by surviving to inseminate other females (Buskirk et al. 1984).  Two factors impact the male’s inclusive fitness in sexual cannibalism: the number of times a male may be expected to mate during his lifetime and the proportional increase in the male’s offspring resulting from self-sacrifice.  The first factor is based on several conditions, including the ability of males to locate other females (often through the use of pheromones), as well as the time and effort required to court and defend the female.  Other constraints are posed by male morphology, such as the length of reproductive lifetime, the time and energy needed to produce sperm, and (in spiders) the detrimental loss of pedipalpal tips to previous mates (Schneider and Lubin 1998).  The second factor, offspring increase, is dependent on the female’s food supply and the male’s <term>confidence of paternity</term>.  In turn, confidence of paternity is contingent on the extent of a female’s polyandrous behavior, as well as copulation duration, sperm storage methods, and the nearness of copulation to oviposition (<link target-id="eip-634"/>) (Buskirk et al. 1984).</para><para id="eip-990">Based on these parameters, the adaptive value of cannibalism for males can be mathematically modeled (<link target-id="fig6"/>).
+<figure id="fig6"><media id="fig6_pic" alt="graph showing the evolution of sexual cannibalism">
+    <image mime-type="image/jpeg" src="../../media/fig6.jpg"/>
+  </media>
+  <caption>Buskirk et al.’s model for the evolution of sexual cannibalism, based on the mathematical formula   <m:math display="display">
+  <m:mrow>
+    <m:mfrac>
+      <m:mrow>
+        <m:mi>A</m:mi>
+      </m:mrow>
+      <m:mrow>
+        <m:mi>P</m:mi>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>&gt;</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:msub>
+          <m:mrow>
+            <m:mi>E</m:mi>
+          </m:mrow>
+          <m:mrow>
+            <m:mi mathvariant="italic">NC</m:mi>
+          </m:mrow>
+        </m:msub>
+      </m:mrow>
+      <m:mrow>
+        <m:mfenced open="[" close="]" separators="|">
+          <m:mrow>
+            <m:mn>1</m:mn>
+            <m:mo>-</m:mo>
+            <m:msup>
+              <m:mrow>
+                <m:mfenced separators="|">
+                  <m:mrow>
+                    <m:mn>1</m:mn>
+                    <m:mo>-</m:mo>
+                    <m:mi>C</m:mi>
+                  </m:mrow>
+                </m:mfenced>
+              </m:mrow>
+              <m:mrow>
+                <m:mi mathvariant="italic">ENC</m:mi>
+              </m:mrow>
+            </m:msup>
+          </m:mrow>
+        </m:mfenced>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>-</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>1</m:mn>
+      </m:mrow>
+      <m:mrow>
+        <m:mi>C</m:mi>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+  </caption>
+</figure>
+
+This theoretical graph shows the relationship of A/P to C for different values ENC.  For organism X, C=0.5 and A/P=2.5, and ENC=4.  That is, if a male has a 50% chance of being cannibalized and can produce 2.5 times more offspring by being cannibalized than not, then self-sacrifice is advantageous until the male’s expected number of lifetime matings exceeds four (in other words, until being cannibalized causes him to forgo three or more matings).  The graph suggests that, as the number of expected matings increases, male self-sacrifice must greatly enhance his mate’s fecundity in order to offset his cost of neglecting future mates (Buskirk et al. 1984). </para><para id="eip-736">Notice what happens to the equation when it is certain that the male will be cannibalized (ENC=1 and C=1): the right side of the inequality becomes zero.  Any value of A/P greater than zero (that is, any increase in number of offspring due to sexual cannibalism) thus conveys a selective advantage to sexual cannibalism (Buskirk et al. 1984).  This relatively simple model organizes the costs and benefits of male complicity into comparable mathematical terms, describing the conditions by which sexual cannibalism favors male fitness.</para><para id="eip-170"><title>The Female Perspective</title>Newman and Elgar supplement Buskirk’s hypothesis with an economic model from the female perspective, drawing on evidence from the orb-weaving spider.  Specifically, these researchers address pre-copulatory cannibalism, in which the female consumes the male before sperm transfer is complete (post-copulatory cannibalism is assumed to never harm the female, unless the species raises young and requires future male aid).  The mathematical description of Newman and Elgar involves complex dynamic programming, and will not be detailed here.  However, it essentially illustrates that females are more likely to engage in pre-copulatory cannibalism if they can encounter several males during a season and have both a low and inconsistent food intake rate from non-mate sources (Newman and Elgar 1991).  This model resonates well with the foraging strategy hypothesis, which also emphasizes the nutritional utility of sexual cannibalism for females.</para><para id="eip-109">The intersection of the two economic models illustrates the possibility for intersexual conflict in sexual cannibalism.  There is a discrepancy between parameters of fitness benefit from the female and male perspectives (Newman and Elgar 1991).  For example, consider a mating season in which males encounter many females, and females also frequently meet males.  In these conditions, males will incur high costs from sexual cannibalism because they forgo ample mating opportunities.  Simultaneously, females will be more inclined to consume mates before copulation because they have many chances to accept sperm later.  The discord between male and female perspectives drives some level of conflict of interest in mating interactions.  Depending on ecological conditions and species traits, members of the opposite sex experience different costs and benefits that determine the extent to which cannibalism is adaptively favorable.</para></section><section id="eip-148"><title>Applications of economic models to mantises and spiders</title><para id="eip-628">
+The economic models of Buskirk; and Newman and Elgar help explain previous observations, including male mantises’ non-cooperation in sexual cannibalism.  For most mantises males, the likelihood of finding a second mate is high, which increases the cost of self-sacrifice by Buskirk’s model.  Even if the male’s biomass improves female fecundity, the resulting viability of the male’s offspring must not be great enough to overcome the cost to his future mating opportunity. (Gemeno and Claramunt 2006).  Sexual cannibalism in mantises must be adaptive solely from the female perspective (conflict of interest).
+</para><para id="eip-324">Economic models are also readily applied to the behavior of Australian redback spiders.  Experiments consistently show that when a male somersaults into the female’s mouth (thus inducing cannibalism), the length of the copulation period doubles (Andrade 2003).  Male redbacks, like many organisms, can sexually function long after females start to consume them.  While females are occupied with their meal, the male profits from 15-20 minutes extra insemination time.  Studies show that cannibalized males usually insert emboli twice, and in one experiment, self-sacrificing redbacks fertilized twice the number of eggs as non-eaten males (Andrade 1996).  Self-sacrifice also gives males an advantage in terms of <term>sperm competition</term>, because females tend to spurn other males directly after they copulate with, and cannibalize, their first mate (Andrade 2003).  In economic terms, the male redback reaps high paternity benefit from increasing the proportion of offspring he sires in the female’s brood.  Meanwhile, the cost inherent in redback self-sacrifice is extremely low, because males live in a hostile environment that often precludes them from second matings.  In fact, there is an 85% mortality rate for males after they leave natal webs [Chart 1], so each male is destined to encounter very few females during his lifetime (Andrade 2003).  Therefore, the fitness benefit to post-copulation survivorship is low (Andrade 1997).  Based on economic models, male complicity in redbacks makes sense.</para><table id="eip-799" summary="table showing the phenotype, number of males that survived and number of males that perished for two field surveys, a male release experiment and the pooled data."><title>Success at finding a mate in male Australian redback spiders: surviving versus perishing on trip to find mate (modified from Andrade 2003).</title>
+<tgroup cols="1"><tbody>
+  <row>
+    <entry><media id="chart1" alt="table">
+  <image mime-type="image/jpeg" src="../../media/chart_1.jpg"/>
+</media>
+</entry>
+  </row>
+</tbody>
+
+</tgroup><caption>Weight and size values are mean.  n represents total number of organisms monitored in given trial.
+“Residuals from a regression of male weight on size.  Weight/size regressions were highly significant (<m:math display="display">
+  <m:apply>
+    <m:lt/>
+    <m:ci>p</m:ci>
+    <m:cn>0.001</m:cn>
+  </m:apply>
+</m:math>) (Andrade 2003)
+</caption>
+</table><para id="eip-616">Economic models are further verified by evidence from the orb-weaving spider.  Males of the genus <emphasis effect="italics">Argiope</emphasis> often die directly after copulation, regardless of female cannibalism (Sasaki and Iwahashi 1995).  In the species <emphasis effect="italics">Argiope aurantia</emphasis>, mating triggers the inflation of the male’s second palp when increased haemolymph pressure causes its distal bulb to expand.  Palp swelling catalyzes a cascade of reactions that culminates in the male’s death 15 minutes later (Foellmer and Fairbairn 2003).  Since the male willingly engages in mating and evolution has not selected against the spontaneous death mechanism, terminal reproductive investment appears ultimately beneficial.  It is unusual to think of dying as a prime fitness strategy, but two morbid processes actually benefit males.  The first is familiar: the male soma provides nutrients to the female and increases the quantity and quality of her offspring.  Additionally, the dead male can prevent female polyandry.  Several male spiders often wrestle vigorously for access to a mate, and even try to dislodge males already in the copulatory position.  If the mating male’s pedipalp is in the inflated state, he is more difficult to remove, so his corpse serves as a genital plug to block his rivals’ access to the female (Foellmer and Fairbairn 2003).  Thus, evidence from the orb-weaving spider indicates that the costs of foregoing future mating opportunities can be overcome by the direct benefit of increased female nutrition and the male’s <term>confidence in paternity</term>.</para><para id="eip-579"><title>Discussion Question:</title><emphasis effect="italics">Do female redbacks benefit from being monopolized by the male?  What are the costs and benefits of polyandry in this situation?</emphasis></para></section><section id="eip-778"><title>Sexual Cannibalism and Sexual Selection</title><para id="eip-730">Though these economic models are enticingly straightforward, they still do not explain all incidences of sexual cannibalism.  <term>Sexual size dimorphic</term> species (prominently spiders) pose a problem when males are not complicit.  Because their males are too small to provide a nutritionally substantive meal for females, these species elude the foraging strategy hypothesis.  Consuming diminutive males may even be costly to the female if she neglects hunting larger food items while busy consuming her tiny mate (Elgar 1991).  Since many male spiders are not willing self-sacrificers like the redback, cannibalism appears to be unfavorable to male fitness as well (Wilder and Rypstra 2008).  How can non-complicit sexual cannibalism in <term>mate size dimorphic</term> couples be considered adaptive?
+</para><table id="eip-940" summary="Table showing relationship between sexual cannibalism incidence and fecundity in arachnid and mantis species. Lists species, measure of fecundity, effect, reference and sexual dimorphism.">
+<tgroup cols="1"><tbody>
+  <row>
+    <entry><media id="chart2" alt="chart 2">
+
+  <image mime-type="image/gif" src="../../media/chart2.gif"/>
+</media>
+</entry>
+  </row>
+</tbody>
+
+
+</tgroup><caption>Relationship between sexual cannibalism incidence, sexual size dimorphism, and fecundity in arachnid and mantis species (modified from Barry et al. 2008).</caption>
+</table><para id="eip-698">One hypothesis for this quandary claims that the cannibalistic behavior is an extreme form of mate selection, in which females reject miniscule, undesirable males by consuming them.  According to the sexual selection hypothesis, the female is not driven to cannibalism by a proximate, nutrition-related cause, but instead by the function of ultimately beneficial sexual selection.  Females may prefer larger males because body size reflects foraging skill: males who are able to obtain higher mass may be more capable of constructing and placing their webs, as well as capturing trapped prey (Wilder and Rypstra 2008b).  If foraging abilities are heritable, then females can use male size as an indicator of the fitness of her offspring.  Though sexual size dimorphic females may not obtain survival benefit from cannibalism, they use is as a mechanism of choosing males to sire fitter sons.  This strategy is only costly if females are too selective and cannibalize all potential mates.</para><para id="eip-236"><title>Testing the sexual selection hypothesis</title>In order for the argument to be supported, pre-insemination (non-mating) cannibalism in sexual size dimorphic species should target smaller males (Elgar and Nash 1999).  One means of testing the hypothesis is through <term>observation within a species</term>, wherein researchers observe mating interactions involving same-species males with different levels of <term>secondary sexual characteristics</term>.  Wilder and Rypstra monitored <emphasis effect="italics">Hogna helluo</emphasis> (wolf spider) males in 90-minute mating trials within a laboratory setting, and found that larger male <emphasis effect="italics">Hogna helluo</emphasis> were less frequent victims of sexual cannibalism (Wilder and Rypstra 2008b).  In another investigation, <emphasis effect="italics">Araneus diadematus</emphasis> females (1.89 female/male body length ratio) preferred to mate with, not consume, larger males (Elgar and Nash 1999).  Furthermore, <emphasis effect="italics">Schizocoas ocreata</emphasis> virgin females (1.26 female/male body length ratio) attacked smaller males of poorer body condition that displayed small, asymmetrical tufts of bristles, as opposed to voluminous tufts (Persons and Uetz 2005).  Experimental evidence has consistently suggested that, in species with high sexual size dimorphism, predatory mating behavior targets smaller males.  Thus, sexual cannibalism may indeed serve as a mechanism of sexual selection favoring larger males. </para></section><section id="eip-732"><title>Gould’s Spandrel: a Non-Adaptionist Hypothesis</title><para id="eip-937">
+Though experimental results appear to support a sexual selection hypothesis, some researchers present an alternate interpretation.  Female spiders may consume smaller males because, quite simply, it is easier to do so (Wilder and Rypstra 2008).  Though tiny males may not be nutritionally substantive, it is possible that female predatory behavior is ingrained and non-discriminatory (a female is willing to catch any prey around).  In size dimorphic species, sexual cannibalism may have arisen incidentally from the condition of sexes’ size divergence.
+</para><para id="eip-542">The non-adaptionist hypothesis is composed of a simple argument:
+<list id="hypothesis-list" list-type="enumerated">
+  <item>High levels of size dimorphism is an attribute of typical predator-prey interactions.  Sexually cannibalistic spider species often display high sexual size dimorphism (Wilder and Rypstra 2008)</item> 
+  <item>There is no feasible explanation for how sexual cannibalism could have selected for high sexual size dimorphism.  If females consistently selected against smaller males, there would be lower dimorphism than spider species exhibit.  Instead, sexual size dimorphism must have evolved first, driven by external factors.  Fecundity selection favored greater female size because massive females could produce bigger ootheca, and more surviving offspring.  Conversely, scramble competition promoted smaller size among males.</item> 
+  <item>Since size dimorphism is conducive to predator-prey interaction (see premise 1), sexual cannibalism emerged subsequently (Wilder and Rypstra 2008).</item>
+</list>
+</para><para id="eip-34">Thus, the non-adaptionist hypothesis argues that the phylogenic distribution of sexual cannibalism in some spiders is a by-product of selection for sexual size dimorphism in other contexts.  Stephen J. Gould terms such incidental cross-trait associations “spandrels,” after an architectural term for the space between two arches (Gould 1997).  In a <term>spandrel</term>, a behavior may not be beneficial at all, but inevitably arises out of external survival pressures.</para><para id="eip-729">A corollary to the “spandrel” explanation is another, “spillover” hypothesis.  According to some researchers, sexual cannibalism is a consequence of generalized female aggressive behavior.  The trait of female rapacity is favorable for juveniles, promoting their survival in a stage that demands high food consumption.  Rapacity is less important after females attain maximum size and sexual maturity, but the aggressive trait cannot be extricated by that point (even if it drives away a fecund female’s potential mates).  Thus, sexual cannibalism is non-adaptive, but sustained because rapacity helps juveniles survive (Arnqvist and Henriksson 1997). </para><para id="eip-456"><title>Discussion Question: </title><emphasis effect="italics">Given the analysis regarding how sexual cannibalism could be adaptive, how are these non-adaptive theories and to what extent are they contradictory? Which do you think is more likely? </emphasis></para></section><section id="eip-671"><title>Conclusions and Future Directions</title><para id="eip-459">
+Several well-developed hypotheses arise to explain the peculiar and dramatic behavior of sexual cannibalism.  Models based on fitness economics, sexual selection, and non-adaptive “spandrels” or “spillovers” provide viable descriptions of cannibals’ evolution.  These various hypotheses are not mutually exclusive, and may apply differently to species based on organisms’ unique morphology and environmental pressures.  A common vein in several hypotheses is that sexual cannibalism is a manifestation of conflict of interest between the sexes.  Intersexual conflict is succinctly expressed by cost/benefit models for males and females, in which parameters for the benefit of cannibalism contrast.  This conveys the divergent nature of reproductive behaviors.  Sexual cannibalism demonstrates that, even when organisms have the common goal of producing quality offspring, they interact through selfish and often antagonistic tactics.
+</para><para id="eip-26">Sexual cannibalism also exhibits an intriguing interplay between sexual and natural selection pressures.  Depending on the timing of cannibalism (pre or post-mating), it can be either the process by which genes are selectively favored, or the instrument of their elimination.  The relationship between female mate choice and natural selection through cannibalism may not be static, but contingent on the shifting value of the male as mate or prey item (Persons and Uetz 2005).  Further research into the timing of sexual cannibalism could expand an awareness of this dynamic.</para></section><section id="eip-581"><title>DIVERSE SEXUAL CANNIBAL SPECIES</title><para id="eip-751">Spiders and mantises are the basis of most research on sexual cannibalism, but the behavior has been anecdotally and experimentally observed in a variety of organism orders.
+<figure id="nudibranch ">
+  <media id="fig10_pic" alt="picture of horned nudibranch Herminssenda Crassicori">
+    <image mime-type="image/jpeg" src="../../media/fig_10.jpg"/>
+  </media>
+  <caption>
+     The horned nudibranch <emphasis effect="italics">Herminssenda Crassicoris</emphasis> will consume members of its own species while mating if the male is small enough to be ingested (Megina and Cervera 2002). <emphasis effect="italics">Image :Lemurdillo  http://www.flickr.com/photos/lemurdillo/2650327503/in/set-72157607190457016/</emphasis>.
+  </caption>
+</figure>
+<figure id="fig11">
+  <media id="fig11_pic" alt="picture of copepods">
+    <image mime-type="image/jpeg" src="../../media/fig_11.jpg"/>
+  </media>
+  <caption>
+     Copepods, small marine arthropods that include many species of plankton, occasionally exhibit sewual cannibalism. <emphasis effect="italics">Image :Ethan Hein  http://www.flickr.com/photos/ethanhein/2250890367/</emphasis>.
+  </caption>
+</figure>
+<figure id="fig12">
+  <media id="fig12_pic" alt="picture of scorpions">
+    <image mime-type="image/jpeg" src="../../media/fig_12.jpg"/>
+  </media>
+  <caption>
+     Sexual cannibalism is rare in scorpions, but males have still developed the behavior of rapidly backing away from the female after copulation has terminated. <emphasis effect="italics">Image :Andres N. Hayes  http://www.flickr.com/photos/26432312@N06/2845311259/</emphasis>.
+  </caption>
+</figure></para></section>
+<example id="eip-321"><label>Box</label><title>Nuptial Gifts, Why don’t males offer a proxy?</title>
+<para id="eip-id1172324799336">
+Males of some species provide <term>“nuptial gifts,”</term> or alluring food items, to females during a mating interaction (Choe 1995).  The purpose of the gift is to entice females to accept the aspiring mate, and often his success is contingent on the size of the gift procured.  The donation of foraged prey before mating is prominently seen in birds and insects, though one spider, Pisaura mirabilis, displays this courting ritual as well (Stalhandske 2001).  Some insects, centipedes, and onycophorans offer nuptial gifts in the form of seminal secretions.  When sexually cannibalized males offer their own body parts or soma as nourishment, they may also be viewed as extending a nuptial gift (Stalhandske 2001).  But why don’t male mantises and spiders offer a “cheaper” version of the nuptial gift (a prey item, a nonessential body part, etc.), instead of opting for total self-sacrifice?
+</para>
+<para id="eip-id6926531">
+One study uses an <term>experimental method</term> of hypothesis testing to determine the value of the nuptial gift and its effectiveness as a proxy for the male suitor.  Stalhandske summarized three hypotheses for gift giving:
+<list id="eip-id1172331599984">
+<item>The nuptial gift could represent a paternal investment.  If the nutrients of the “gift” increase female fecundity and, subsequently, the fitness of the male’s own offspring, the offering has adaptive value.  According to this hypothesis, nuptial gift giving arose from natural selection (Stalhandske 2001).</item>
+<item>The gift could represent a male mating effort.  Its primary purpose is to tempt the female to mate, distract the female while the male assumes a copulatory position, and maximize ejaculate transfer.  According to this hypothesis, gift giving is derived from sexual selection.</item>
+<item>Gift giving could be a mechanism for protecting the male from sexual cannibalism.  By this hypothesis, the nuptial gift promotes male survivability and thus is a consequence of natural selection (Stalhandske 2001).</item>
+</list>
+</para>
+<para id="eip-id1172333491424">
+Stalhandske performed 82 trials in which male Pisaura mirabilis were given no gift, or small, medium, or large size gifts to offer females.  For hypothesis 3 to be supported, males without gifts would be expected to approach females, and females to act more aggressive toward mates without a gift.  Results showed just the opposite.  Males without gifts attempted copulation, and the presence of gifts enhanced female aggression (they were violent only towards males with gifts) (Stalhandske 2001).  However, females only mated readily with males procuring gifts (90% mated) and avoided coupling with non-gift givers (40% mated).  Additionally, gift size was positively correlated with sperm transfer duration and confidence in paternity (Stalhandske 2001).  Thus, sexual cannibalism is an ingrained part of the mating interaction.  It occurs when mating occurs, and is not offset by a nutritional proxy.  Instead of offering protection, nuptial gift giving represents male mating effort, a tactic for tempting the female, accessing the copulation site, and increasing copulation time (Stalhandske 2001).
+</para></example>
+
+<section id="eip-291"><title>Glossary</title><list id="eip-id1171847418005"><item id="eip-id1172473930145"><term>Observation  Within a Species Hypothesis Testing</term>-  A method of testing a hypothesis in which  organisms of a single species are monitored, often in a field setting, to  determine if differences between individuals have adaptive significance.  This method demands extensive knowledge of  the organisms’ habits and attributes. </item>
+  <item id="eip-id1172481855762"><term>Confidence  in Paternity</term>-   When females mate with more than one male in a breeding season  (polyandry), the sperm donated by a single male is in danger of being  supplanted by that of a later rival.  A  male’s confidence in fathering the offspring of the female decreases as her  number of mates increases.  Male spiders  may try to increase their confidence in paternity by allowing themselves to be  eaten, which may increase time of sperm transfer (Andrade 1996).</item>
+  <item id="eip-id1172473039052"><term>Cost-benefit  approach</term>- An adaptively valuable trait must have a higher  ratio of fitness benefits to fitness costs than alternate versions of that  trait.  This approach acknowledges that  phenotypes are associated with varying costs and benefits to the individual as  their genes interact with their environment (Humphries 2003).</item>
+  <item id="eip-id1172474157172"><term>Experimentation  Hypothesis Testing</term>-   A method of testing a hypothesis in which a researcher methodically  varies an environmental factor (explanatory variable) and observes its effects  on animal behavior (responding variable).   This technique only applies to behaviors that can alter in response to  manipulated external variables.   Experimentation is used on behaviors that are immediately traceable; it  is a short-term method that does not track the evolutionary response to change.</item>
+  <item id="eip-id1172474415907"><term>Fecundity</term>-  An individual’s reproductive capacity.  The number of viable, surviving offspring a  female produces is a function of her fecundity. </item>
+  <item id="eip-id4472827"><term>Foraging  Strategy Hypothesis</term>- The evolution of sexual cannibalism in  some species is explained by its fitness benefits to females.  Females of species having low to moderate  sexual size dimorphism improve their fecundity and reproductive yield through eating  the male soma (Barry et al. 2008).</item>
+  <item id="eip-id2282438"><term>Intersexual  conflict</term>- Reproductive strategies of males and females  usually differ due to incongruence in gamete size and number (females  inherently invest more gamete resources in the common young).  Each parent wants to produce the greatest  number of surviving offspring while minimizing costly resource investment. This  imposes asymmetric costs of reproduction on the sexes, resulting in conflict  within mating interactions (Schneider 1998).</item>
+  <item id="eip-id1172481468222"><term>Mate  size dimorphism (MSD)</term>- Difference in size between a pair of  male and female individuals (Wilder and Rypstra 2008).</item>
+  <item id="eip-id1172477369077"><term>Natural  Selection</term>- The process that occurs when members of a species  vary in their traits due to genetic differences, and an individual’s unique  traits cause them to have more surviving offspring than others in the  population.  Surviving offspring inherit  parents’ favorable traits, which are then sustained or evolved in future  generations. </item>
+  <item id="eip-id1172471470391"><term>Nuptial  Gift</term>-  Nutrient resources supplied to females by  courting males prior to, during, or shortly after copulation (Stalhandske  2001).  See <link target-id="eip-321"/> for further  information.</item>
+  <item id="eip-id1587363"><term>Pedipalp</term>-  A pair of extremities located posterior to  the fangs that serves as a copulatory organ in spiders.  Each pedipalp inserts into one of the females  paired genital openings and injects sperm into a female storage organ (Foellmer  and Fairbairn 2003).</item>
+  <item id="eip-id1172480213207"><term>Paternal  Investment</term>- Activities conducive to producing and rearing  surviving offspring which are costly to the female or male parent and reduce  their ability to produce offspring in the future.  Include nutrient (food), energy, time, and  risk-taking forms of investment (Schneider and Lubin1998).</item>
+  <item id="eip-id1172473948997"><term>Proximate  cause</term>- An immediate cause, based on the operation of an  individual’s physiological mechanisms.   Proximate causes concern the biological structure of an animal that  enables it to behave in a particular way.</item>
+ <item id="eip-id1172473962185"> <term>Secondary  Sexual Characteristics</term>- Traits that are unique to a  particular sex in a species, but are not used directly in mating and  reproduction.  These characteristics are  often the result of sexual selection for traits that improve the desirability  or competitiveness of the mate.</item>
+  <item id="eip-id1172473978235"><term>Sexual  Cannibalism</term>- The consumption of a male by a female  in the context of mating.  Females  consume courting males before, during, or immediately after mating.  Occurs prominently in arachnids, insects, and  amphipods (Wilder and Rypstra 2008).</item>
+  <item id="eip-id1172474082964"><term>Sexual  Dimorphism</term>- A difference between traits of males and females  in a species.</item>
+  <item id="eip-id1172478542583"><term>Sexual  Selection</term>- The process that occurs when members of a species  vary in their ability to compete with others for mates or attract individuals  of the opposite sex.  When this variation  is due to genetic differences, sexual selection drives genetic changes in the  population.  It is a form of natural  selection.</item>
+ <item id="eip-id1172481930513"> <term>Sexual  size dimorphism (SSD)</term>- Mean difference in size between males  and females for a species (Wilder and Rypstra 2008).</item>
+  <item id="eip-id1172471979422"><term>Spandrel</term>-  When selection in one context has  implications for another context.  A  trait is viewed as an incidental by-product of selection on suites of  correlated traits.  The concept of  spandrel is invoked as an alternative to adaptionist explanations for the evolution  of traits (Gould 1997).  Originates from  an architectural term meaning a space between two arches, or between an arch  and a rectangular enclosure.</item>
+ <item id="eip-id1172479859803"><term>Sperm  Competition</term>-   When a polyandrous female has accepted sperm from multiple males, sperm  competition determines the portion of her eggs fertilized by each male.  The extent of the male’s paternity is  positively related to the amount of sperm he transfers.  A male can increase his chances in sperm  competition through behaviors like mate guarding (seen in harems of elephant  seals, for example), increasing copulation time, or doubly inserting palpal  emboli.  See <link target-id="eip-634"/> for more information.</item>
+ <item id="eip-id6206871"> <term>Scramble  Competition</term>-   Polygynous males (that is, males who fertilize several females’ eggs in  a given reproductive season) compete for widely dispersed, more sedentary  females by “scrambling” over long distances to find them first (Vollrath and  Parker 1992). The successful male is determined more by his fortune to be in  the right place at the right time, than by particular male characteristics.</item>
+<item id="eip-id1172479017779"><term>Ultimate cause</term>- Evolved  causes that are based on the past and current usefulness of the behavior in  promoting lifetime fitness and reproductive success. Contrasts with <term>proximate causes</term> which are the  physiological mechanisms resulting in an act.</item>
+</list></section><section id="eip-195"><title>References</title><list id="eip-59" list-type="labeled-item"><item>Andrade MB. 1996. Sexual selection for male  sacrifice in the Australian redback spider. 
+  Science 271:  70-72.</item>
+  <item>Andrade MB. 1998. Female hunger can  explain variation in cannibalistic behavior  despite male sacrifice in redback spiders.  Behav Ecol. 9: 33-42.          </item>
+  <item>Andrade MB.  2003. Risky mate search and male self-sacrifice in redback spiders. Behav  Ecol. 14: 531-538.</item>
+  <item>Andrade MB, Snow LS.  2005.   Multiple sperm storage organs facilitate female control of paternity.  Proc. Roy. Soc. Lond.  270: 1623-1629.</item>
+  <item>Araqvist G,  Henriksson S. 1997. Sexual cannibalism in the fishing spider and a model for the evolution of sexual cannibalism  based on genetic constraints. Evol Ecol.  11:253-271.</item>
+  <item>Barry KL, Holwell GI, Herberstein  ME.  2008. Female praying mantids use  sexual cannibalism  as a foraging strategy to increase fecundity. Behav Ecol. 19: 710-715.</item>
+  <item>Bilde T, Tuni C,  Elsayed R, Pekar S, Toft S. 2006. Death feigning in the face of sexual cannibalism.  Biol Lett. 2: 23-25.</item>
+  <item>Birkhead TR, Lee KE, Young P.  1988. Sexual cannibalism in the praying  mantis <emphasis effect="italics">Hierodula membrnacea</emphasis>. Behavior 106:  112-118.</item>
+  <item>Blanckenhorn WU. 2000.  The evolution of body size: what keeps  organisms so small?  Quart  Rev Biol 75: 385-407.</item>
+  <item>Bonduriansky  R.  2001.   The evolution of male mate choice in insects: a synthesis of  ideas and evidence.   Biol Rev. 76: 305-339.</item>
+  <item>Bukowski  RC, Linn CD, Christenson TE.  2001.  Copulation and sperm release in <emphasis effect="italics">Gasteracantha  cancriformis</emphasis> (Araneae : Araneidae) differential male behaviour  based on female  mating history.  Anim Behav. 62: 887-895.</item>
+  <item>Buskirk RE, Frohlich C, Ross KG. The  natural selection of sexual cannibalism.  Am Nat. 1984.  123:612-625.</item>
+  <item>Chapman T, Partridge L.  1996.   Sexual Conflict as Fuel for Evolution.  Nature 381: 189- 190.  </item>
+  <item>Choe JC. 1995. Courtship feeding and  repeated mating in <emphasis effect="italics">Zorotypus barberi</emphasis> (Insecta: Zoraptera).  Anim Behav. 49: 1511-1520.</item>
+  <item>Eberhard WG.  2000.   Criteria for demonstrating postcopulatory female choice.  Ev. 54: 1047-1050.</item>
+  <item>Eberhard WG.  2004.   Why study spider sex?  Special  traits of spiders facilitate studies of sperm competition and cryptic female choice.   J. Arachnol. 32: 545-556.</item>
+  <item>Eisenberg  RM, Hurd LE, Bartley JA. 1981. Ecological consequences of food limitation for adult mantids  (<emphasis effect="italics">Tenodera ardifolia sinensis Saussure</emphasis>). Am Mid Nat. 106: 209- 218.</item>
+  <item>Elgar  MA. 1991.  Sexual cannibalism in spiders and other invertebrates.  <emphasis effect="underline">Cannibalism: ecology and evolution among diverse taxa</emphasis>.  Oxford: Oxford University Press, 128-155.</item>
+  <item>Elgar MA,   Bathgate R. 1996.  Female  receptivity and male mate-guarding in the jewel spider, <emphasis effect="italics">Gasteracantha minax</emphasis>.  Journal Insec Behav. 9: 729-738.</item>
+  <item>Elgar MA, Nash  DR. 1988. Sexual cannibalism in the garden spider <emphasis effect="italics">Araneus diadematus</emphasis>.  Anim  Behav. 36: 1511-1517.</item>
+<item>Elgar MA,  Schneider JM, Herberstein ME. 2000. Female control of paternity in the sexually cannibalistic spider <emphasis effect="italics">Argiope keyserlingi</emphasis>. R Soc Lond. 267: 2439-2443.</item>
+  <item>Foellmer MW,  Fairbairn DJ.  2003.  Spontaneous male death during copulation of an orb- weaving spider.  The Roy Soc. 270: 183-185.</item>
+  <item>Foellmer  MW, Fairbairn DJ.  2004.  Males under attack: sexual cannibalism and its consequences for male morphology and  behavior in an orb-weaving spider.  Evol  Ecol  Res. 6: 163-181.</item>
+  <item>Forster  LM.  1992.  The stereotyped behavior of sexual cannibalism in <emphasis effect="italics">Latrodectus hasselti </emphasis>(Araneae: Theridiiidae), the Australian redback spider.  Aus Jour Zool. 40: 1-11.</item>
+  <item>Fox LR. 1975a.  Cannibalism in natural populations. Annu Rev Ecol Syst. 6: 87-106.</item>
+  <item>Fox LR. 1975b.  Factors influencing cannibalism, a mechanism of population limitation in the predator <emphasis effect="italics">Notonecta hoffmanni</emphasis>.   Ecology. 56: 933-941.</item>
+  <item>Gemeno C,  Claramunt J. 2006. Sexual approach in the praying mantid <emphasis effect="italics">mantis religiosa</emphasis>. J  Insect  Behav. 19: 731-740.</item>
+
+<item>Gould, SJ. 1997.  The exaptive excellence of spandrels as a term and prototype. Natl Acad Sci. 94: 10750-10755.</item>
+  <item>Haddon  M. 1995.  Avoidance of post-cloital cannibalism in the brachyurid paddle crab <emphasis effect="italics">Ovalipes catharus</emphasis>.  Oecologia 104: 256-258.</item>
+  <item>Hebets  EA. 2003. Subadult experience influences adult mate choice in an arthropod: exposed  female spiders prefer males of a familiar phenotype.  Nat Academ of Sci.   100:  13390-13395.</item>
+  <item>Hebets EA, Wesson J, Shamble PS.  2008. Diet influences mate choice selectivity in adult female wolf spiders. Anim Behav. 76: 355-363.</item>
+  <item>Hellriegel  B, Ward PI. 1998.  Complex female reproductive tract morphology: its possible use in postcopulatory female choice.  J. Theor. Biol. 190: 179-186.</item>
+  <item>Humphries MM,  Thomas DW, Kramer DL.  2003. The role of energy availability in mammalian hibernation: a cost-benefit approach. Phys and Bioch Zool. 76: 165-179.</item>
+  <item>Hurd LE, Eisenberg RM, Fagan WF. 1994.  Cannibalism revereses male-biased sex ratio in adult mantids: female strategy against food limitation? Oikos. 69:193-198.</item>
+  <item>Lang A.  1996.   Silk investments in gifts by males of the nuptial feeding spider <emphasis effect="italics">Pisaura  mirabilis</emphasis> (Araneae: Pisauridae).  Behav. 133: 697-716.</item>
+<item>Lelito JP, Brown  WD. 2006. Complicity or conflict over sexual cannibalism?  Male risk taking in the praying mantis <emphasis effect="italics">Tenodera aridifolia  sinensis</emphasis>. Am Nat. 168: 263-269.</item>
+ <item>Liske E. 1991.  Sensorimotor control of abdominal mating movements in the male praying mantis. Zool J Physiol. 95: 465-473.</item>
+<item>Liske E, Davis  WJ. 1984. Sexual behavior of the Chinese praying mantis. Anim Behav. 32: 916-918</item>
+  <item>Liske E, Davis  WJ. 1987. Courtship and mating behavior of the Chinese praying mantis, <emphasis effect="italics">Tenodera aridifolia sinensis</emphasis>. Anim Behav. 35:  1524-1537.</item>
+  <item>Megina C, Cervera JL.  2002.  Diet, prey selection a nd cannibalism in the hunter opisthobranch <emphasis effect="italics">Roboastra europaea</emphasis>.  Jour  Marin Biol Assoc UK 83: 489-495.</item>
+  <item>Morse  DH. 2004.  A test of sexual cannibalism models, using a sit-and-wait predator.  Biol J Linn Soc. 81:427-437.</item>
+  <item>Newman JA, Elgar MA. 1991. Sexual cannibalism in orb-weaving spiders: an economic model.  Am Nat. 138: 1372-1395.</item>
+  <item>Persons MH, Uetz  GW. 2003. Sexual cannibalism and mate choice decisions in wolf spiders: influence of male size and secondary sexual characteristics. Anim Behav. 69:83-94.</item>
+  <item>Prenter J,  MacNeil C, Elwood RW. 2006. Sexual cannibalism and mate choice. Anim Behav. 71: 481-490.</item>
+  <item>Rabaneda-Bueno R  et al.  2008.  Sexual cannibalism: high incidence in a  natural population with benefits to females. PlosOne. 3:1-10.</item>
+  <item>Robinson MH, Robinson  B.  1979.  By dawn’s early light: matutinal mating and sex attractants in a neotropical mantid.  Science 204:  825-827.</item>
+  <item>Rubenstein  DI 1987.  Alternative reproductive tactics in the spider <emphasis effect="italics">Meta segmentata</emphasis>.  Behav Ecol and Sociol. 20:  229-237.</item>
+  <item>Siller S.  2001.   Sexual selection and the maintenance of sex.  Nature 411:  689-692.</item>
+  <item>Sasaki T, Iwahashi O.  1995.  Sexual cannibalism in an orb-weaving spider <emphasis effect="italics">Argiope aemula</emphasis>.  Anim Behav.   49: 1119-1121.</item>
+  <item>Schneider JM,  Elgar MA. 2001. Sexual cannibalism and sperm competition on the golden orb-web spider <emphasis effect="italics">Nephila plumipes</emphasis> (Araneoidea): female and male perspectives.  Behav  Ecol.12: 547-552.</item>
+  <item>Schneider JM,  Fromhage L. 2005. Safe sex with feeding females: sexual conflict in a cannibalistic spider. Behav Ecol. 16: 377-382.</item>
+  <item>Shneider JM,  Lubin Y. 1998. Intersexual conflict in spiders. Oikos 83: 496-506.</item>
+  <item>Schneider JM,  Fromhage L, Uhl G. 2003. Fitness consequences of sexual cannibalism in female <emphasis effect="italics">Argiope bruennichi</emphasis>. Behav Ecol and Sociob.  55: 60-64.</item>
+  <item>Schneider JM,  Gilberg S, Fromhage L, Uhl G. 2006. Sexual conflict over copulation duration in a cannibalistic spider.  Anim Behav. 71:781-788.</item>
+  <item>Stalhandske P.  2001. Nuptial gift in the spider <emphasis effect="italics">Pisaura mirabilis</emphasis> maintained by sexual selection.  Behav Ecol. 12: 691-697.</item>
+  <item>Thornhill R.  1976a.  Sexual selection and paternal investment in insects.  Am Nat. 110:  153-163.</item>
+<item>Thornhill  R.  1976b. Sexual selection and nuptial feeding behavior in <emphasis effect="italics">Bittacus apicalis</emphasis>.  Am  Nat.110: 529-548.  </item>
+  <item>Uhl G, Nessler  SH, Schneider J.  2007. Copulatory mechanism in a sexually cannibalistic spider with genital mutilation (Araneae: Araneidae: Argiope bruennichi). Zool. 100: 398-408.</item>
+  <item>Vollrath F,  Parker GA.  1992.  Sexual dimorphism and distorted sex ratios in  spiders.  Nature 360: 156-159.</item>
+<item>Wilder SM,  Rypstra AL. 2008a. Diet quality affects mating behavior and egg production in a wolf spider. Anim Behav. 76: 439-445.</item>
+<item>Wilder SM,  Rypstra AL. 2008b. Sexual size dimorphism predicts the frequency of sexual cannibalism within and among species of  spiders. Am Nat. 172: 431-440.</item>
+<item>Yagar DD,  Svenson GJ.  2008.  Patterns of praying mantis auditory system evolution based on morphological, molecular, neurophysiological, and behavioral data. Biol.  J. Linn. Soc. 94: 541-568.</item></list><para id="eip-410">
+Insert paragraph text here.
+</para></section><list id="eip-24" list-type="labeled-item"><item>Andrade MB. 1996. Sexual selection for male  sacrifice in the Australian redback spider. 
+  Science 271:  70-72.</item>
+  <item>
+  Andrade MB. 1998. Female hunger can  explain variation in cannibalistic behavior  despite male sacrifice in redback spiders.  Behav Ecol. 9: 33-42.          </item>
+  <item>
+  Andrade MB.  2003. Risky mate search and male self-sacrifice in redback spiders. Behav  Ecol. 14: 531-538.</item>
+  <item>
+  Andrade MB, Snow LS.  2005.   Multiple sperm storage organs facilitate female control of paternity.  Proc. Roy. Soc. Lond.  270: 1623-1629.</item>
+  <item>
+  Araqvist G,  Henriksson S. 1997. Sexual cannibalism in the fishing spider and a model for the evolution of sexual cannibalism  based on genetic constraints. Evol Ecol.  11:253-271.</item>
+  <item>
+  Barry KL, Holwell GI, Herberstein  ME.  2008. Female praying mantids use  sexual</item>
+  <item>
+  cannibalism  as a foraging strategy to increase fecundity. Behav Ecol. 19: 710-715.</item>
+  <item>
+  Bilde T, Tuni C,  Elsayed R, Pekar S, Toft S. 2006. Death feigning in the face of sexual cannibalism.  Biol Lett. 2: 23-25.</item>
+  <item>
+  Birkhead TR, Lee KE, Young P.  1988. Sexual cannibalism in the praying  mantis <emphasis effect="italics">Hierodula membrnacea</emphasis>. Behavior 106:  112-118.</item>
+  <item>
+  Blanckenhorn WU. 2000.  The evolution of body size: what keeps  organisms so small?  Quart  Rev Biol 75: 385-407.</item>
+  <item>
+  Bonduriansky  R.  2001.   The evolution of male mate choice in insects: a synthesis of  ideas and evidence.   Biol Rev. 76: 305-339.</item>
+  <item>
+  Bukowski  RC, Linn CD, Christenson TE.  2001.  Copulation and sperm release in <emphasis effect="italics">Gasteracantha  cancriformis</emphasis> (Araneae : Araneidae) differential male behaviour  based on female  mating history.  Anim Behav. 62: 887-895.</item>
+  <item>
+  Buskirk RE, Frohlich C, Ross KG. The  natural selection of sexual cannibalism.  Am Nat. 1984.  123:612-625.</item>
+  <item>
+  Chapman T, Partridge L.  1996.   Sexual Conflict as Fuel for Evolution.  Nature 381: 189- 190.  </item>
+  <item>
+  Choe JC. 1995. Courtship feeding and  repeated mating in <emphasis effect="italics">Zorotypus barberi</emphasis> (Insecta: Zoraptera).  Anim Behav. 49: 1511-1520.</item>
+  <item>
+  Eberhard WG.  2000.   Criteria for demonstrating postcopulatory female choice.  Ev. 54: 1047-1050.</item>
+  <item>
+  Eberhard WG.  2004.   Why study spider sex?  Special  traits of spiders facilitate studies of sperm competition and cryptic female choice.   J. Arachnol. 32: 545-556.</item>
+  <item>
+  Eisenberg  RM, Hurd LE, Bartley JA. 1981. Ecological consequences of food limitation for adult mantids  (<emphasis effect="italics">Tenodera ardifolia sinensis Saussure</emphasis>). Am Mid Nat. 106: 209- 218.</item>
+  <item>
+  Elgar  MA. 1991.  Sexual cannibalism in spiders and other invertebrates.  <emphasis effect="underline">Cannibalism: ecology and evolution among diverse taxa</emphasis>.  Oxford: Oxford University Press, 128-155.</item>
+  <item>
+  Elgar MA,   Bathgate R. 1996.  Female  receptivity and male mate-guarding in the jewel spider, <emphasis effect="italics">Gasteracantha minax</emphasis>.  Journal Insec Behav. 9: 729-738.</item>
+  <item>
+  Elgar MA, Nash  DR. 1988. Sexual cannibalism in the garden spider <emphasis effect="italics">Araneus diadematus</emphasis>.  Anim  Behav. 36: 1511-1517.</item><item>
+  Elgar MA,  Schneider JM, Herberstein ME. 2000. Female control of paternity in the sexually cannibalistic spider <emphasis effect="italics">Argiope keyserlingi</emphasis>. R Soc Lond. 267: 2439-2443.</item>
+  <item>
+  Foellmer MW,  Fairbairn DJ.  2003.  Spontaneous male death during copulation of an orb- weaving spider.  The Roy Soc. 270: 183-185.</item>
+  <item>
+  Foellmer  MW, Fairbairn DJ.  2004.  Males under attack: sexual cannibalism and its consequences for male morphology and  behavior in an orb-weaving spider.  Evol  Ecol  Res. 6: 163-181.</item>
+  <item>
+  Forster  LM.  1992.  The stereotyped behavior of sexual cannibalism in <emphasis effect="italics">Latrodectus hasselti </emphasis>(Araneae: Theridiiidae), the Australian redback spider.  Aus Jour Zool. 40: 1-11.</item>
+  <item>
+  Fox LR. 1975a.  Cannibalism in natural populations. Annu Rev Ecol Syst. 6: 87-106.</item>
+  <item>
+  Fox LR. 1975b.  Factors influencing cannibalism, a mechanism of population limitation in the predator <emphasis effect="italics">Notonecta hoffmanni</emphasis>.   Ecology. 56: 933-941.</item>
+  <item>
+  Gemeno C,  Claramunt J. 2006. Sexual approach in the praying mantid <emphasis effect="italics">mantis religiosa</emphasis>. J  Insect  Behav. 19: 731-740.</item><item>
+  Gould, SJ. 1997.  The exaptive excellence of spandrels as a term and prototype. Natl Acad Sci. 94: 10750-10755.</item>
+  <item>
+  Haddon  M. 1995.  Avoidance of post-cloital cannibalism in the brachyurid paddle crab <emphasis effect="italics">Ovalipes catharus</emphasis>.  Oecologia 104: 256-258.</item>
+  <item>
+  Hebets  EA. 2003. Subadult experience influences adult mate choice in an arthropod: exposed  female spiders prefer males of a familiar phenotype.  Nat Academ of Sci.   100:  13390-13395.</item>
+  <item>
+  Hebets EA, Wesson J, Shamble PS.  2008. Diet influences mate choice selectivity in adult female wolf spiders. Anim Behav. 76: 355-363.</item>
+  <item>
+  Hellriegel  B, Ward PI. 1998.  Complex female reproductive tract morphology: its possible use in postcopulatory female choice.  J. Theor. Biol. 190: 179-186.</item>
+  <item>
+  Humphries MM,  Thomas DW, Kramer DL.  2003. The role of energy availability in mammalian hibernation: a cost-benefit approach. Phys and Bioch Zool. 76: 165-179.</item>
+  <item>
+  Hurd LE, Eisenberg RM, Fagan WF. 1994.  Cannibalism revereses male-biased sex ratio in adult mantids: female strategy against food limitation? Oikos. 69:193-198.</item>
+  <item>
+  Lang A.  1996.   Silk investments in gifts by males of the nuptial feeding spider <emphasis effect="italics">Pisaura  mirabilis</emphasis> (Araneae: Pisauridae).  Behav. 133: 697-716.</item>
+<item>Lelito JP, Brown  WD. 2006. Complicity or conflict over sexual cannibalism?  Male risk taking in the praying mantis <emphasis effect="italics">Tenodera aridifolia  sinensis</emphasis>. Am Nat. 168: 263-269.</item>
+ <item> Liske E. 1991.  Sensorimotor control of abdominal mating movements in the male praying mantis. Zool J Physiol. 95: 465-473.</item><item>
+  Liske E, Davis  WJ. 1984. Sexual behavior of the Chinese praying mantis. Anim Behav. 32: 916-918</item>
+  <item>
+  Liske E, Davis  WJ. 1987. Courtship and mating behavior of the Chinese praying mantis, <emphasis effect="italics">Tenodera aridifolia sinensis</emphasis>. Anim Behav. 35:  1524-1537.</item>
+  <item>
+  Megina C, Cervera JL.  2002.  Diet, prey selection a nd cannibalism in the hunter opisthobranch <emphasis effect="italics">Roboastra europaea</emphasis>.  Jour  Marin Biol Assoc UK 83: 489-495.</item>
+  <item>
+  Morse  DH. 2004.  A test of sexual cannibalism models, using a sit-and-wait predator.  Biol J Linn Soc. 81:427-437.</item>
+  <item>
+  Newman JA, Elgar MA. 1991. Sexual cannibalism in orb-weaving spiders: an economic model.  Am Nat. 138: 1372-1395.</item>
+  <item>
+  Persons MH, Uetz  GW. 2003. Sexual cannibalism and mate choice decisions in wolf spiders: influence of male size and secondary sexual characteristics. Anim Behav. 69:83-94.</item>
+  <item>
+  Prenter J,  MacNeil C, Elwood RW. 2006. Sexual cannibalism and mate choice. Anim Behav. 71: 481-490.</item>
+  <item>
+  Rabaneda-Bueno R  et al.  2008.  Sexual cannibalism: high incidence in a  natural population with benefits to females. PlosOne. 3:1-10.</item>
+  <item>
+  Robinson MH, Robinson  B.  1979.  By dawn’s early light: matutinal mating and sex attractants in a neotropical mantid.  Science 204:  825-827.</item>
+  <item>
+  Rubenstein  DI 1987.  Alternative reproductive tactics in the spider <emphasis effect="italics">Meta segmentata</emphasis>.  Behav Ecol and Sociol. 20:  229-237.</item>
+  <item>
+  Siller S.  2001.   Sexual selection and the maintenance of sex.  Nature 411:  689-692.</item>
+  <item>
+  Sasaki T, Iwahashi O.  1995.  Sexual cannibalism in an orb-weaving spider <emphasis effect="italics">Argiope aemula</emphasis>.  Anim Behav.   49: 1119-1121.</item>
+  <item>
+  Schneider JM,  Elgar MA. 2001. Sexual cannibalism and sperm competition on the golden orb-web spider <emphasis effect="italics">Nephila plumipes</emphasis> (Araneoidea): female and male perspectives.  Behav  Ecol.12: 547-552.</item>
+  <item>
+  Schneider JM,  Fromhage L. 2005. Safe sex with feeding females: sexual conflict in a cannibalistic spider. Behav Ecol. 16: 377-382.</item>
+  <item>
+  Shneider JM,  Lubin Y. 1998. Intersexual conflict in spiders. Oikos 83: 496-506.</item>
+  <item>
+  Schneider JM,  Fromhage L, Uhl G. 2003. Fitness consequences of sexual cannibalism in female <emphasis effect="italics">Argiope bruennichi</emphasis>. Behav Ecol and Sociob.  55: 60-64.</item>
+  <item>
+  Schneider JM,  Gilberg S, Fromhage L, Uhl G. 2006. Sexual conflict over copulation duration in a cannibalistic spider.  Anim Behav. 71:781-788.</item>
+  <item>
+  Stalhandske P.  2001. Nuptial gift in the spider <emphasis effect="italics">Pisaura mirabilis</emphasis> maintained by sexual selection.  Behav Ecol. 12: 691-697.</item>
+  <item>
+  Thornhill R.  1976a.  Sexual selection and paternal investment in insects.  Am Nat. 110:  153-163.</item><item>
+  Thornhill  R.  1976b. Sexual selection and nuptial feeding behavior in <emphasis effect="italics">Bittacus apicalis</emphasis>.  Am  Nat.110: 529-548.  </item>
+  <item>
+  Uhl G, Nessler  SH, Schneider J.  2007. Copulatory mechanism in a sexually cannibalistic spider with genital mutilation (Araneae: Araneidae: Argiope bruennichi). Zool. 100: 398-408.</item>
+  <item>
+  Vollrath F,  Parker GA.  1992.  Sexual dimorphism and distorted sex ratios in  spiders.  Nature 360: 156-159.</item><item>
+  Wilder SM,  Rypstra AL. 2008a. Diet quality affects mating behavior and egg production in a wolf spider. Anim Behav. 76: 439-445.</item><item>
+  Wilder SM,  Rypstra AL. 2008b. Sexual size dimorphism predicts the frequency of sexual cannibalism within and among species of  spiders. Am Nat. 172: 431-440.</item>
+ <item> Yagar DD,  Svenson GJ.  2008.  Patterns of praying mantis auditory system evolution based on morphological, molecular, neurophysiological, and behavioral data. Biol.  J. Linn. Soc. 94: 541-568.</item></list>
+
+
+</content>
+
+</document>

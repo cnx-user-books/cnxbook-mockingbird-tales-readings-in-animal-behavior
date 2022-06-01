@@ -1,0 +1,193 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Cooperative Breeding in Birds</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34719</md:content-id>
+  <md:title>Cooperative Breeding in Birds</md:title>
+  <md:abstract>Animals have evolved to behave in ways that maximize their reproductive success. This makes behavior that reduces their reproduction, but helps someone else’s, difficult to understand. Possible solutions to this dilemma include helping relatives, improving the chance of inheriting a good reproductive position in the future, and maximizing access to resources. Examples of this phenomenon are particularly widespread within populations of birds engaged in cooperative breeding, where individuals heavily invest in rearing offspring that are not their own. Biological parents and one or more foster parents cooperate to raise a nest’s offspring. This helpful behavior results in a foster parent foregoing its opportunity to have progeny of its own during that breeding season. Despite this significant cost, there are many major benefits to being a helper. This section will examine these benefits and the ecological variables that determine whether or not an individual will participate in cooperative breeding.</md:abstract>
+  <md:uuid>b3b9ec44-bff6-45e7-af11-f91e46ff883f</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1164466276435"><emphasis effect="bold">Author:</emphasis> Omar Metwalli</para>
+    <section id="id1164482793575">
+      <title>Introduction</title>
+      <para id="id1164474593431"> Helpers assist in raising nondescendent kin, individuals that are not their progeny, by collecting food, building nests, and warding off predators (Canário et al. 2004). Their presence is consequently expected to increase the survival rate of young hatchlings. The helpers, or alloparents, take on a subordinate altruistic role rather than maximizing their own direct reproduction, so as to increase the native parents’ reproductive output. This cost, however, must be outweighed by its benefits if it is to be a positively selected trait.</para>
+      <para id="id1164465607412">The benefits of cooperative breeding are more obvious when considered in light of the theory of kin selection formulated by W.D. Hamilton in 1964. Kin selection is a form of natural selection favoring altruistic behavior toward close relatives. Though this behavior does not directly increase an individual’s reproductive fitness, as is possible by personal reproduction, it does provide an evolutionary benefit in the form of indirect reproductive fitness. This idea’s genetic basis is also explained by W.D. Hamilton’s theory, which identifies the ultimate goal of reproduction as the passing on of one’s alleles (Hamilton 1963). Helping to raise nondescendent kin as a helper in cooperative breeding systems achieves this goal, albeit indirectly.</para>
+      <example id="oo-id1164455842273"><label>Box</label><title>Hamilton’s Rule</title>
+        <para id="id1164463461681">In accordance with his theory, Hamilton developed a rule by which kin selection could be analyzed quantitatively. The rule, which can be written as an inequality, dictates that genes should exhibit increased frequency when <emphasis effect="italics">rB&gt;C</emphasis>. <emphasis effect="italics">r</emphasis> represents the genetic relatedness of the recipient to the actor. It is based on the probability a gene picked randomly from each individual will be identical by descent. <emphasis effect="italics">B</emphasis> stands for the reproductive benefit gained by the recipient, and <emphasis effect="italics">C </emphasis>denotes the reproductive cost to the altruist. Thus, genes encoding altruistic behavior will gradually become more prevalent if the benefit to the recipient, multiplied by a factor of relatedness, is greater than the cost to the actor. If the cost to the individual performing the action exceeds the product of the beneficiary’s fitness gain and the participants’ genetic relatedness, evolution will select against the gene and its frequency will decrease. </para>
+      </example>
+      <para id="id1164478208978">Though there are numerous examples of kin selection among birds, helpers are not always related to the offspring they rear. In these situations, as among Azure-winged Magpies, there are usually ecological factors that promote cooperative breeding as well as numerous benefits that offset the reproductive costs incurred by helpers (Canário et al. 2004). </para>
+      <para id="id1164463357261">In most cooperatively breeding birds such as Micronesian kingfishers, helpers are commonly sub-adults, or young individuals that are reproductively mature but choose not to breed (Kesler &amp; Haig. 2007). Other species, such as the brown-headed nuthatch, are conditionally cooperative breeders. Individuals of this type all attempt to breed independently each year and only resort to helping when their nests fail (Cox et al. 2007). In some unique instances, such as in populations of the Seychelles warbler, cooperative breeding is facilitated by not only sub-adults but also post-reproductive grandmothers that have lost their position of breeding dominance (Richardson et al. 2007). </para>
+    </section>
+    <section id="id1164463482271">
+      <title>Why Be a Helper?</title>
+      <para id="id1164479978093">This section aims to identify the benefits helpers accrue in compensation for their reproductive costs, as well as the external variables that promote cooperative breeding. </para>
+      <para id="id1164475994277">The presence of helpers in cooperatively breeding units increases the survival rate of young hatchlings (Canário et al. 2004). This result is obviously beneficial to the new generation but it comes at a price to the helper, who must sacrifice time, energy, and the opportunity of having their own offspring during that breeding season. In light of these costs, there must be an evolutionary reason for birds to still engage in cooperative breeding. An examination of this form of breeding in the azure-winged magpie provides some clues as to why and when it makes evolutionary sense to be a helper.</para>
+      <para id="id1164460017918">The azure-winged magpie is a member of the Corvidae, or crow-family, of birds (<link target-id="id1164466710949"/>). It breeds in small colonies and feeds mainly on insects. Helpers of cooperatively breeding families in this species do not follow a pattern of kin selection in that they are not necessarily directly related to the families they assist (Canário et al. 2004). They contribute to nest building and upkeep, feeding nestlings and brooding females, and warding off predators. In a study of Iberian Azure-winged Magpies in Portugal during two consecutive breeding seasons, researchers found the number of helpers and cooperatively breeding units to be heavily influenced by changes in the weather. The year that experienced significantly more rainfall (~30%) witnessed an increase in the number of helpers and cooperatively breeding units (Canário et al. 2004). This may be attributed to the fact that rainfall has a marked influence on the presence of invertebrates, which are the main component of the Azure-winged Magpie’s diet. During rainfall, insects tend to seek cover making it more difficult for Magpies to find them. This reduces the available food supply. As a result, increased numbers of helpers appear because the low probability of successful reproduction caused by limited resources discourages a large proportion of mature adults from breeding and instead encourages them to invest in rearing the offspring of others.</para>
+      <example id="oo-id1164472433080"><label>Box</label><title>Do Parents Benefit From Helpers?</title>
+        <para id="id1164467199313">In some species, such as the Long-tailed tit and the Arabian babbler, an inverse relationship between the number of helpers and the provisioning rate of the native parents has been documented. This reduction in care by parents of cooperatively breeding units is often correlated with populations exhibiting low rates of nestling starvation and the possibility of having more than one brood per season (Hatchwell et al. 2000). This observation, for example, has not been recorded in Azure-winged Magpie parents, which do not reduce their chick feeding levels when they are aided (Canário et al. 2004). This is due to the fact that these Magpies produce only one brood every season. As a result, the pressure to successfully raise offspring is much higher than in species that have multiple broods per season. Thus, the parents pass on a more significant share of the benefit helpers contribute directly to their offspring. </para>
+      </example>
+      <para id="id1164466818601">
+        <figure id="id1164466710949"><media id="id1164466710949_media" alt="Azure-Winged Magpies">
+            <image mime-type="image/jpg" src="../../media/Picture 12.jpg" id="id1164466710949__onlineimage" height="224" width="331"/>
+          </media>
+          
+        <caption>Azure-Winged Magpies <newline/>These crow-like communal birds can only be found in the Iberian Peninsula or East Asia.</caption></figure>
+      </para>
+      <para id="id1164470596062">Though this study demonstrates that cooperative breeding can be caused by ecological factors such as weather and the availability of food, it does not describe why a bird chooses to become a helper rather than a floater, a bird with no territorial or rearing commitments. The natural evolutionary preference towards being a helper can be explained by taking a closer look at cooperative breeding in the Micronesian kingfisher. </para>
+    </section>
+    <section id="id1164451289420">
+      <title>The Benefits of Helping</title>
+      <para id="id1164475894329">The Micronesian kingfisher (<emphasis effect="italics">Todiramphus cinnamominus</emphasis>) is an endangered native of the Micronesian islands of Guam, Pohnpei, and Palau (<link target-id="id1164467449789"/>). These small colorful birds live in forest thickets. Both males and females play a major role in caring for young, and offspring often remain with their parents as helpers after they have reached adulthood. This tendency towards cooperative breeding is of particular concern because kingfishers that decide to become helpers at the nest essentially remove themselves from the eligible reproducing population for that breeding season, forfeiting a chance to pass on their genes. Studies using radiotelemetry and remote sensing to record habitat preferences have revealed, however, that despite this disadvantage, Micronesian kingfishers in cooperative breeding families are able to collectively secure better resources and larger territories than those in single pair breeding families (Kesler &amp; Haig 2007).</para>
+      <para id="id1164472444042">
+        <figure id="id1164467449789"><media id="id1164467449789_media" alt="A yellow Guam Micronesian Kingfisher.">
+            <image mime-type="image/png" src="../../media/figure15.png" id="id1164467449789__onlineimage" height="237" width="350"/>
+          </media>
+          
+        <caption>Guam Micronesian Kingfisher <newline/>This subspecies is extinct in the wild as a result of the introduction of brown tree snakes to its native island of Guam during WWII.</caption></figure>
+      </para>
+      <para id="id1164475951779">The presence of additional mature kingfishers in cooperative breeding units allows them to out-compete single breeding pairs for the most beneficial settling sites (<link target-id="id1164475014684"/>). This prospect of access to ideal territories is just one of the evolutionary motivations for birds to participate in cooperative breeding, and may explain helping behavior beyond a kin selection model.</para>
+      <para id="id1164462299343">Kesler and Haig’s study also showed that not only did all of the adults in cooperative breeding families enjoy more resources than their single-pair counterparts, all adult members of the cooperative units used equal amounts of resources (2007). Thus, helpers are entitled to the same amount of food and shelter as the native parents, indicating they do not sacrifice their physical well-being to any measurable degree, by participating in a cooperative breeding arrangement. Instead, they are actually given access to exceptional resources they would have not been able to acquire otherwise. </para>
+      <para id="id1164476075492">Furthermore, helpers are also eligible to inherit their parents’ territory once the parents die. Consequently, any lost reproductive chances they endure while waiting to inherit the territory is offset by the long-term fitness gains of eventually controlling the territory. In an environment with a limited number of ideal territories, such as the Micronesian islands, it is well worth a young kingfisher’s time and effort to be a helper in order to attain a premier nesting site (Kesler &amp; Haig 2007). Helpers therefore also benefit from a cooperative breeding arrangement by being provided a breeding territory they do not have to fight or search for.</para>
+      <example id="oo-id1164473084792"><label>Box</label><title>Mechanism of Kin Recognition in Long-Tailed Tits</title> 
+
+
+<para id="eip-id1169827852995">
+Long-tailed tits respond differently to various broadcast calls (Hatchwell et al. 2001). They are able to differentiate between those of kin and non-kin. This discriminatory behavior could be used in deciding which individuals helper tits will commit to helping. The nature of the calls, however, does not always describe the genetic relatedness of the birds, but rather association with a particular group. This observation is further supported by the fact that parents raising foster chicks do not discriminate between them and their direct progeny because all of the nestlings learn to elicit the same vocal cues (Hatchwell et al. 2001). In addition, the helping behavior of cross-fostered siblings shows that they do not differentiate between related and unrelated brood mates, supporting the proposition that the kin recognition mechanism is not innate, but learned through association. Thus, in the case of long-tailed tits, kin selection is based on social relationships rather than actual genetic similarity. 
+</para>
+      </example>
+      
+      <para id="id1164453830646">Cooperative breeding thus has many attractive survival benefits to allure prospective helpers. These physical benefits, however, are not the only evolutionary motivation for helpers to assist parents in raising offspring. If the helpers are related to the offspring they are helping to rear, they are actually indirectly benefitting themselves in a genetic sense. By increasing the chance that one of their younger siblings, for example, will survive, helpers are indirectly improving the chance that their own genes will be passed on, since siblings share half of their genes.</para>
+    </section>
+    <section id="id1164453555158">
+      <title>Selfish Helping</title>
+      <para id="id1164469765443">The motivations, however, for becoming a helper in a cooperative breeding system are not always ultimately based upon improving the chance an individual will pass on their genes. Sometimes, adult birds become helpers for the sole reason of accruing personal benefits. This discrepancy has been observed among Brown-headed nuthatches (<emphasis effect="italics">Sitta pusilla</emphasis>) (<link target-id="id1164454907233"/>).</para>
+      <figure id="id1164454907233"><media id="id1164454907233_media" alt="Brown-Headed Nuthatch">
+          <image mime-type="image/jpg" src="../../media/Picture 0-b9e8.jpg" id="id1164454907233__onlineimage" height="290" width="264"/>
+        </media>
+        
+      <caption>Brown-Headed Nuthatch <newline/>Nuthatches are small cavity-dwelling passerines (perching song birds). They are usually monogamous, pairing with their partners for life.</caption></figure>
+      <para id="id1164456576333">In a population of nuthatches studied in north Florida, about 20% of adults were recorded to engage in cooperative breeding, indicating it is a relatively widespread phenomenon (Cox et al. 2007). Surprisingly, a survey of nestling survival rates revealed that the presence of helpers did not actually increase nest productivity. Some nests had up to 5 helpers and yet the average number of nestlings raised by cooperatively breeding and single-pair breeding families was both approximately 4 chicks per season (Cox et al. 2007). This statistic indicates that the majority of benefits resulting in helper activity are enjoyed by the native parents, instead of the offspring; all of the nuthatch nestlings, whether they are raised in a cooperatively breeding unit or not, receive the same amount of total care from their guardians. Additional helpers share in meeting this set quota of care, alleviating the responsibilities of other adults while not ultimately increasing the net care delivered to progeny.</para>
+      <figure id="id1164475014684"><media id="id1164475014684_media" alt="A graph of the average area of types of habitat in territories of non-cooperative and cooperative breeding families">
+          <image mime-type="image/png" src="../../media/Chart 5.png" id="id1164475014684__onlineimage" height="340" width="535"/>
+        </media>
+        
+      <caption>Average Area of Types of Habitat in Territories of Non-Cooperative and Cooperative Breeding Families Despite the fact that non-cooperative parents outnumbered cooperative parents, the cooperative families controlled more of every kind of habitat, especially ideal foraging areas (edge zone), due to the assistance of their helpers (Adapted from Kesler &amp; Haig 2007).</caption></figure>
+      <para id="id1164453877089">Adult nuthatches usually resort to helping behavior following personal nest failure (Cox et al. 2007). The main causes of this failure are often depredation by higher consumers or the destruction of their nest by fire or other natural phenomena. The secondary motivation for helping behavior is the inability of young adults to successfully find a mate and breed. This is often attributed to a shortage in the female nuthatch population or an increased density in local nuthatch nesting sites (Cox et al. 2007). Female nuthatches are more susceptible to predators because they are often taking care of young progeny at the nest, while the males collect food. As a result, they succumb to predation by animals looking for nuthatch eggs or chicks. In reference to the availability of territories, an increased density in nesting sites results in a reduced dispersion of resources among individuals. This decreased supply of resources makes it more difficult for breeding pairs to sufficiently provide their nestlings with food; as a result many pairs will either choose to not produce offspring or become helpers at their parents’ nests. Thus, in some bird species the incentives for becoming helpers are solely based on selfish interests, such as securing personal security and food sources, rather than helping indirectly related nestlings survive. In such cases, helping behavior is the cost these individuals pay for access to the benefits of communal living. </para>
+    </section>
+    <section id="id1164471975687">
+      <title>Grandparent Helpers</title>
+      <para id="id1164455567082">So far, only young helpers capable of reproducing have been examined. Older birds that have become too old to have offspring, however, also sometimes take up the role of helper.</para>
+      <figure id="id1164461466035"><media id="id1164461466035_media" alt="A Seychelles Warbler">
+          <image mime-type="image/jpg" src="../../media/Picture 1-5752.jpg" id="id1164461466035__onlineimage" height="264" width="303"/>
+        </media>
+        
+      <caption>Seychelles Warbler <newline/>A passerine endemic to the Seychelles Islands, they live in cooperatively breeding units containing up to 3 generations of individuals.</caption></figure>
+      <para id="id1164465747277">A grandparent as a helping subordinate in a cooperative system is a phenomenon that has been observed in a few exclusive species. The Seychelles warbler (<emphasis effect="italics">Acrocephalus sechellensis</emphasis>) is one of these unique species (<link target-id="id1164461466035"/>). It is a small song bird found exclusively on the Seychelles islands. Interestingly, the majority of helpers within this species tend to be females (Richardson et al. 2002). Observations gathered over several years suggest that dominant, reproducing females are occasionally displaced by younger, more fertile females (Richardson et al. 2007). These displaced birds either become floaters or choose to join a cooperatively breeding family as a helper.</para>
+      <para id="id1164465436298">A population of these Seychelles warblers on Cousin Island in the Indian Ocean has been strictly monitored since 1981. By recording the complete life history and pedigree of the studied warblers Richardson et al. were able to study the phenomenon of grandparent helpers, which make up roughly 10% of the helper population (2002). Between 1981 and 2004 it was observed that about 14% of females in dominant breeding positions lost their status through usurpation by another female, in the remaining cases the females retained their position until they died. 68% of deposed females became subordinates, while the rest became floaters (Richardson et al. 2002). Thus, becoming a helper appears to be a favored outcome among these individuals. </para>
+      <para id="id1164463477573">From an evolutionary perspective, as a bird gets older the cost of reproduction increases. At some point in the bird’s lifecycle it will no longer be beneficial for it to breed its own offspring. Older females can thus maintain greater reproductive benefits by increasing the reproductive success of their relatives, rather than breeding themselves (Williams 1957; Hamilton 1966). In this manner they are still able to pass their genes on to a limited extent, similar to the sibling helpers in Micronesian kingfishers.</para>
+      <para id="id1164471519603">Often the dominant female is deposed by related individuals. In 57% of displacement cases among Seychelles warblers, the new dominant female was identified as being a daughter, sister, or niece of the deposed female (Richardson et al. 2007). Since deposed females tend to help the nest they were originally breeding in, this observation indicates that in most cases the grandparent helper ends up increasing the reproductive success of a closely related warbler. In accordance with Hamilton’s theory, this behavior maximizes a grandparent’s gene dispersal and as a result, is evolutionarily favorable.</para>
+      <example id="oo-id1164469993095"><label>Box</label><title>White Ibis</title>
+        <para id="id1164454792750">Non-breeding female White Ibises (<emphasis effect="italics">Eudocimus albus</emphasis>) have been observed tending to multiple nests with which they are not necessarily related (Herring &amp; Gawlik 2007). The females were noted as visiting up to 5 different nests. They would rearrange eggs, weave fresh material into the nest, and shade nestlings. These birds did not brood or feed chicks; this responsibility was fulfilled by the direct parents of each nest. Interestingly, attendant male White Ibises exhibited aggressive behavior to these assisting females, forcing them to abandon their efforts (Herring &amp; Gawlik 2007). This suggests the behavior is concurrently innate and not necessarily based in helping to raise related young. Whether or not this behavior is truly cooperative is thus debatable because these Ibises do not directly assist in nurturing the young and their assistance is not readily accepted by the direct parents.</para>
+      </example>
+      <para id="id1164452997348">However, reproductive fitness benefits of helping in these cooperatively breeding warbler communities include more than just the chance to indirectly pass on genes. Subordinate females also have the chance to breed offspring of their own. Unlike other bird communities, such as the Micronesian kingfisher where helpers completely forfeit the opportunity to reproduce, 44% of Seychelles warbler helpers, during every breeding season, are able to directly increase their reproductive fitness by having offspring of their own (Richardson et al. 2002). </para>
+      <para id="id1164467952238">In light of these advantages, it is strange that deposed females ever choose to become floaters, a role that provides neither direct nor indirect reproductive fitness. This mystery is accounted for by considering the quality of resources available in different territories. As illustrated by <link target-id="id1164484474469"/>, it has been observed that the quality of territories on which ousted breeding females become subordinates is consistently higher than the quality of territories where they become floaters (Richardson et al. 2007). Thus, similar to how ecological factors determine the level of cooperative breeding in the Azure-winged Magpie, the probability a displaced warbler will adopt a helping role is dependent upon whether or not the territory holds enough resources to support an additional member.</para>
+      <para id="id1164487805374">
+        <figure id="id1164484474469"><media id="id1164484474469_media" alt="a chart comparing territory quality versus status of deposed females.">
+            <image mime-type="image/png" src="../../media/Chart 1-0b49.png" id="id1164484474469__onlineimage" height="251" width="279"/>
+          </media>
+          
+        <caption>Quality of Territory Previously Inhabited by Deposed Female Warblers  Values of territory quality were derived from logistic regression analyses and normalized by log transformation. Ousted females that chose to become subordinates usually lived in territories of higher quality than those that chose to become floaters (Adapted from Richardson et al. 2007).</caption></figure>
+      </para>
+    </section>
+    <section id="id1164461621032">
+      <title>Conclusion</title>
+      <para id="id1164469753808">Cooperative breeding is driven by a variety of ecological factors, specific to the circumstances of the species in question. Some adult birds choose to become helpers in an effort to secure food and settling sites when resources are scarce. Others resort to helping behavior because their own personal attempts at reproduction have failed or they have lost their breeding status, and helping is the next best opportunity to pass on their genes, albeit indirectly. In each case, the cooperative breeding phenomenon appears to benefit either the helpers, the parents, or the chicks, creating a beneficial situation for the individuals involved.</para>
+      <table id="id1164477696079" summary="A table showing the cooperative breeder and the reason they help.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Cooperative Breeder</entry>
+              <entry>Reason for Helping</entry>
+            </row>
+            <row>
+              <entry>Azure-Winged Magpie</entry>
+              <entry>Lack of available resources</entry>
+            </row>
+            <row>
+              <entry>Micronesian Kingfisher</entry>
+              <entry>Access to ideal nesting sites and food</entry>
+            </row>
+            <row>
+              <entry>Brown-Headed Nuthatch</entry>
+              <entry>Personal breeding failure</entry>
+            </row>
+            <row>
+              <entry>Seychelles Warbler (Grandparents)</entry>
+              <entry>Best opportunity to pass on genes</entry>
+            </row>
+          </tbody>
+        
+
+</tgroup><caption>Why Cooperative Breeders Choose to Become Helpers
+      </caption>
+</table>
+      
+    </section>
+    <section id="id1164466193577">
+      <title>Discussion Questions</title>
+      <list id="id1164476180510" list-type="enumerated" number-style="arabic">
+        <item>Is cooperative breeding actually altruistic behavior? In what situations might it be entirely altruistic, and in what situations does the helper have an “ulterior motive”?</item>
+        <item>While many birds do engage in cooperative breeding, many do not. What are the conditions that likely differentiate these species in terms of environmental factors, predation risks, and breeding patterns?</item>
+      </list>
+    </section>
+    <section id="id1164463155669"><title>Glossary</title><list id="eip-id1171808373740"><item id="id1164465523611"><term>Altruism</term>- helpful behavior that directly increases the fitness of the recipient at the expense of decreasing the fitness of the actor </item>
+      <item id="id1164465001254"><term>Alloparent</term>- offspring care-giver that is not a direct parent </item>
+      <item id="id1164481049298"><term>Cooperative breeding</term>- social system where individuals that are not the direct parents of the offspring play an active role in nurturing and caring for offspring</item>
+      <item id="id1164467077091"><term>Direct fitness</term>- genes are contributed to the next generation through personal reproduction, in the form of descendent offspring</item>
+      <item id="id1164454952426"><term>Dominant pair</term>- direct genetic parents of offspring</item>
+      <item id="id1164454469347"><term>Floater</term>- bird with no territory or permanent residence</item>
+      <item id="id1164454598615"><term>Hamilton’s Rule</term>- gene frequency should increase in interactions where <emphasis effect="italics">rB &gt; C</emphasis>, where <emphasis effect="italics">r</emphasis> is the genetic relatedness of individuals, <emphasis effect="italics">B</emphasis> is reproductive benefit gained by the recipient, and <emphasis effect="italics">C</emphasis> represents the reproductive cost to the alloparent</item>
+      <item id="id1164489177774"><term>Indirect fitness</term>- genes are indirectly contributed to the next generation by helping non-directly related offspring in the form of relatives that would not have survived otherwise</item>
+      <item id="id1164466987675"><term>Kin selection</term>- form of natural selection that occurs when individuals alter their behavior to favorably affect genetically related individuals</item>
+      <item id="id1164471991115"><term>Nondescendent kin</term>- young progeny that are not direct offspring</item>
+</list></section><section id="eip-404"><title>References</title><list id="id1164463965909" list-type="labeled-item"><item>Alexander RD. 1974. The evolution of social behavior. <emphasis effect="italics">Annual Review of Ecology and Systematics</emphasis>. 5:325-383.</item>
+        <item>Arnold EK, Owens IPF. 1998. Cooperative breeding in birds: a comparative test of the life history hypothesis. <emphasis effect="italics">Proc. R. Soc. Lond.</emphasis> 265B:739–745.</item>
+        <item>Avilés L, Tufiño P. 1998. Colony size and individual fitness in the social spider <emphasis effect="italics">Anelosimus eximius</emphasis>. <emphasis effect="italics">American Naturalist</emphasis>. 152:403-418. </item>
+        <item>Boland CRJ. 2004. Breeding biology of rainbow bee-eaters (<emphasis effect="italics">Merops ornatus</emphasis>): a migratory, colonial, cooperative bird. <emphasis effect="italics">The Auk</emphasis>. 121(3):811–823.</item>
+        <item>Brown JL. 1987. Helping and communal breeding in birds: ecology and evolution. Princeton, NJ: Princeton University Press.</item>
+        <item>Calkins JD. 2007. The family behavior of California quail: a molecular analysis. <emphasis effect="italics">The Condor</emphasis>. 109:962-967.</item>
+        <item>Canário F, Matos S, Soler M. 2004. Environmental constraints and cooperative breeding in the azure-winged magpie. <emphasis effect="italics">The Condor</emphasis>. 106(3):608–617.</item>
+        <item>Cox JA, Slater GL. 2007. Cooperative breeding in the brown-headed nuthatch. <emphasis effect="italics">The Wilson Journal of Ornithology</emphasis>. 119(1):1-8.</item>
+        <item>Hale AM. 2006. Group living in the black-breasted wood-quail and the use of playbacks as a survey technique. <emphasis effect="italics">The Condor</emphasis>. 108(1):107–119.</item>
+        <item>Hamilton WD. 1963. The evolution of altruistic behavior. <emphasis effect="italics">American Naturalist</emphasis>. 97:354-356.</item>
+        <item>Hamilton WD. 1964. The genetical theory of social behavior, I, II. <emphasis effect="italics">Journal of Theoretical Biology</emphasis>. 7:1-52.</item>
+        <item>Hamilton WD. 1966. Moulding of senescence by natural selection. <emphasis effect="italics">J. Theor. Biol</emphasis>. 12:12–27.</item>
+        <item>Hatchwell BJ, Komdeur J. 2000. Ecological constraints, life history traits and the evolution of cooperative breeding. <emphasis effect="italics">Animal Behavior</emphasis>. 59:1079–1086.</item>
+        <item>Hatchwell BJ, Ross DJ, Fowlie MK, McGowan A. 2001. Kin discrimination in cooperatively breeding long-tailed tits. <emphasis effect="italics">Proc. R. Soc. Lond. B</emphasis>. 268:885–890.</item>
+        <item>Herring G, Gawlik DE. 2007. Multiple nest-tending behavior in an adult female white ibis. <emphasis effect="italics">Waterbirds</emphasis>. 30(1):150–151.</item>
+        <item>Kershner El, Mruz EC. 2006. Nest interference by fledgling loggerhead shrikes. <emphasis effect="italics">The Wilson Journal of Ornithology</emphasis>. 118(1):75–80.</item>
+        <item>Kesler DC, Haig SM. 2007. Territoriality, prospecting, and dispersal in cooperatively breeding Micronesian kingfishers <emphasis effect="italics">(Todiramphus cinnamominus reichenbachII)</emphasis>. <emphasis effect="italics">The Auk</emphasis>. 124:381-395.</item>
+        <item>Komdeur J. 1992. Influence of territory quality and habitat saturation on dispersal options in the Seychelles warbler: an experimental test of the habitat saturation hypothesis for cooperative breeding. <emphasis effect="italics">Acta XX Congressus Internationalis Ornithologici</emphasis>.<emphasis effect="italics"/>1325-1332.</item>
+        <item>Komdeur J. 1996. Influence of age on reproductive performance in the Seychelles warbler. <emphasis effect="italics">Behav. Ecol. Sociobiol.</emphasis> 7:417–425.</item>
+        <item>Komdeur J, Huffstadt A, Prast W, Castle G, Mileto R, Wattel J. 1995. Transfer experiments of Seychelles warblers to new islands: changes in dispersal and helping behavior. <emphasis effect="italics">Animal Behavior</emphasis>. 49: 695-708. </item>
+        <item>Lammertink M. 2004. Grouping and cooperative breeding in the great slaty woodpecker. <emphasis effect="italics">The Condor</emphasis>. 106(2):309–319.</item>
+        <item>McDonald DB, Potts WK. 1994. Cooperative display and relatedness among males in a lek-mating bird. <emphasis effect="italics">Science</emphasis>. 266:1030-1032.</item>
+        <item>McDonald PG, Wright J. 2008. Provisioning vocalizations in cooperative bell miners (<emphasis effect="italics">Manorina melanophrys</emphasis>): more than a simple stimulus for nestling begging? <emphasis effect="italics">The Auk</emphasis>. 125(3):670-678.</item>
+        <item>Mumme RL. 1992. Delayed dispersal and cooperative breeding in the Seychelles warbler. <emphasis effect="italics">Trends in Ecology and Evolution</emphasis>. 7:330-331.</item>
+        <item>Mumme RL, Koenig WD, Ratnieks FLW. 1989. Helping behavior, reproductive value, and the future component of indirect fitness. <emphasis effect="italics">Animal Behavior</emphasis>. 38: 331-343.</item>
+        <item>Poethke HJ, Liebig J. 2008. Risk-sensitive foraging and the evolution of cooperative breeding and reproductive skew. <emphasis effect="italics">BMC Ecology</emphasis>. 8:2.</item>
+        <item>Reyer HU. 1984. Investment and relatedness: a cost/benefit analysis of breeding and helping in the pied kingfisher. <emphasis effect="italics">Animal Behavior</emphasis>. 32:1163-1178.</item>
+        <item>Richardson DS, Burke T, Komdeur J. 2002. Direct benefits explain the evolution of female biased cooperative breeding in the Seychelles warblers. <emphasis effect="italics">Evolution</emphasis>. 56:2313–2321.</item>
+        <item>Richardson DS, Burke T, Komdeur J. 2007. Grandparent helpers: the adaptive significance of older, postdominant helpers in the Seychelles warbler. <emphasis effect="italics">Evolution</emphasis>. 61-12:2790-2800.</item>
+        <item>Wild G. 2006. Sex ratios when helpers stay at the nest. <emphasis effect="italics">Evolution</emphasis>. 60(10):2012–2022.</item>
+        <item>Williams GC. 1957. Pleiotropy, natural selection, and the evolution of senescence. <emphasis effect="italics">Evolution</emphasis>. 11:398–411.</item>
+        <item>Williams DA, Hale AM. 2006. Helper effects on offspring production in cooperatively breeding brown jays (<emphasis effect="italics">Cyanocorax morio</emphasis>). <emphasis effect="italics">The Auk</emphasis>. 123(3):847–857.</item>
+        <item>Wilklund CG, Andersson M. 1994. Natural selection of colony size in a passerine bird. <emphasis effect="italics">Journal of Animal Ecology</emphasis>.<emphasis effect="italics"/>63:765-774.</item>
+        <item>Woolfenden GE, Fitzpatrick JW. 1984. <emphasis effect="italics">The Florida Scrub Jay: Demography of a Cooperative-Breeding Bird</emphasis>. Princeton, NJ: Princeton University Press.</item>
+        <item>Zalik NJ, Perlut NG. 2008. Simultaneous incubation by two females and nestling provisioning by four adults at a savannah sparrow nest. <emphasis effect="italics">The Wilson Journal of Ornithology</emphasis>. 120(3):628-630.</item>
+      </list>
+    </section>
+  </content>
+</document>

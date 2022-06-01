@@ -1,0 +1,279 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>The Social Factor in Song Learning in American Sparrows</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34754</md:content-id>
+  <md:title>The Social Factor in Song Learning in American Sparrows</md:title>
+  <md:abstract>This chapter reviews the social aspects of song learning in four species of American sparrows (family Emberizidae).  Recent research shows that juvenile American sparrows tend to learn most of their songs from territorial neighbors.  Such song sharing between neighbors eases communication, which is essential for breeding success and territorial possession.  Studies show that neighbors that share more songs with each other are able to possess their territory for a longer period of time; territory possession, in turn, is critical for breeding success.  Recent studies also argue that many species can learn songs well past the previously accepted sensitive period, allowing birds to actually learn from their neighbors once they are old enough to settle in a territory.  Furthermore, juvenile songbirds learn songs both by directly interacting with tutors and by eavesdropping on tutors, with the latter playing a more prominent role.  Eavesdropping allows juvenile songbirds to pay attention to both sides of a countersinging interaction and to pick out dominance relationships.  Here we focus on the importance of social interactions on birdsong learning.  Studying the social factors of learning will help us to understand the adaptive function of song learning in songbirds.</md:abstract>
+  <md:uuid>068fa600-0cb8-4d0a-9cb3-59ddaa4583b3</md:uuid>
+</metadata>
+
+<content>
+    
+    
+    
+    <para id="eip-966"><emphasis effect="bold">Author:</emphasis> Lu Yang</para><section id="id1169015143309">
+      <title>Introduction</title>
+      <para id="id1168997151003">The ability to communicate is an <term>adaptive trait</term> that has evolved many times. Songs, in particular, are very complex signals found in insects, frogs, and birds and are most predominantly used by males to attract mates and/or compete with other males (Searcy &amp; Anderson 1986). Among the animal taxa that use songs as a means of communication, songbirds (suborder Passerini) are unique in that their songs are not entirely genetically based (unlike a cricket chirp or a frog croak). Instead, songbirds learn songs through social interactions. We know this because juveniles raised in acoustic isolation develop abnormal songs (Marler 1970b). In this way and many others, songbirds’ songs are similar to human speech (see Box 4; Doupe &amp; Kuhl 1999). Furthermore, song learning in birds is a great model for studying social learning in other animals, especially humans (see Box 4; Brainard &amp; Doupe 2002).</para>
+      <para id="id1169001200506"><figure id="id1169003738075"><media id="id1169003738075_media" alt="Four species of American sparrows">
+            <image mime-type="image/png" src="../../media/graphics1-b7f0.png" id="id1169003738075__onlineimage" height="343" width="442"/>
+          </media>
+        <caption>Four species of American sparrows. A) song sparrow (Melospiza melodia), B) savannah sparrow (Passerculus sandwichensis), C) grasshopper sparrow (Ammodramus savannarum), D) white-crowned sparrow (Zonotrichia leucophrys). </caption></figure>
+      Image A : &lt;http://commons.wikimedia.org/wiki/File:Melospiza-melodia-001.jpg&gt;. <newline/>
+Image B: mikebaird &lt;http://www.flickr.com/photos/mikebaird/39066219/&gt;. <newline/>
+Image C: jerryoldenettel &lt;http://www.flickr.com/photos/jroldenettel/2543533860/&gt;. <newline/>
+Image D: &lt;http://commons.wikimedia.org/wiki/File:White-crowned-sparrow.jpg&gt;.</para>
+      
+      
+      
+      
+      <para id="id1169025660787">Biologists have been trying to decipher the meaning behind bird songs since the 18th century (Baker 2001). Like many areas of biology, studies of bird songs have been greatly influenced by Darwin’s theory of evolution by natural selection, which spurred biologists to investigate deeper into the adaptive value of songs as form of communication. Only recently has serious progress been made in understanding song learning in songbirds, incited by Marler’s claim that song learning in birds has many parallels with speech learning in humans (Marler 1970a). Since then, numerous studies have been done on songbirds, although song learning, especially the <term>social learning</term> of songs, is still a relatively poorly understood topic. </para>
+      <para id="id1169038951072">In this chapter, we will focus on four species of American sparrows (family Emberizidae). We will cover recent theories and findings regarding why song learning occurs, who songs are learned from, when (i.e. at what stages of development) songs are learned, and how songs are learned, while focusing on the social factors involved. <link target-id="id1169003738075"/> and <link target-id="id1169038969599"/> describe the species of sparrows covered.</para>
+      
+      <table id="id1169038969599" summary="list of species of American sparrows and their histories">
+<tgroup cols="6"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry>Species</entry>
+              <entry>Habitat</entry>
+              <entry>Nesting</entry>
+              <entry>Breeding season</entry>
+              <entry>Clutch size</entry>
+              <entry>Age at leaving nest</entry>
+            </row>
+            <row>
+              <entry>Song sparrow(M. melodia)</entry>
+              <entry>Low shrubby, swampy areas.</entry>
+              <entry>Early: groundLate: shrubs/trees</entry>
+              <entry>April – August</entry>
+              <entry>3-5</entry>
+              <entry>10 days</entry>
+            </row>
+            <row>
+              <entry>Savannah sparrow <emphasis effect="italics">(P. sandwichensis)</emphasis></entry>
+              <entry>Grassy, open areas</entry>
+              <entry>Ground</entry>
+              <entry>Mid-March – early June</entry>
+              <entry>4-5</entry>
+              <entry>8-14 days</entry>
+            </row>
+            <row>
+              <entry>Grasshopper sparrow (A. savannarum)</entry>
+              <entry>Grassy areas</entry>
+              <entry>Ground</entry>
+              <entry>Early April – early June</entry>
+              <entry>4-5</entry>
+              <entry>9 days</entry>
+            </row>
+            <row>
+              <entry>White-crowned sparrow (Z. leucophrys)</entry>
+              <entry>Cleared, open areas</entry>
+              <entry>GroundSometimes bush/low tree</entry>
+              <entry>Early March – early August</entry>
+              <entry>2-5</entry>
+              <entry>9-11 days</entry>
+            </row>
+          </tbody>
+        
+
+</tgroup><caption>Selected Natural History of Species of American Sparrows (Baicich &amp; Harrison 1997). </caption>
+</table>
+    </section>
+    <section id="id1169009318856">
+      <title>Why Do They Learn? – The Adaptive Function of Song Learning</title>
+      <para id="id1169001221422">Songs are an important communicative tool for songbirds, but do they make sense as an evolutionary adaptation? It seems that all of the costs associated with song learning, such as time and energy (which can be diverted towards foraging, for instance), can be avoided if songs are completely <term>innate</term>, like a cricket chirp. From an evolutionary point of view, it follows that song learning can only evolve if its benefits outweigh these costs. </para>
+      <figure id="id1169004346876"><media id="id1169004346876_media" alt="A song sparrow singing">
+          <image mime-type="image/png" src="../../media/graphics2-28a1.png" id="id1169004346876__onlineimage" height="241" width="274"/>
+        </media>
+      <caption>A song sparrow singing during breeding season (beginning of spring).
+Image: Almiyi &lt;http://www.flickr.com/photos/2070909&gt;</caption></figure>
+      
+      
+      <para id="id1169001235961">So what are these benefits? Learning is usually a tool used when external circumstances are variable, because it has the potential to help individuals adapt their behaviors to changing environments. For example, humans have the ability to learn languages, which is beneficial when a baby is born into a country that does not speak the language of its parents or when a person moves to a country that speaks a foreign language. Therefore, songs are most likely an important tool used by songbirds to adapt to their changing social environments. Examining differences between <term>sedentary</term> and <term>migratory</term> white-crowned sparrows in song learning from neighbors illustrates this concept. The songs migratory birds learn from <term>tutors</term> are more <term>plastic</term>, while the songs sedentary birds learn are more accurate (Nelson et al. 1995). Such differences may be explained by the fact that migratory birds have more uncertainty in where they will breed. Therefore, their songs remain more plastic, allowing the birds to easily adjust their songs to those of their neighbors where they decide to breed (Nelson et al. 1995). See <emphasis effect="italics">Sharing Hypothesis of Song Learning</emphasis> below on advantages of adjusting songs to those of neighbors. More on the role of neighbors as song tutors will be discussed in a later section. </para>
+      <para id="id1169004373287">The importance of social learning can be explained by two hypotheses: the repertoire hypothesis and the sharing hypothesis (Beecher &amp; Brenowitz 2005). </para>
+      <section id="id1169003800423">
+        <title>Repertoire Hypothesis of Song Learning</title>
+        <para id="id1169003927885"> The repertoire hypothesis states that song learning allows birds to acquire a large <term>song repertoire</term>, which aids them in attracting mates, since females prefer males with large repertoires (Searcy &amp; Anderson 1986). Gil and Gahr (2002) explain that song repertoire is an <term>honest communication</term> and can be used for <term>sexual selection</term> because it directly correlates with the amount of neural space in an individual, which is a measure of intelligence in songbirds. However, this hypothesis has been under much criticism, as most birds have just a few songs; many have just one. To explain this observation, Garamszegi (2004) claims that limited neural space acts as a strict limitation to the size of song repertoire. Therefore, the cost of having a large repertoire (taking up neural space) balances the benefit (attracting females). </para>
+      </section>
+      <section id="id1169007913247"><title>Sharing Hypothesis of Song Learning</title><para id="id1169014919320"> The sharing hypothesis says that through song learning, birds can share songs with their neighbors, which enhances communication (Beecher &amp; Brenowitz 2005). This is beneficial because territorial neighbors are usually important individuals in a songbird’s life. In fact, Beecher et al. (2000) found that greater song sharing among neighbors, but not repertoire size, predicted longer territorial possession. This sharing hypothesis, however, directly conflicts with the repertoire hypothesis, since sharing songs with neighbors is easier if both sides have a small repertoire. </para>
+        <example id="eip-id1172476026741"><label>Box</label><title>Song Developmental Stages</title>
+      
+          <figure id="id1169026689120"><media id="id1169026689120_media" alt="three figures showing the representation of different developmental stages of song overtime.">
+              <image mime-type="image/png" src="../../media/Picture 6-09b9.png" id="id1169026689120__onlineimage" height="377" width="360"/>
+            </media>
+
+          <caption>Developmental stages of white-crowned sparrow song, visualized in frequency of sound, over time.</caption></figure>   
+        <para id="id1169003644962">DeWolfe BB, Baptista LF, Petrinovich L. 1989. Song development and territory establishment in Nuttall’s white-crowned sparrows. Condor. 91:397-407. © 1989 by the Cooper Ornithological Society. Reprinted with permission from the University of California</para>
+
+        <para id="id1169016011808">A songbird’s song goes through many developmental stages before arriving at the final, crystallized song (DeWolfe et al. 1989; Marler 1970b). Prior to this final stage, the developing song is considered plastic and subject to alteration. In fact, in many species, songs remain plastic for much of an adult’s life, allowing the bird to alter his songs throughout his life, perhaps to imitate his neighbor (Lehongre et al. 2009; Nordby et al. 2001). Many biologists recognize three stages of song development: subsong, plastic song, and crystallized song (Fig.3; DeWolfe et al. 1989).</para>
+        <list id="id1169001387325" list-type="bulleted">
+          <item>Subsongs are the first syllables uttered by juvenile birds. These can vary in length and are generally incomprehensible. </item>
+          <item>Plastic songs vary greatly among individuals of a species, but can be recognized as belonging to a certain species.</item>
+          <item>Crystallized songs are songs used by breeding adults. These are species-stereotyped although there may still be some variations among individuals, such as in addition or deletion of certain syllables.</item>
+        </list>
+</example>
+      </section>
+    </section>
+    <section id="id1169003892683">
+      <title>Who do They Learn From?</title>
+      <para id="id1169007300105">Tutors, or sources of songs, are very important in social learning. Marler (1970b) shows that <term>juvenile</term> male songbirds that are acoustically isolated develop abnormal songs, while those that are raised with tape-recordings of songs develop songs normally. Juveniles usually learn their songs from older adults and show a tendency towards preferring <term>conspecific</term> models (Beecher &amp; Brenowitz 2005). Soha &amp; Marler (2001) found that white-crowned sparrow juveniles began showing preference toward conspecific songs prior to 20 days of age, when they are just beginning to memorize songs. Interestingly though, juvenile white-crowned sparrows can successfully learn the song of another species, such as the strawberry finch (<emphasis effect="italics">Amandava amandava</emphasis>) provided that the tutors are live, as opposed to tape-recordings (Baptista &amp; Petrinovich 1984). It seems that social interaction between tutors and tutee can even overcome genetic preference for conspecific songs. There is a general consensus among researchers that social interaction, and not mere exposure to a tutor song, is required for the best song-learning results in juvenile songbirds. For instance, in grasshopper sparrows, learning from live tutors results in more accurate <term>imitation</term> than learning from tape-recordings (Soha et al. 2009). </para>
+      
+      
+      <example id="eip-483"><label>Box</label><title>General Development of Young Passerines</title>
+<para id="eip-599">
+  Passerines, or perching birds, are birds of the order Passeriformes. Songbirds (Passeri) are a suborder of passerines, and include the family Emberizidae (American sparrows). 
+</para>
+</example><para id="id1169001232307">Juveniles have many different choices of tutors. Usually, juveniles choose many adults to be their tutors, each with varying importance. In song sparrows, for instance, the number of tutors for each juvenile can vary from two to five (Beecher et al. 1994; Nordby et al. 1999; Nordby et al. 2000). According to Wheelwright et al. (2008), male savannah sparrows choose social fathers to be their most important tutor 12% of the time, <term>natal</term> neighbors (neighbors when the learner hatched) 35% of the time, 1-year-old breeding-year neighbors (neighbors when the learner first begins to breed) 26% of the time, and older-breeding neighbors (neighbors long after the learner began to breed) 26% of the time. In this case, the most important tutor is defined as the tutor that shares the most number of songs with the subject. Such variations in importance of tutor, especially among the different types of neighbors, suggest that learning allows songbirds to adapt to their social environment. </para>
+      <para id="id1169001385411">There are many reasons why a juvenile bird may choose a particular tutor to be his primary tutor over another. One may be the repertoire size of the tutor. Soma et al. (2009) has found that juvenile Bengalese finches (<emphasis effect="italics">Lonchura striata domestica</emphasis>) learn from both their father and a subtutor when the two models have small repertoire sizes; but when the father has a smaller repertoire size, they tend to learn from the subtutor; in either case, the presence of a subtutor led to a larger repertoire. This is in accordance with the repertoire hypothesis of song learning. In Wheelwright et al. (2008)’s study, the juveniles tend to pick neighbors as the most important tutor. This result is in accordance with the sharing hypothesis of song learning, and is explained further in the following subsections. </para>
+      <section id="id1168997897446">
+        <title>Learning from Fathers</title>
+        <para id="id1169034503214">Although fathers are a logical choice as tutors for juvenile songbirds, since chicks are exposed to the songs of their fathers from birth; however, fathers are often not important tutors at all. Baptista (1985, described in Petrinovich &amp; Baptista 1987) found that songbirds usually do not sing the songs of their fathers. Instead, as described above, neighbors are much more important tutors. This suggests that juvenile birds choose tutors not simply to learn how to sing, but to learn how to communicate with an individual. Juvenile songbirds leave their natal nests just a few weeks after hatching, so they never need to communicate with their fathers as adults. On the other hand, communicating with neighbors is important to territory possession (described below) and breeding (recall earlier discussion on sedentary versus migratory white-crowned sparrows). </para>
+      </section>
+      <section id="id1169035523975">
+        <title>Learning from Neighbors</title>
+        <para id="id1169003654184">Neighbors are one of the most important tutors to sparrows and can be much more important than fathers. <link target-id="id1168997921242"/> shows that song sharing increases the closer two neighbors are to each other, suggesting that song learning from neighbors is important for social interactions with those neighbors. Social interaction, in turn, is important to learning from neighbors. DeWolfe et al. (1989) show that juvenile white-crowned sparrows that socially interact with adult territorial neighbors develop songs faster than those that do not. </para>
+        <figure id="id1168997921242"><media id="id1168997921242_media" alt="A chart showing song-sharing versus the number of territories separating the territorial males.">
+            <image mime-type="image/png" src="../../media/graphics3-dd86.png" id="id1168997921242__onlineimage" height="295" width="350"/>
+          </media>
+        <caption>Song-sharing index, or repertoire overlap, between pairs of territorial males versus the number of territories separating them in a population of song sparrows. <newline/>
+Wilson PL, Towner MC, Vehrencamp SL. 2000. Survival and song-type sharing in a sedentary subspecies of the song sparrow. Condor. 102:355-363. © 2000 by the Cooper Ornithological Society. Reprinted with permission from the University of California Press.</caption></figure>
+        
+        
+        <para id="id1169026674038">Juveniles learn songs from more than one neighbor and preferable learn songs that their neighbors share (Beecher et al. 1994; Nordby et al. 2000). A possible explanation for this observation is that juveniles eventually set up their own territory next to these neighbors, sometimes even replacing one (Beecher et al. 1994; Nordby et al. 1999). Nordby et al. (2000) also points out that juvenile song sparrows preferably learn songs their first-year fellow juveniles learn. In fact, juvenile cohorts’ songs can even be more similar to each other than to those of the early tutor (Kroodsma &amp; Pickert 1984). This is more evidence showing the importance of sharing songs with neighbors, because there is a good chance that cohorts will become neighbors once they settle their own territory. </para>
+        
+        
+        <example id="eip-131"><label>Box</label><title>Territoriality in Songbirds</title>
+<para id="eip-774">
+  Settling and maintaining a territory is very important to male sparrows. Territory ownership affects major areas in a bird’s life, including nesting, inter- and intraspecies competition, and food collection, all of which have implications for mate attraction and offspring survival (Nice 1941). In song sparrows, males (and their partner) essentially gather all of his food from within his territory and males with a good territory often come back to it year after year. This illustrates the importance of finding a good territory (Nice 1941). 
+</para><para id="eip-671">Best (1977) studied the field sparrow (<emphasis effect="italics">Spizella pusilla</emphasis>) to see the effects of territory quality on mating success. He found that males with better territories mated more frequently. Territory quality was measured based on territory size and presence of certain favored plant species. Other factors that affected territory quality include snake and mammalian predation and cowbird parasitism (cowbirds have been observed to place their eggs into the nests of many species of sparrows). The presence of these factors often led to the female’s desertion (Best 1977). Much of these findings can be applied to our sparrow species.</para>
+</example>
+        <para id="id1169010135678">Songbirds also exert great effort to learn songs of their neighbors; juveniles hone their songs continuously after settling a territory to better match those of neighbors. DeWolfe et al. (1989) notes that juvenile song sparrows that are first settling a territory have up to four songs, but after settling, they keep only two of the closest songs to those of their neighbors. This suggests that juveniles anticipate becoming territorial neighbors to their tutors, and therefore learn from them to ease communication, since territorial neighbors are required to interact with each other in many ways. Wilson et al. (2000) argue that the amount of song-sharing indicates a male’s competitive ability to obtain a preferred territory near his tutors. Song sharing may also determine a male’s effectiveness in using songs to communicate aggressively. To provide further evidence, another Beecher group showed that the number of songs a sparrow shares with his neighbors is correlated with length of possession of his territory, because neighbors depend on shared songs to regulate territories and interactions with each other (Beecher et al. 2000, Burt et al. 2001). A bird that does not share songs with its neighbors will have a hard time communicating with them and be successful in his territory (Beecher et al. 2000). This shows the importance of learning as an adaptive function. Without learning, there is no guarantee that a songbird will share songs with its territorial neighbor. </para>
+      </section>
+    </section>
+    <section id="id1169003733087">
+      <title>When Do They Learn?</title>
+      <para id="id1169034418863">Over the past few decades, the exact timing of song learning of whole songs (as opposed to song elements or parts of songs) has been a much-debated topic. No conclusive decisions have been reached among the scientific community on a proposed <term>sensitive period</term> for learning, specifically the strictness of this sensitive period (whether juveniles can only learn whole songs during this period) and the age that it occurs at. The overall theme, however, is that social interactions seem to play an important role in determining when songbirds learn songs. The rest of this section is a summary of recent discussions. </para>
+      <para id="id1169002642067">Marler (1970b) introduces the idea of a strict sensitive period for white-crowned sparrows in his discussion of the sensorimotor model of song learning. In this model, sparrows memorize songs between the ages of 20 and 50 days old; afterwards, they no longer memorize or learn any new songs. Instead, during their first spring, when they choose their territories for the first time, birds begin producing these songs from memory and compare them, via auditory feedback, to the songs of their neighbors. The birds then modify the songs stored in their memory to closely match the songs of their neighbors. In this model, the memorization/learning phase is called the sensory phase, while the reproduction phase/modifying phase is called the sensorimotor phase. The songs that are first produced during the sensorimotor phase are called plastic songs, because they are still subject to change or crystallization (Marler 1970b; see <link target-id="eip-id1172476026741"/>). The action-based model of song learning also indicates a sensitive period. In this model, a juvenile bird learns a large repertoire of songs and produces all of them during the plastic song developmental stage (Marler &amp; Nelson 1993). When the bird meets its neighbor, it only selects the songs that most closely match those of its neighbors to keep. </para>
+      <para id="id1169003669436">
+        <figure id="id1169011299986"><media id="id1169011299986_media" alt="a parent bird feeding a fledgling bird.">
+            <image mime-type="image/png" src="../../media/graphics4-5a9e.png" id="id1169011299986__onlineimage" height="258" width="415"/>
+          </media>
+        <caption>A parent feeding its fledgling, which is not yet 50 days old. <newline/>
+Image: gerrybuckel &lt;http://www.flickr.com/photos/91515698@N00/37288&gt;</caption></figure>
+      </para>
+      
+      
+      <para id="id1169004349668"> Baptista and Petrinovich (1984) provided the first evidence against the strict 50-day sensitive period. They found that juvenile white-crowned sparrows can learn songs even though tutoring did not start until the juveniles were at least 50 days old, as long as social interaction between student and tutor is involved. In Marler (1970b)’s experiments, the juveniles were only taught by tape-recorded songs (no social interaction). Therefore, Baptista and Petrinovich conclude that using live tutors is a more effective way to teach juveniles, allowing them to learn songs after they reach 50 days of age. Juveniles, which in nature are tutored by live birds, can therefore be expected to be able to learn songs past 50 days of age as well.</para>
+      <para id="id1169025662804">Baptista and Petrinovich (1984)’s results were also a topic of debate. Cunningham and Baker (1983, described in Baptista &amp; Petrinovich 1986) argue that the experiments performed by Baptista &amp; Petrinovich simply shifted the sensitive phase. They claim that by not exposing juveniles to acoustic stimuli during their first 50 days of life, the sensitive phase for song learning is delayed. Then, when Baptista and Petrinovich reintroduced the live tutor stimuli after age of 50 days, the sensitive phase reopened. In response, Petrinovich and Baptista (1987) performed an experiment in which juveniles birds received song stimulation during their first 50 days of life and found that they were still able to learn after they became 50 days old. Nelson and Marler (1994) show just a bit of concession to Petrinovich and Baptista’s findings, arguing that not all birds can learn songs past their sensitive period of 50 days, and no bird can learn past 100 days old.</para>
+      <para id="id1169001317406">In 2001, Nordby et al. note that there is something logically wrong with the strict 50-day sensitive period. They reasoned that since it is advantageous for songbirds to share songs with neighbors (for reasons explained in previous sections), song learning should continue into the first fall and winter, when juvenile songbirds have a better idea of who their neighbors will be the following spring. Nordby et al. performed their own experiments and found that song sparrows can learn songs as late as 147 days old. In fact, half of the chicks in their experiment learned most of the songs in their repertoire from the tutor that they were exposed to only during their first fall. Songs learned during this time were also very accurate. This kind of learning (learning after the supposed sensitive period) is called de novo late learning. In most studies, tutors during the early sensitive period are conveniently called “early” tutors, while tutors for de novo late learning are called “late” tutors.</para>
+      <para id="id1169029531101">Burt et al. (2007), however, are unable to show that juveniles actually learn more from tutors they are exposed to later in life, a finding that appears to contradict Nordby et al. (2001)’s argument for the importance of learning from late tutors. The group performed an experiment where juvenile song sparrows are exposed to two song tutors only during their natal spring and summer (when they are less than 50 days old) and to two different song tutors only during their first winter (when they are at least 200 days old). In their experimental setup, the two late tutors each had similar songs to one of the two early tutors; one of the late tutors interacted with the juveniles, while the other one did not. However, while the authors found that juveniles learn more from the early tutors, the late tutors still have a large effect on song learning. Juveniles learned more songs from the late tutor and its early counterpart if they interacted with the late tutor (Burt et al. 2007). </para>
+      <para id="id1168997888291">Whether songbirds learn whole songs when they are young and then modify and trim their song storage once they meet their neighbors (selective attrition) or learn whole songs throughout the first year of their life (de novo late learning) is still under debate. Most researchers agree, however, that there is a sensitive period for song learning and it varies with each individual bird (Baptista &amp; Petrinovich 1986; Nelson &amp; Marler 1994). Also, songbirds become less and less able to acquire songs as they age; even within the so-called sensitive period, sensitivity to song learning decreases with time (Baptista &amp; Petrinovich 1986; Baptista et al. 1993). This decrease in the ability to acquire songs with age supports theories on the adaptive function of song learning. Song sparrows often return to their same territory year after year to nest (Nice 1941). Therefore, it is likely that as they age, birds come across the same neighbors every year. So once they are old, it is no longer adaptive to learn songs from neighbors because they already share songs with them.</para></section>
+      <section id="fs-id1167270389577"><title>How Do They Learn?</title>
+      <para id="id1169005975293">Previous sections suggest that songbirds learn whole songs from their tutors. Marler and Peters (1987), however, propose that songbirds learn parts or elements of songs from various tutors and fuse them together to form their own unique song. Although there is some debate regarding this topic, recent research all seem to support that songbirds learn complete song types (Beecher 1996, described in Nordby et al. 2000; Nordby et al. 2000; Nordby et al. 2001). </para>
+      <para id="id1169010251991">The previous sections also hint that songbirds are exposed to and memorize more songs that they keep for their final repertoire. As explained before, while they are young, juveniles amass a great number of songs and goes through a selection process to weed out the songs they do not need once they are more mature (regardless of whether they continue to learn new songs during this time or not). There are two social ways for a juvenile songbird to learn and select songs. One is by directly interacting with an adult tutor; the other is by eavesdropping on singing interaction between two other birds. </para>
+      <section id="id1169003760111">
+        <title>Direct Interaction</title>
+        <para id="id1169039165009">As noted throughout the previous sections, interacting with a tutor (i.e. receiving <term>countersinging</term> feedback) leads to better song learning in juvenile songbirds than no interaction. </para>
+      </section>
+      <section id="id1169025303230"><title>Eavesdropping</title><para id="id1169002641255"><term>Eavesdropping</term> is another important tool used by songbirds to learn songs, and is perhaps even more important than direct interaction. Juvenile song sparrows learn more by eavesdropping on an adult teaching another juvenile than by directly interacting with a tutor (Beecher et al. 2007). Furthermore, during the song-learning phase, juvenile song sparrows are more attracted to countersinging interactions between two or more birds than to the singing of a single bird (Templeton et al. 2010). The eavesdropping hypothesis explains these observations. As described in Burt et al. (2007), the eavesdropping hypothesis states that one of the advantages of eavesdropping over direct interaction is that by observing countersinging interactions, a juvenile bird can pay attention to both sides of the interaction and pick out the dominance relationship (Beecher &amp; Burt 2004). The juvenile can then decide to learn the song of the more dominant bird. The juvenile can also use this dominance information in the future to make decisions regarding challenging other males. Furthermore, a juvenile bird can learn how to reply appropriately to certain songs. The eavesdropping hypothesis predicts that a juvenile bird will not only learn songs from a chosen tutor, but also from birds that sing to the tutor (Burt et al. 2007). Eavesdropping, therefore, is an important adaptive trait that allows songbirds to not only learn songs, but to learn ones that are most beneficial for their fitness.</para>
+        <example id="eip-id1169455556786"><label>Box</label><title>Birdsong and Human Speech</title>
+        <para id="id1169026484960">Now, having described song learning in songbirds, we can compare it to speech learning in humans. Marler (1970a) is one of the first to argue that birdsong learning parallels human speech learning. He compares babbling in infants to subsongs in birds in that both are initial, elastic precursors to their final forms of vocalization. Also, both infants and songbirds have a preference for learning conspecific vocalizations and both use vocal imitation and auditory feedback in the learning process. Furthermore, both infants and songbirds seem to derive some sort of intrinsic reward for imitating they sounds they hear with vocalizations (Marler 1970a). </para>
+        <para id="id1169001448949">In addition, speech learning in humans has a large social component, just like song learning in birds (see previous discussions). Golstein et al. (2003) performed speech experiments on 8-month old human infants, who are at a speech developmental stage that parallels the subsong developmental stage in songbirds (see <link target-id="eip-id1172476026741"/>). They found that infants that received immediate social feedback after a vocalization showed a significant increase in the number and quality of vocalizations. Meanwhile, infants that received the same amount of random social feedback (not necessarily after a vocalization) showed an increase in number but not quality of vocalizations. These results show that social feedback can affect speech development, just like song development (Goldstein 2003). </para></example>
+
+        <para id="id1169015023550">The eavesdropping hypothesis also explains Burt et al. (2007)’s finding that juveniles learn more songs from an early tutor than its late counterpart. At the end of their experiment, juveniles selectively retain the songs from early tutors that are appropriate replies to the late tutor. Since the juveniles have a better memory for songs earlier in life, they are able to remember more appropriate replies and therefore retain more songs. </para>
+      </section>
+    </section>
+    <section id="id1169014895087">
+      <title>Conclusion</title>
+      <para id="id1169039261813">There has been much recent progress on the social aspects of song learning in songbirds. Research has shown the importance of interaction, eavesdropping, tutors, and tutor types in the song learning process. However, there is still room for much more research on topics such as song culture, dialects, imitation, maintenance, and the effects of brood size and rearing environment on song learning. Studying such topics will not only help us understand song learning in birds but also speech learning in humans.</para>
+      <para id="id1169000985844">
+        <figure id="id1168995650506"><media id="id1168995650506_media" alt="a healthy sparrow hatchling being held in a human hand.">
+            <image mime-type="image/jpg" src="../../media/Picture 3-e134.jpg" id="id1168995650506__onlineimage" height="294" width="392"/>
+          </media>
+        <caption>A healthy sparrow hatchling! <newline/>
+http://www.megavideo.com/?v=0QNHN4JV09314&gt;.</caption></figure>
+      </para>
+      
+      
+      
+    </section>
+    <section id="id1169040254787"><title>Discussion Questions</title><list id="eip-id1172482482719" list-type="enumerated" number-style="arabic"><item id="id1168996749394">What are the adaptive advantages of learning of bird songs?</item>
+        
+          <item id="id1169000968157">What is de novo late learning of songs and how is it different from selective attrition?</item>
+        
+          <item id="id1169028833807">Why is eavesdropping the preferred method of song learning over direct interaction in sparrows?</item>
+       
+    </list></section>
+    <section id="id1169009936612"><title>Glossary</title><list id="eip-id1164539795179">
+      <item id="id1169034402882"><term>Adaptive trait</term> – a genetically coded characteristic that has evolved because of its benefits to the fitness of individuals in a species</item>
+      <item id="id1169039031435"><term>Conspecifc</term> – pertaining to the same species</item>
+      <item id="id1169003566580"><term>Countersinging</term> – the act of singing in response to the song of another bird. Occurs during song learning and communication </item>
+      <item id="id1169002598738"><term>Eavesdropping</term> – observing the interaction between two other birds without being directly involved in the interaction</item>
+      <item id="id1169003638995"><term>Honest communication</term> – a signal from one organism to another that reveals a characteristic of the sender, usually pertaining to its fitness. A sender might want, for example, to let the recipient know that it is a fast runner, so the recipient will not waste time chasing it </item>
+      <item id="id1169002490862"><term>Imitation</term> – technique used by songbirds to copy some characteristic of the song of another bird; can be conspecific or heterospecific</item>
+      <item id="id1169040244565"><term>Innate</term> – a characteristic that is inherently part of an organism; heritable by genes</item>
+      <item id="id1168996730330"><term>Juvenile</term> – a young bird that has yet reached sexual maturity</item>
+      <item id="id1169026367405"><term>Migratory</term> – describes a bird species or subspecies that participates in seasonal journeys to different regions for food, habitat, mates, etc.</item>
+      <item id="id1169002822677"><term>Natal</term> – refers to the hatching of a bird. For example, natal summer refers to the summer a bird hatches</item>
+      <item id="id1169003793811"><term>Plastic</term> – describes a song that is still subject to alteration; not fully crystallized </item>
+      <item id="id1169014956460"><term>Sedentary</term> – describes a bird that is non-migratory</item>
+      <item id="id1169028827805"><term>Sensitive period</term> – the period in a young songbird’s life when the bird is particularly sensitive to songs and song learning</item>
+      <item id="id1169001031118"><term>Sexual selection</term> – selection that works on characteristics that affects an individual’s ability to obtain mates</item>
+      <item id="id1169011314303"><term>Social learning</term> – learning a new behavior through observation of others in the learner’s social environment; may involve models, imitation, and operant learning</item>
+      <item id="id1169000781589"><term>Song repertoire</term> – the number of songs a bird has learned and uses regularly</item>
+      <item id="id1169009278905"><term>Tutor</term> – a bird, usually an older bird, that shares his songs with another, whether knowingly or unknowingly</item>
+    </list></section>
+    <section id="id1169002315458"><title>References </title><list id="eip-id1169142791840" list-type="labeled-item"><item id="id1169002814872">Baicich PJ, Harrison CJO. 1997. Wood warblers, tanagers, cardinals, grosbeaks, sparrows, buntings, blackbirds, and allies (Emberizidae). In: A guide to the nests, eggs, and nestlings of North American birds. 2nd ed. San Diego, California: Academic Press. p. 271-319. </item>
+      <item id="id1169003856488">Baker MC. 2001. Bird song research: the past 100 years. Bird Behav. 14:3-50.</item>
+      <item id="id1169002769304">Baptista LF. 1985. The functional significance of song sharing in the white-crowned sparrow. Can J Zool. 63:1741-1752. </item>
+      <item id="id1169010252440">Baptista LF, Bell DA, Trail PW. 1993. Song learning and production in the white-crowned sparrow: parallels with sexual imprinting. Netherlands J Zool. 43:17-33. </item>
+      <item id="id1168995593511">Baptista LF, Petrinovich L. 1984. Social interaction, sensitive phases and the song template hypothesis in the white-crowned sparrow. Anim Behav. 32:172-181. Juvenile songbirds learn songs more efficiently and effectively from live birds than tape-recordings of songs.</item>
+      <item id="id1169005875144">Baptista LF, Petrinovich L. 1986. Song development in the white-crowned sparrow: social factors and sex differences. Anim Behav. 34:1359-1371.</item>
+      <item id="id1169003944937">Beecher MD. 1996. Birdsong learning in the laboratory and field. In: Kroodsma DE, Miller EH, editors. Ecology and Evolution of Acoustic Communication in Birds. Ithaca, New York: Cornell University Press. p. 61-78.</item>
+      <item id="id1168997901637">Beecher MD, Brenowtiz EA. 2005. Functional aspects of song learning in songbirds. Trends Ecol Evol. 20:143-149.</item>
+      <item id="id1168999171321">Beecher MD, Burt JM. 2004. The role of social interaction in bird song learning. Curr Dir Psychol Sci. 16:224-228. </item>
+      <item id="id1169039500972">Beecher MD, Burt JM, O'Loghlen AL, Templeton CC, Campbell SE. 2007. Bird song learning in an eavesdropping context. Anim Behav. 73:929-935.</item>
+      <item id="id1169001380249">Beecher MD, Campbell SE, Nordby JC. 2000. Territory tenure in song sparrow is related to song sharing with neighbours, but not to repertoire size. Anim Behav. 59:29-37. Songbirds sharing more songs with neighbors are better at territory possession than birds sharing fewer songs</item>
+      <item id="id1169002450336">Beecher MD, Campbell SE, Stoddard PK. 1994. Correlation of song learning and territory establishment strategies in the song sparrow. Proc Natl Acad Sci U S A. 91:1450-1454. Juvenile songbirds learn songs from multiple tutors and preferentially learn songs that are shared by multiple tutors.</item>
+      <item id="id1169002708088">Best, LB. 1977. Territory Quality and Mating Success in the Field Sparrow (Spizella pusilla). Condor. 79:192-204.</item>
+      <item id="id1169001450399">Brainard MS, Doupe AJ. 2002. What songbirds teach us about learning. Nature. 417:351-358.</item>
+      <item id="id1169002833370">Burt JM, Campbell SE, Beecher MD. 2001. Song type matching as threat: a test using interactive playback. Anim Behav. 62:1163-1170.</item>
+      <item id="id1168995698366">Burt JM, O'Loghlen AL, Templeton CN, Campbell SE, Beecher MD. 2007. Assessing the importance of social factors in bird song learning: A test using computer-simulated tutors. Ethology. 113:917-925.</item>
+      <item id="id1169001268519">Cunningham MA, Baker MC. 1983. Vocal learning in white-crowned sparrows: sensitive phase and song dialects. Behav Ecol Sociobiol. 13:259-269. </item>
+      <item id="id1169039539637">DeWolfe BB, Baptista LF, Petrinovich L. 1989. Song development and territory establishment in Nuttall’s white-crowned sparrows. Condor. 91:397-407.</item>
+      <item id="id1169006135640">Doupe AJ, Kuhl PK. 1999. Birdsong and human speech: common themes and mechanisms. Annu Rev Neurosci. 22:567-631.</item>
+      <item id="id1169003768985">Garamszegi LZ, Eens M. 2004. Brain space for a learned task: strong intraspecific evidence for neural correlates of singing behaviour in songbirds. Brain Res Rev. 44:187–193.</item>
+      <item id="id1169014859305">Gil D, Gahr M. 2002. The honesty of bird song: multiple constraints for multiple traits. Trends Ecol Evol. 17:133–141.</item>
+      <item id="id1169003845816">Goldstein MH, King AP, West MJ. 2003. Social interaction shapes babbling: Testing parallels between birdsong and speech. Proc Natl Acad Sci U S A. 100:8030-8035.</item>
+      <item id="id1169002463544">Kroodsma DE, Pickert R. 1984. Sensitive phases for song learning: Effects of social interaction and individual variation. Anim Behav. 32:389-394.</item>
+      <item id="id1169039411094">Leahy CW. 2004. Development of young. In: The birdwatcher’s companion to North American birdlife. Princeton, New Jersey: Princeton University Press. p. 883-894.</item>
+      <item id="id1169001017070">Marler, P. 1970a. Birdsong and speech development: could there be parallels? Am Sci. 58:669-673.</item>
+      <item id="id1169029641846">Marler P. 1970b. A comparative approach to vocal learning: song development in white-crowned sparrows. J Comp Physiol Psychol Monogr. 71:1-25. Juvenile songbirds only learns normal songs if stimulated by conspecific song during a sensitive period.</item>
+      <item id="id1169002539696">Marler P, Nelson DA. 1993. Action-based learning: a new form of developmental plasticity in bird song. Netherlands J Zool. 43:91-103.</item>
+      <item id="id1169002369783">Marler P, Peters S. 1987. A sensitive period for song acquisition in the song sparrow, melospiza melodia - a case of age-limited learning. Ethol. 76:89-100.</item>
+      <item id="id1169025649424">Nelson DA, Marler P. 1994. Selection-based learning in bird song development. Proc Natl Acad Sci U S A. 91:10498-10501. </item>
+      <item id="id1168998984401">Nelson DA, Marler P, Palleroni A. 1995. A comparative approach to vocal learning: intraspecific variation in the learning process. Anim Behav. 50:83-97.</item>
+      <item id="id1169001227667">Nice MM. 1937. Studies in the life history of the song sparrow I: a population study of the song sparrow. Trans Linn Soc NY. 4:1-247.</item>
+      <item id="id1169011313113">Nice MM. 1941. The role of territory in bird life. Am Midl Nat. 26:441-487.</item>
+      <item id="id1168998127498">Nordby JC, Campbell SE, Beecher MD. 1999. Ecological correlates of song learning in sparrows. Behav Ecol. 10:287-297. </item>
+      <item id="id1169002608250">Nordby JC, Campbell SE, Beecher MD. 2001. Late song learning in song sparrows. Anim Behav. 61:835-846.</item>
+      <item id="id1169015111656">Nordby JC, Campbell SE, Burt JM, Beecher MD. 2000. Social influences during song development in the song sparrow: a laboratory experiment stimulating field conditions. Anim Behav. 59:1187-1197.</item>
+      <item id="id1169002463428">Petrinovich L, Baptista LF. 1987. Song development in the white-crowned sparrow: modification of learned song. Anim Behav. 35:961-974. </item>
+      <item id="id1169016060580">Searcy WA, Andersson M. 1986. Sexual selection and the evolution of song. Annu Rev Ecol Syst. 17:507-533.</item>
+      <item id="id1169040195324">Soha JA, Lohr B, Gill DE. 2009. Song development in the grasshopper sparrow, Ammodramus savannarum. Anim Behav. 77:1479-1489.</item>
+      <item id="id1169000977468">Soha JA, Marler P. 2001. Cues for early discrimination of conspecific song in the white-crowned sparrow (zonotrichia leucophrys). Ethol. 107:813-826. </item>
+      <item id="id1169001231727">Templeton CN, Akcay C, Campbell SE, Beecher MD. 2010. Juvenile sparrows preferentially eavesdrop on adult song interactions. Proc R Soc Lond B Biol Sci. 277: 447-453. During song learning phase, juvenile song sparrows prefer singing interactions over the singing of one bird.</item>
+      <item id="id1169003883751">Wheelwright NT, Swett MB, Levin II, Kroodsma DE, Freeman-Gallant CR, Williams H. 2008. The influence of different tutor types on song learning in a natural bird population. Anim Behav. 75:1479-1493.</item>
+      <item id="id1169003754369">Wilson PL, Towner MC, Vehrencamp SL. 2000. Survival and song-type sharing in a sedentary subspecies of the song sparrow. Condor. 102:355-363.</item>
+      
+    </list></section>
+<section id="eip-400"><title>About the Author</title><para id="eip-288">
+I am an Ecology and Evolutionary Biology and Psychology double major at Rice University (as of 2010).  I like birds, especially my pet African Gray parrot, Goose (some know me as the “bird-man” in high school).  Unlike juvenile sparrows, Goose can learn the vocal productions of just about any species, plus things like telephones, ice cream trucks, and, unfortunately, fire alarms.  Interestingly, I have never caught Goose using birdsongs to try to gain territory status among sparrows.
+</para>
+<figure id="eip-id1166717223725"><media id="eip-id1166729046548" alt="a photo of the author hodling a bird."><image mime-type="image/png" src="../../media/songbird1.png" width="200px"/></media><caption>A picture of me and Goose, my African Gray parrot.  Goose is a bit camera shy.</caption></figure></section>
+  </content>
+</document>

@@ -1,0 +1,233 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Costs and benefits of non-predator eavesdropping in mammal-bird alarm call interactions</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34711</md:content-id>
+  <md:title>Costs and benefits of non-predator eavesdropping in mammal-bird alarm call interactions</md:title>
+  <md:abstract>When animals communicate, they often do so in a manner that lets individuals other than the intended recipient(s) receive it.  When one of these other animals listens in on a communication, it is said to be “eavesdropping.”  A specific kind of communication is an alarm call, present in many species of social animals; it is given by an animal to alert its group to danger.  The purpose of this chapter is to explore the nature alarm call eavesdropping in three types of interactions with mammals and birds: increased vigilance following another’s call; distinguishing between another’s different alarm calls for different predators; and partnership in eavesdropping, where animals alarm for another’s predator.  These interactions have specific benefits for the eavesdroppers as they help them determine when to take cover in the same way they warn the kin of those sending the signal.  The costs of eavesdropping stem from the opportunity cost of investing energy into learning these signals instead of engaging in other potentially productive behaviors.  As a whole, eavesdropping is interesting to study because it is a form of communication that has evolved with traits of commensalism and only occasionally, mutualism.</md:abstract>
+  <md:uuid>b85be0f6-3101-4525-b454-4344081f85df</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1169287819118"><emphasis effect="bold">Author:</emphasis> Emily Prehn</para>
+    <section id="id1169322481469">
+      <title>Introduction</title>
+      <para id="id1169322996685">Nearly all animals communicate in some way or another, be it through visual cues, noises or sounds, smells, touch, or even taste or chemical interactions. Communication includes at least two individuals: the sender and the receiver. The sender is the animal that sent the signal in the first place; the receiver is the intended audience of the signal. But in many cases, a third party is introduced to the communication: an eavesdropper. An eavesdropper is an animal that receives a signal meant for someone else. Within interceptive eavesdropping, the eavesdropper gains information from signals; within social eavesdropping, the eavesdropper gains information from signal interactions (<link target-id="oo-id1169317893337"/>) (Peake 2005). In this chapter, we will focus primarily on interceptive eavesdropping found in mammal-bird interactions.</para>
+      <para id="id1169292478860">The specific type of animal communication we will be considering here is alarm calls. Many social animals, from titmice to mongooses, make use of alarm calls. When an individual, either an assigned sentry or otherwise, notices a predator, it communicates the presence of that predator to the rest of the community by using one of the earlier mentioned types of signal. For instance, many types of birds employ loud, shrill sounds to alert others to the danger; this behavior is assumed to have evolved to aid close relatives. Many animals other than the birds’ conspecifics, however, listen (eavesdrop) to the alarm calls.</para>
+      <para id="id1169289805557">Picture an eastern chipmunk foraging under a tree. Suddenly a hawk swoops overhead. The chipmunk, concentrating on its eating, does not notice it; a tufted titmouse sitting above it in the tree does (<link target-id="id1169297100976"/>). The titmouse calls out, warning its own family, and at the same time inadvertently warning the chipmunk. The chipmunk looks around, realizes its danger, and scampers to safety. We will call this kind of interaction “increased vigilance following another’s call,” and will examine other examples of it and the costs/benefits of this type of behavior later in the chapter. </para>
+      <para id="id1169298470974">Other animals that recognize and respond to one another’s alarm calls include hornbills and Diana monkeys, dwarf mongooses, and many more. What benefits does an eavesdropper receive, and are there any costs to its behavior? We will explore this question within the context of several sets of organisms (<link target-id="id1169291267867"/>).</para>
+      
+      <figure id="id1169297100976"><subfigure id="eip-id1166547280447">
+<media id="id1169294499306_media" alt="a tufted titmouse">
+            <image mime-type="image/png" src="../../media/Picture 1-6925.png" id="id1169294499306__onlineimage" height="235" width="314"/>
+          </media>
+        </subfigure>
+<subfigure id="eip-id1166579362848">
+
+
+<media id="id1169297100976_media" alt="eastern chipmunk">
+          <image mime-type="image/png" src="../../media/Picture 2-e071.png" id="id1169297100976__onlineimage" height="230" width="198"/>
+        </media>
+        
+      </subfigure><caption>When the tufted titmouse (Baeolophus bicolor) (left) gives its alarm call, the eastern chipmunk (Tamias striatus) (right) responds with heightened anti-predator behavior.  Titmouse from Badger 2006; chipmunk from “eastern chipmunk.”</caption></figure>
+    </section>
+    <section id="id1169289465697">
+      <title>Overview of alarm calls (conspecific)</title>
+      <para id="id1169317806637"><emphasis effect="bold"/>Alarm calls within a species can be given for a number of reasons (<link target-id="id8845197"/>, adapted from Wheeler 2008). One of the foremost reasons to alarm one’s community is to warn one’s kin. By helping kin to survive, an animal is ensuring that more of its genes will be passed on to the next generation. Studies have shown that kin warning is the primary reason chipmunks give alarm calls (da Silva et al 2002); studies have also shown that the long-distance calls of Diana monkeys function as kin-warning systems (Zuberbuhler et al 1997). These studies examined what types of stimuli triggered the animals to alarm, as well as studied which animals alarmed. The assumed cost of this behavior is that the predator will be more likely to find and eat the animal that makes a loud alarm noise; the assumed benefit is the probability that more of the alarming animal’s genes will continue on to the next generation, whether through children or close relatives. Parental care and mate protection are also forms of kin selection.</para>
+      <para id="id1169287850896"> Another key hypothesis for why animals alarm call is the “perception advertisement hypothesis” (Bergstrom &amp; Lachmann 2001; Zuberbuhler et al 1997). This theory states that prey animals will often sound the alarm after they’ve spotted ambush predators – that is, predators that rely on the element of surprise to get their prey. If the predator is spotted, it will likely have less success in hunting and will have to expend more energy to kill the prey that is forewarned. If the prey spots the predator, then, the prey can alarm to tell the predator that it has been spotted and will have to work harder than it had anticipated. This knowledge is sometimes enough to encourage the predator to leave and attempt to sneak up on another meal. The cost here is the same as before: the predator is more likely to spot the caller. But the benefit is that the predator might attack at all: since through alarming the caller is able to save both itself and its kin, the benefits clearly outweigh the cost.</para>
+      <table id="id1169291267867" summary="Interaction between sender and eavesdropper and the study referenced.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Sender Referenced</entry>
+              <entry>Eavesdropper</entry>
+              <entry>Description</entry>
+              <entry>Study</entry>
+            </row>
+            <row>
+              <entry>Tufted titmouse 2008</entry>
+              <entry>Eastern chipmunk</entry>
+              <entry>Chipmunks increase vigilance</entry>
+              <entry>Schmidt et al.</entry>
+            </row>
+            <row>
+              <entry>Diana Monkey 2004</entry>
+              <entry>Hornbill</entry>
+              <entry>Hornbills distinguish between different alarm calls</entry>
+              <entry>Rainey et al.</entry>
+            </row>
+            <row>
+              <entry>Hornbill</entry>
+              <entry>Mongoose</entry>
+              <entry>Work as a team; mongoose relies on hornbill’s sentry duty</entry>
+              <entry>Anne et al. 1983</entry>
+            </row>
+          </tbody>
+        
+
+</tgroup><caption>Organism examples offered in the text, along with a brief description of interaction and the study referenced</caption>
+</table>
+      <table id="id8845197" summary="Table listing several hypotheses.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Hypothesis in</entry>
+              <entry>Prediction</entry>
+              <entry>Previous support</entry>
+            </row>
+            <row>
+              <entry>Kin selection</entry>
+              <entry>Individuals related to more conspecifics more likely to call</entry>
+              <entry>rodents</entry>
+            </row>
+            <row>
+              <entry>Parental care</entry>
+              <entry>Individuals with more offspring more likely to call</entry>
+              <entry>Primates. Rodents, Birds</entry>
+            </row>
+            <row>
+              <entry>Male protection</entry>
+              <entry>Mating males more likely to call</entry>
+              <entry>Birds</entry>
+            </row>
+            <row>
+              <entry>Selfish herd</entry>
+              <entry>Animals group following call</entry>
+              <entry>Birds</entry>
+            </row>
+            <row>
+              <entry>Predator confusion birds</entry>
+              <entry>Conspecifics engage in sudden movement/sounds following call</entry>
+              <entry>Rodents</entry>
+            </row>
+            <row>
+              <entry>Group maintenance</entry>
+              <entry>Dominant individuals in group more likely to call</entry>
+              <entry>Primates</entry>
+            </row>
+            <row>
+              <entry>Mobbing recruitment</entry>
+              <entry>Conspecifics mob predator following alarm</entry>
+              <entry>Birds</entry>
+            </row>
+            <row>
+              <entry>Pursuit deterrence</entry>
+              <entry>Conspecifics don’t respond/are not present</entry>
+              <entry>Primates, rodents, birds</entry>
+            </row>
+          </tbody>
+        
+
+</tgroup><caption>Table listing several hypotheses supporting individuals’ alarm calling despite risk to self and the behaviors that would be expected in each case.  Also examples of animals in which said hypotheses have been given support. <newline/>*Table modified from Wheeler 2008.</caption>
+</table>
+      <para id="id1169311022569">There are also hypotheses that in many species alarm calling is even more selfish; these hypotheses include mobbing recruitment, selfish herd, and predator confusion (Wheeler 2008). In the mobbing recruitment hypothesis, the alarm call attracts the caller’s conspecifics, and together they “mob” the predator, attacking it and driving it away. In the selfish herd hypothesis, the alarm call causes the group to “bunch up,” packing together more densely and thus making it harder for the predator to pick off any one animal. In the predator confusion hypothesis, all the conspecifics respond to the call with flurries of movement or a cacophony of sound, confusing the predator and hopefully driving it off. In all of these examples, it is clear to see how the individual benefits.</para>
+      <para id="id7630176"> No matter what the conspecific reason is for alarming, eavesdroppers can still benefit. Any of these calls, no matter what their intent is, signifies the presence of a predator. In some mixed-species flocks of birds, heterospecifics together mob a predator following an alarm call (Johnson et al 2003); most of the time, however, there is no interaction between the signaler and eavesdropper. The other exception to this rule is in heterospecific partnerships, but we will discuss that later. </para>
+      <para id="id1169319202588">Animals that use alarm calls often use variation within the types of calls to demonstrate different things. For instance, in yellow-bellied marmots, the type of call given changes depending on how much danger the threat presents (Blumstein &amp; Armitage 1997). In great gerbils, the type of call given varies according to how close the predator is to the caller, or the nearness of the danger (Randall &amp; Rogovin 2002). Some animals, such as the Diana monkey, even have different alarm calls for different predators (Rainey et al 2004a). Animals can also distinguish about when to listen to alarm calls. Squirrels discriminate between callers, paying more attention to neighbors and paying less attention to squirrels who alarm multiple times without cause (Hare 1998). Goshawks respond to goshawk alarm calls more often during certain times, such as nesting, than at others (Kennedy &amp; Stahlecker 1993).</para>
+    </section>
+    <section id="id1169311349526">
+      <title>Increased vigilance following a heterospecific’s alarm call</title>
+      <para id="id1169289103761">Remember our chipmunk-titmouse example from our introduction? Studies have proven that chipmunks do, in fact, show heightened anti-predator behavior when they hear a tufted titmouse’s alarm call (<link target-id="id1169297100976"/>) (Schmidt, et al. 2008). In their study, Schmidt, et al. quantified the effect that birds’ alarm calls have on eavesdropping mammals (2008). To do this, they set up several different foraging areas, including food for the chipmunks, and played different sound samples. The samples included wood thrush song, a common sound in the area; the call of a broad-winged hawk, a predator of chipmunks; and three different titmouse calls: a “contact call” that they give under low-threat situations; a mobbing call that they give when an avian predator is perched nearby; and a “seet” call that they give when a predator is flying low or otherwise posing a major threat. They then observed and recorded how many seeds were left at each site, and determined that the more seeds there were left, the less the chipmunks in that area foraged, presumably because of their evaluation of the risk. If there were more seeds left, then the chipmunk spent more of its time watching for predators or fleeing than it did actually foraging. (Schmidt, et al. 2008)</para>
+      <para id="id1169287613829"><link target-id="id1169295542152"/> shows the results of their experiment, with the comparative amount of seed left in the areas with each type of call played. Sure enough, the chipmunks responded to titmouse alarm calls by foraging less and engaging in anti-predator behavior more. The chipmunks responded to the “mobbing” call and the “seet” call, each of which signified the presence of a predator. The chipmunks did not respond substantially to the control call, with the songs of the wood thrush, nor did they respond to the non-alarm calls of the titmouse. (Schmidt, et al. 2008)</para>
+      <para id="id1169324534053">Interestingly, the researchers’ hypothesis regarding the hawk call was proven incorrect. They had assumed that the chipmunk would respond to this clear evidence of a predator’s presence with anti-predator measures, but instead the chipmunk had no clear response. Schmidt, et al. hypothesized that an attacking predator would not call, betraying its position, so a chipmunk hearing a hawk call could assume that the hawk presented no immediate danger for them. (Schmidt, et al. 2008)</para>
+      <para id="id1169296908525">
+        <figure id="id1169295542152"><media id="id1169295542152_media" alt="A graph of the ammount of seed left  following certain call presentations">
+            <image mime-type="image/png" src="../../media/graphics1-a2e2.png" id="id1169295542152__onlineimage" height="517" width="464"/>
+          </media>
+          
+        <caption>Amount of food remaining in each area following certain call presentations.  The most food was left (least amount was eaten = least time was spent foraging) following the mobbing call; the next least amount of food was eaten following the seet call; there was practically no change between the food amounts left following the contact, control, and hawk treatments.<newline/>
+ *figure adapted from Schmidt et al. 2008 </caption></figure>
+      </para>
+    </section>
+    <section id="id1169288671934">
+      <title>Distinguishing between different types of alarm calls in eavesdropping</title>
+      <para id="id1169304544572">The last study included data about how the chipmunk has to respond to all of the titmouse’s alarm calls, since the titmouse does not have specific calls for specific predators. But this does not mean that no animal gives specific information about a predator. The Diana monkey, for example, gives a different type of alarm call depending on what predator is attacking (<link target-id="id1959293"/>) (Rainey, et al. 2004). The Diana monkeys then respond with different behaviors depending on what type of predator is attacking. For example, in Hauser and Wrangham’s study, it was reported that when an alarm call for a viper is given, primates look towards the ground; when an alarm call for an aerial predator is given, the primates look up (1990). The yellow casqued hornbill takes advantage of the differences in calls for specific predators in its eavesdropping, since it only shares one common predator with the Diana monkey. (Rainey, et al. 2004) </para>
+      <para id="id1169291009948">Crowned eagles attack both hornbills and Diana monkeys, but leopards attack the Diana monkey and not the hornbill. Rainey, et al. conducted their experiment to determine if hornbills, and by extension other eavesdroppers, can distinguish between different types of alarm calls. By using experimentation similar to that described in Schmidt’s study, they discovered that hornbills can indeed tell the difference between the different alarm calls; they respond with increased anti-predator behavior only when the alarm call identifying their common predator is given (Rainey, et al. 2004).</para>
+    </section>
+    <section id="id1169291267507"><title>Partnership in eavesdropping: giving alarms for another’s predator </title><para id="id1865479">The hornbill also shares a communication relationship with the dwarf mongoose, with an important difference that sets it apart from the previously-mentioned relationships (<link target-id="id1959293"/>) (Anne, et al. 1983). The hornbill and the dwarf mongoose share a mutualistic relationship, hunting together in their home region of Kenya. It is one of the closest heterospecific partnerships found in free-living vertebrates (Anne, et al. 1983). Hornbills will often congregate around the termite mounds where the dwarf mongooses sleep, waiting for them to wake up so the group can begin hunting. Likewise, if mongooses wake up and go outside and there are not many hornbills waiting, the mongooses will wait for more to arrive. The hornbills also sometimes wake up the mongooses, so they can begin hunting earlier.</para>
+      <figure id="id1959293" orient="horizontal"><subfigure id="eip-id1170654026034">        
+<media id="id1959293_media" alt="a hornbill">
+          <image mime-type="image/png" src="../../media/Picture 4-2ed7.png" id="id1959293__onlineimage" height="225" width="180"/>
+        </media>
+      </subfigure>
+      <subfigure id="id1169309923326">
+        <media id="id1169309923326_media" alt="a dwarf mongoose">
+          <image mime-type="image/png" src="../../media/Picture 5-df8c.png" id="id1169309923326__onlineimage" height="189" width="250"/>
+        </media>
+      </subfigure>
+        <subfigure id="id1169296245613">
+          <media id="id1169296245613_media" alt="a diana monkey">
+            <image mime-type="image/jpg" src="../../media/Picture 9-b982.jpg" id="id1169296245613__onlineimage" height="230" width="181"/>
+          </media>
+          
+        </subfigure>
+      
+<caption>The dwarf mongoose (Helogale undulata rufula) (center) eavesdrops on the hornbill (left), which in turn eavesdrops on the Diana monkey (Cercopithecus diana) (right). <newline/> Diana monkey image from Shears 2007; shown is Von der Decken’s hornbill (Tockus deckeni) from Yap 2008; mongoose from Silfverburg 2006.</caption></figure>
+      <para id="id1169288630692">The two species share the same types of prey and many of the same predators. They use these similarities to form a valuable partnership. Hornbills stand sentry duty, to warn the mongooses of approaching predators, while the mongooses hunt, flushing prey out in the open where the hornbills can also dine on them. Anne, et al. (1983) used observation to determine that dwarf mongooses use fewer of their own sentries when hornbills are present in the hunting groups, meaning that the dwarf mongooses trust their partners to warn them of danger. Likewise, the hornbills call out a warning even for raptor species that do not prey on them, but that do prey on the mongooses. This information implies that the heterospecific alarm calls between hornbills and dwarf mongooses are unusually deliberate; the hornbills seem to be warning the mongooses, implying a direct communication rather then eavesdropping.</para>
+      <para id="id1169292792597"><link target-id="id1169297824777"/> displays the results of Anne et al.’s study, with the numbers of times that mongooses flee when different calls are given, depending upon the presence of hornbills. When an alarm call was given, the mongooses fled more when there were no birds, implying that the mongooses were more skittish, devoting less time to foraging when their hornbill partners were not present. Both in the presence of alarm calls and not, the majority of mongooses only fled the area following the fleeing of the hornbills; clearly, the mongoose cues its defensive strategy off of the hornbill’s. </para>
+      <para id="id1169307843419">What are the costs and benefits of this partnership? The hornbill suffers the usual cost of being more visible to predators, as well as sacrificing time and effort alarming for something that doesn’t threaten them or their conspecifics.</para>
+      <para id="id1169315841464">
+        <figure id="id1169297824777"><media id="id1169297824777_media" alt="a chart about the frequency of fleeing in mongooses.">
+            <image mime-type="image/png" src="../../media/graphics2-1b3b.png" id="id1169297824777__onlineimage" height="485" width="450"/>
+          </media>
+          
+        <caption>Frequency of fleeing in mongooses related to who’s standing sentry duty.</caption></figure>
+      </para>
+    </section>
+    <section id="id1169313234363">
+      <title>Benefits and Opportunity Costs</title>
+      <para id="id1169317862664">Let us now examine the costs and benefits to the players in these interactions. The cost to the titmouses, the Diana monkeys, and the hornbills for alarming at the presence of predators is an increased chance of being spotted, the same cost it would have without the chipmunks’ eavesdropping. Their benefit is also not affected by the presence of the chipmunks, the hornbills, or the mongooses; namely, increased survival for themselves and their relatives and conspecifics, making the impact on the senders of the signal negligible. The cost to the receivers in all this interaction is that they had to learn to develop this behavior, as well as to recognize which of the calls are alarm calls, which are not, and sometimes which are relevant to mutual predators. Since all the eavesdroppers haven't a limited mental capacity, the effort of learning these skills takes the place of some other behavior that it would be able to learn (Schmidt et al. 2008). While this cost may not seem like very much, the benefit of knowing when a certain predator is approaching must outweigh the opportunity cost of potentially using that learning ability to better understand how to acquire mates or feed offspring and therefore is certainly not trivial. The benefit, however, is the ability to forage more safely and more efficiently and being able to rely on others’ alarm calls rather than spending great amounts of time looking around for threats. Instead, the eavesdroppers can concentrate on their foraging, so long as they keeps an ear out for alarm calls. Because the eavesdroppers benefit in the first two examples while the senders of the signals incur no harm, these interactions could be characterized as commensalism. </para>
+      <para id="id1169320947264">Only in the case of the hornbills and mongooses is the relationship more mutualistic. The hornbills, which send the signals, have the added benefits of easier access to their prey as the mongooses flush the prey into the open. The mongooses have to give up some of their food that they find; they also have to trust that the hornbills will in fact alarm for their predators, as well. The mongooses gain a better warning system: hornbills, from their stations in the sky or trees, can see more terrain and therefore more predators. This system of sentry duty allows the mongooses more time to forage while the hornbills exert less energy in foraging, benefitting both while both contribute to the association.</para>
+      
+      <example id="oo-id1169317893337"><label>Box</label><title>Social Eavesdropping in Great Tits</title>
+<para id="id1169290876601">The two types of eavesdropping are interceptive, which we have discussed in this paper, and social. Social eavesdropping occurs when animals are paying attention not only to the signals one animal gives, but instead to the interplay of at least two different signal systems (Peake 2005). An interesting example of a social eavesdropper is the great tit.</para>
+        <para id="id1169310389761">Male great tits are territorial, defending their areas of forest from intruders, including other male great tits. They are very intelligent in their guarding, however, making use of information other than that they gain from their own confrontations. By judging from a series of interactions whether or not a male poses a threat, the great tit is able to save energy that does not need to be spent on defense.</para>
+        <para id="id1169306393046">Let’s say male great tit B trespasses into male great tit A’s territory. Male A is able to quickly defeat tit B, chasing him out of his territory and into his neighbor’s, tit C. If tit C is then defeated by tit B (who tit A beat with ease), then tit A realizes that tit C is not actually a dangerous threat. The next time tit C intrudes, tit A will expend less energy in his attempts to drive him out. (Peake et al 2002) </para>
+      </example>
+    </section>
+    <section id="id1169314464287">
+      <title>Glossary</title>
+      <list id="id1169295287471" list-type="bulleted" bullet-style="bullet"><item><term>Animal communication</term>– the method animals use to transfer information between one another. The method may include a visual cue, a sound, a smell, a touch, or a chemical release. For animal communication to evolve, the sender of a signal must always benefit; the receiver, not necessarily.</item>
+        <item><term>Alarm call </term>– in many species of animals, an individual or individuals will keep a lookout for predators while the others go about the usual tasks of the species. If a predator approaches, the lookout(s) communicates their presence to the rest of the community via one of the methods listed above.</item>
+        <item><term>Eavesdropping</term>– eavesdropping occurs when an individual other than the sender or the intended receiver receives a communication. The two types of eavesdropping can generally be categorized as being interceptive or social (Peake 2005).</item>
+        <item><term>Interceptive Eavesdropping </term>– occurs when an individual receives a call directed at another animal(s), thereby keeping the message from reaching the intended audience. This type of eavesdropping is rare with regards to visual and auditory communications.</item>
+        <item><term>Social eavesdropping </term>– occurs when an animal overhears a signal directed at another animal(s), but does not prevent the signal from reaching the intended recipient. This type of eavesdropping often occurs with regards to visual or auditory signals.</item>
+        <item><term>Conspecific</term>– if two animals are conspecific, they belong to the same species. If a type of communication or eavesdropping is conspecific, it occurs between two animals of the same species.</item>
+        <item><term>Heterospecific</term><emphasis effect="underline"/>– if two animals are heterospecific, they belong to different species. If a type of communication or eavesdropping is heterospecific, it occurs between two animals belonging to different species.</item>
+        <item><term>Sympatric</term>– if two groups of animals are sympatric, they share the same living area or territory. For example, red squirrels are sympatric with Eurasian jays.</item>
+        <item><term>Allopatric</term>– if two groups of animals are allopatric, they do not share the same living area or territory. For example, the polar bear, found within the northern Arctic Circle, is allopatric with the penguin, found in Antarctica.</item>
+        <item><term>Fitness</term>– if an animal has increased fitness, it has an increased ability to pass on its genetic material, usually by producing more offspring. Most traits, including eavesdropping, develop because the ancestors who developed the gene for that trait had increased fitness over other animals of the same species, leading to more of their genes in the species’ gene pool. The fitness of members of a species over one another is known as relative fitness.</item>
+        <item><term>Mobbing</term>– a defensive response in social animals. After one animal gives an alarm call, alerting the group to the presence of a predator, other members of the group join him or her, then together attack (“mob”) the predator.</item>
+      </list>
+    </section>
+    <section id="id1169306426087">
+      <title>References</title>
+      <list id="id1169309282396" list-type="labeled-item"><item>Anne, O., E. Rasa. 1983. “Dwarf Mongoose and Hornbill Mutualism in the Taru Desert, Kenya.” Behavioral Ecology and Sociobiology. 2: 181-190. </item>
+        <item>Badger, Charro, <emphasis effect="underline">http://flickr.com/photos/lincolnloggers/</emphasis> 2006. “A male tufted titmouse, <link url="http://commons.wikimedia.org/wiki/Baeolophus_bicolor"><emphasis effect="italics">Baeolophus bicolor</emphasis></link>, perching on a tree branch, alert and waiting for a spot at a bird feeder, near Columbus, Ohio, USA.” <link url="http://flickr.com/photos/lincolnloggers/304548545/">http://flickr.com/photos/lincolnloggers/304548545/</link>. Licensed under <link url="http://en.wikipedia.org/wiki/Creative_Commons">Creative Commons</link><link url="http://creativecommons.org/licenses/by/2.0/">Attribution 2.0</link> License. Some rights reserved.</item>
+        <item>Bergstrom, Carl T., Michael Lachmann. 2001. “Alarm calls as costly signals of antipredator vigilance: the watchful babbler game.” Animal Behaviour. 61: 535-543.</item>
+        <item>Blumstein, Daniel T., Kenneth B. Armitage. 1997. “Alarm calling in yellow-bellied marmots: I. The meaning of situationally variable alarm calls.” Animal Behaviour. 53: 143-171.</item>
+        <item>"eastern chipmunk." <emphasis effect="underline">Encyclopædia Britannica</emphasis>. 2008. Encyclopædia Britannica Online. 17 Dec. 2008 &lt;<link url="http://www.britannica.com/EBchecked/topic/177005/eastern-chipmunk">http://www.britannica.com/EBchecked/topic/177005/eastern-chipmunk</link>&gt; Photograph by Ken Brate/Photo Researchers.</item>
+        <item>Hare, James F. 1998. “Juvenile Richardson’s ground squirrels, <emphasis effect="italics">Spermophilus richardsonii</emphasis>, discriminate among individual alarm callers.” Animal Behaviour. 55(2): 451-460.</item>
+        <item>Hauser, M. D., R. W. Wrangham. 1990. “RECOGNITION OF PREDATOR AND COMPETITOR CALLS IN NONHUMAN-PRIMATES AND BIRDS – A PRELIMINARY REPORT.” Ethology. 86(2): 116-130.</item>
+      <item>Johnson, Frances R., Elisabeth J. McNaughton, Courtney D. Shelley, Daniel T. Blumstein. 2003. “Mechanisms of heterospecific recognition in avian mobbing calls.” Australian Journal of Zoology. 51: 577-585.</item>
+        <item>Kennedy, Patricia L., Dale W. Stahlecker. 1993. “Responsiveness of Nesting Northern Goshawks to Taped Broadcasts of 3 Conspecific Calls.” The Journal of Wildlife Management, 57(2):249-257.</item>
+        <item>Peake, Tom M. 2005. “Eavesdropping in communication networks.” In: <emphasis effect="italics">Animal Communication Networks</emphasis>, ed. Peter K. McGregor. Cambridge: Cambridge University Press. p. 13-37.</item>
+        <item>--, A. M. R. Terry, P. K. McGregor and T. Dabelsteen. 2002. “Do great tits assess rivals by combining direct experience with information gathered by eavesdropping?” Proc. R. Soc. Lond. B. 269: 1925-1929. </item>
+        <item>Rainey, Hugo J., Klaus Zuberbuhler, Peter J. B. Slater. 2004. “Hornbills can distinguish between primate alarm calls.” Proc. R. Soc. Lond. B Biol. Sci. 271: 755-759.</item>
+        <item>Randall, Jan A., Konstantin A. Rogovin. “Variation in and Meaning of Alarm Calls in a Social Desert Rodent Rhombomys opimus.” Ethology. 108(6): 513-527.</item>
+        <item>Schmidt, Kenneth A., Eunice Lee, Richard S. Ostfeld and Kathryn Sieving. 2008. “Eastern chipmunks increase their perception of predation risk in response to titmouse alarm calls.” Behavioral Ecology. 19(4): 759-763.</item>
+        <item>Shears, Trisha. 2007. “Diana Monkey at Cincinnati Zoo.” <link url="http://www.flickr.com/photos/19598613@N00/662065131/">http://www.flickr.com/photos/19598613@N00/662065131/</link>. Licensed under <link url="http://en.wikipedia.org/wiki/Creative_Commons">Creative Commons</link><link url="http://creativecommons.org/licenses/by-sa/2.0/">Attribution ShareAlike 2.0</link> License. Some rights reserved.</item>
+        <item>Silfverburg, Miika. 2006. “Dwarf mongoose (<link url="http://commons.wikimedia.org/wiki/Helogale_parvula"><emphasis effect="italics">Helogale parvula</emphasis></link>) in Korkeasaari zoo.” <link url="http://www.flickr.com/photos/miikas/243139679">http://www.flickr.com/photos/miikas/243139679</link>. Licensed under <link url="http://en.wikipedia.org/wiki/Creative_Commons">Creative Commons</link><link url="http://creativecommons.org/licenses/by-sa/2.0/">Attribution ShareAlike 2.0</link> License. Some rights reserved.</item>
+        <item>da Silva, Karen Burke, Carolyn Mahan, Jack da Silva. 2002. “THE TRILL OF THE CHASE: EASTERN CHIPMUNKS CALL TO WARN KIN.” Journal of Mammalogy. 83(2): 546-552.</item>
+        <item>Wheeler, Brandon C. 2008. “Selfish or altruistic? An analysis of alarm call function in wild capuchin monkeys, <emphasis effect="italics">Cebus paella nigritis.</emphasis>” Animal Behaviour. <link url="http://dx.doi.org/10.1016/j.anbehav.2008.06.023">http://dx.doi.org/10.1016/j.anbehav.2008.06.023</link></item>
+        <item>Yap, Lip Kee. 2008. “Von der Decken's Hornbill (<link url="http://commons.wikimedia.org/wiki/Tockus_deckeni"><emphasis effect="italics">Tockus deckeni</emphasis></link>). A male in Tsavo East, Kenya. Photo 26 August 2008.” <link url="http://flickr.com/photos/64565252@N00/2854868963">http://flickr.com/photos/64565252@N00/2854868963</link>. Licensed under <link url="http://en.wikipedia.org/wiki/Creative_Commons">Creative Commons</link><link url="http://creativecommons.org/licenses/by-sa/2.0/">Attribution ShareAlike 2.0</link> License. Some rights reserved.</item>
+        <item>Zuberbuhler, Klaus, Ronald Noe, Robert M. Seyfarth. 1997. “Diana monkey long-distance calls: messages for conspecifics and predators.” Animal Behaviour, 53: 589-604.</item>
+      </list>
+      
+      
+    </section>
+  </content>
+</document>

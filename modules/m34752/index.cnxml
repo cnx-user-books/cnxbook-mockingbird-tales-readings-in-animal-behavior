@@ -1,0 +1,356 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>The Role of Evolution in Mating Behavior of Lekking Species</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34752</md:content-id>
+  <md:title>The Role of Evolution in Mating Behavior of Lekking Species</md:title>
+  <md:abstract>Animals are programmed by their genes to act in a manner than most efficiently passes on these genes to subsequent generations, increasing the genes’ chance of survival.  Thus, the “paradox of the lek” seemed to defy the very foundations of natural selection and genetics.  A lek is a group of males with a very distinct hierarchy who gather together in competitive mating display as a large group.  The females of the species almost always choose to mate only with the dominant males in the center of the lek, which should, theoretically, eliminate the diversity of the group and, therefore, the persistence of the act of preference itself.  However, this choice is still seen in lekking species.  This chapter studies lekking behavior in a variety of animals, such as manakins, the black grouse, antelopes, cichlids, and moor frogs by discussing many of the possible hypotheses for the selection of leks from scientists who have studied this peculiar behavior. Their findings are, to date, inconclusive, but point to such hypotheses lek size, competition among males, female mating bias, territoriality, networking, and environmental factors, as contributing to the persistence of lekking in animals.</md:abstract>
+  <md:uuid>67d13801-3415-4d16-80cd-d497d344d3c8</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1169320945403"><emphasis effect="bold">Author:</emphasis> Kirby Kempe </para>
+    <section id="id1169315095762">
+      <title>Introduction</title>
+      <para id="id1169302904691">The wide variety of mating systems and display behaviors in the animal kingdom today represents species’ adaptation and co-adaptation to their environments. Mating behavior is determined both by ecological conditions and by differences in parental care and family organization. Mating behavior can be classified as monogamous or mating multiply, though there are multiple subsets of each broad classification. For example, in a polygynous species, one form of mating multiply, one male can mate with multiple females, whereas in a polyandrous species, one female mates with multiple males (<link target-id="oo-id1169308488563"/>). Whenever individuals of one sex can mate with multiple individuals of the other sex, it follows from sex ratio arguments that some to many individuals of the multiple mating sex will not get to mate at all. Species that mate multiply, as opposed to monogamous species, are far more common in the animal kingdom and life-pairs are extremely rare. In fact, the most common system is one in which no bond is formed whatsoever and there is no care by either parent, known as promiscuity. However, even among only multiply-mating species, mating behavior varies widely. Natural selection has worked to favor elaborate courtship rituals and complex mating displays that underline the process of <term>sexual selection</term>, giving rise to species that spend much of their time and energy attracting a mate. Perhaps the most puzzling of these displays, known as a lek, is the large aggregation of displaying males that females interact with solely for the purpose of procreation (Kokko 1996). </para>
+      <example id="oo-id1169308488563"><label>Box</label><title>Mating Systems</title>
+        <para id="id1169290979204"><term>Monogamy</term>: Research suggests monogamy occurs when there is no potential for polygamy or for taking advantage of limited polygamy potential. It is estimated that over 90% of avian species are monogamous, but monogamy is very rare among mammals (Emlen et al. 1977). It is hypothesized that monogamy is advantageous when male territories are small and equal and the cost of mating is high, so polygynous females are at a disadvantage, and where male assistance is necessary to raise offspring so the male rears more successful offspring more by assisting one female than by mating multiply (Clutton-Brock 1989).</para>
+        <para id="id1169316835585"><term>Polygyny</term>: Polygyny occurs in situations where behavioral and/or environmental conditions cause females to clump together, where males either monopolize them directly or by hoarding resources and mate with the same group multiple times (Emlen et al. 1977, Clutton-Brock 1989). Polygyny is seen in many marsupials, carnivores, and rodents (Clutton-Brock 1989). Polygyny is most common when male home ranges overlap with those of several females as opposed to monogamous ranges overlapping with that of only one female (Clutton-Brock 1989).</para>
+        <para id="id1169308300526"><term>Polyandry</term>: Females can monopolize males if resources are congregated and able to monopolize or by defending and directly controlling males (Emlen et al. 1977).</para>
+        <para id="id1169303404034">While these are the main systemic classifications, some species alternate between variations of these while some mate in different arrangements altogether.</para>
+      </example>
+      <para id="id1169316271340">Scientists have studied lekking behavior intently, as it appears paradoxical at its very foundations. The <term>epigamic</term> displays often result in significant escalations, leading to the formation of a dominance hierarchy, which serves to establish a rough predictor of mating success in the next generation (Dastagir 1997). Males in the lek defend individual territories, but these territories contain no resources or other benefits to the females (Isvaran 2003). Female choice among the males of the lek is easily observed, but traditional evolutionary approaches and natural selection principles would predict that female choice would eliminate the variation in the traits for which they are selecting, eliminating the great diversity that characterizes a lek. Additionally, the tendency of competing males to establish and defend territories in such a cluster seems paradoxical, as the density of these territories would traditionally escalate the cost of aggression among the males in addition to adding the cost of attracting predators (Isvaran 2003). The growth of female choice alongside the stability of male variation has given this mating behavior the title of the “lek paradox” and has forced scientists to propose various models to explain the behavior (Hamilton 2006). This chapter will address the strengths and shortcomings of the “hotshot,” “hot spot,” and ‘”preference” models, which are the most common explanations for lekking behavior in animal species, as well as evidence for other possible explanations of lekking behavior.</para>
+    </section>
+    <section id="id1169325691555">
+      <title>Overview of Lek Organization</title>
+      <para id="id1169294096539"> The organization of a lek sets the foundation for the behaviors demonstrated by lekking species. Within the boundary of the lek, each male displaying holds his own display territory, but individual dominance displays vary (Westcott 1994). In an extreme lekking species, multiple males share an area inside which they compete for individual success. On the other extreme, males simply divide the lek into territories and any disruption in mating activities is limited to that between neighbors (Gibson 1987).</para>
+      <para id="id1169313505561">
+        <figure id="id1169320685969"><media id="id1169320685969_media" alt="A figure showing the basic organization of territory mating in Lekking species">
+            <image mime-type="image/png" src="../../media/Picture 9.png" id="id1169320685969__onlineimage" height="385" width="421"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1169309510048">The organization of a lek sets the foundation for the behaviors demonstrated by lekking species. Within the boundary of the lek, each male displaying holds his own display territory, but individual dominance displays vary (Westcott 1994). In an extreme lekking species, multiple males share an area inside which they compete for individual success. On the other extreme, males simply divide the lek into territories and any disruption in mating activities is limited to that between neighbors (Gibson 1987). </para>
+      <para id="id1169309350132">When females visit the lek, they do so only for the benefit of copulation and choose their mate free from any coercion from the male (Westcott 1994). The allocation of territories and the lack of economic benefit to the female that could have been derived from the male’s land do not seem to have any role in mate selection (Reynolds 1990). The paradox of the lek enters in discussing the preferences of the female. Often on lek, females will show strong preference for and consensus in mate choice, regardless of the fact that the male she is choosing contributes nothing more than genes to her offspring, and the genes that correspond to the traits selected for don’t contribute to the fitness of her offspring to a significant extent (Reynolds 1990). In other instances, the desperate displays of the males have no significant influence on the female’s choice and do not benefit him at all. </para>
+      <para id="id1169301592416">The original three proposed models to account for lek formation are the “preference,” “hotspot,” and “hotshot” models. The preference model hypothesizes that leks persist because they are more advantageous for males and/or females than mating at isolated sites, in ways such as decreasing the costs associated with searching for a mate or giving honest signals as to the strength and fitness of the males on lek (Westcott 1994). The hotspot model suggests that female movement patterns and behaviors are the cause of lek formation and males lek in areas of highest female density (Westcott 1994). The hotshot model proposes that, due to the inherent variation in mating success, less successful males tend to cluster around successful males in order to intercept some of the females that are attracted to the “hotshots” (Westcott 1994). To date, scientists have been unable to solve conclusively the lek paradox. Evidence of varying strength and reproducibility for and against these models has been found in various species of lekking animals, and additional hypotheses have developed through observation. For example, some scientists have proposed kin selection as an explanation for the formation of leks, while others support the importance of networking within the lek as a predictor of alpha male fecundity.</para>
+      
+      <para id="id1169289334406"><table id="id1169297479616" summary="Breakdown of Hypotheses and Supporting/Refuting Sources"><title>Breakdown of Hypotheses and Supporting/Refuting Sources</title><tgroup cols="4"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+
+              <row>
+                <entry>Hypothesis</entry>
+                <entry>Species</entry>
+                <entry>Overview</entry>
+                <entry>Literature Cited</entry>
+              </row>
+
+              <row>
+                <entry morerows="5">Preference</entry>
+                      <entry>Black grouse</entry>
+                      <entry>Females visit larger leks more often</entry>
+                      <entry>Alatalo et. al, 1992</entry>
+                    </row>
+
+                    <row>
+
+                      <entry>Topi antelopes</entry>
+                      <entry>- Central males are significantly larger- Females choose to mate more when other estrous females are present</entry>
+                      <entry>Bro-Jørgensen et. al, 2002</entry>
+                    </row>
+
+                    <row>
+
+                      <entry>Blue-crowned manakins</entry>
+                      <entry>- Mating based on display patterns and vocalizations- No mating bias toward larger leks- Prefer males that display more</entry>
+                      <entry>Durães, 2009Durães et. al, 2009</entry>
+                    </row>
+
+                    <row>
+
+      
+              <entry>Mathematical model</entry>
+                      <entry>Mating bias manipulations had greatest effect on males</entry>
+                      <entry>Isvaran et. al, 2003</entry>
+                    </row>
+
+                    <row>
+
+  
+              <entry>Moor frogs</entry>
+                      <entry>Males no more closely related than expected by chance</entry>
+                      <entry>Knopp et. al, 2008</entry>
+                    </row>
+
+                    <row>
+
+      
+              <entry>Cichlids</entry>
+                      <entry>- Average female encounter rate increases with size- Preference for males on larger leks determined indirect choice rather than direct assessment </entry>
+                      <entry>Young et. al, 2009</entry>
+                    </row>
+              <row>
+                <entry morerows="1">Hotspot </entry>
+                      <entry>Manakins</entry>
+                      <entry>- Correlation between female home range and male clustering- Males settle at sites with high female traffic</entry>
+                      <entry>Théry, 1990</entry>
+                    </row>
+
+                    <row>
+      
+              <entry>Neotropical birds</entry>
+                      <entry>- Hotspots initiate and determine location of aggregation and other factors (predators, resources, etc.) modify size</entry>
+                      <entry>Westcott, 1994</entry>
+                    </row>
+
+              <row>
+                <entry morerows="1">Kin Selection</entry>        
+              <entry>Black grouse and ruff</entry>
+                      <entry>- Number of copulations, per capita, increases with lek size- Small lek: inclusive fitness is high as new males increase lek size/attractiveness- Large lek: negative as alpha males can no effect longer monopolize females</entry>
+                      <entry>Kokko et. al, 1996 </entry>
+                    </row>
+
+                    <row>
+
+
+                      <entry>Manakins</entry>
+                      <entry>- No more related than by chance- Relatedness and distance found inversely related- Mean relatedness is negative</entry>
+                      <entry>Loiselle et. al, 2007McDonald et. al, 2009</entry>
+                    </row>
+            </tbody>
+          
+</tgroup>
+</table>
+      </para>
+    </section>
+    <section id="id1169320873275">
+      <title>The Preference Hypothesis</title>
+      <para id="id1169294340556">Perhaps one of the most widely supported models, the preference hypothesis attributes lek formation to the benefits that accrue to either males or females, or both, by mating in a lek as opposed to mating individually, the traditional approach to reproduction in the animal kingdom (Dastagir 1997). Among the benefits to females proposed as explanations are size, i.e. the ability to compare more males at a lower cost, preference, i.e. the ability of females to compare and then to mate only with males that display most vigorously, and “good genes,” i.e. the ideal that only males with well-adapted genes will be able to control and win all of the escalations that occur in order to maintain status as the alpha male (Alatalo et al. 1992, Durães et al. 2009, Young et al. 2009). Other research has shown lek formation being driven by benefits that accumulate for males in the natural pattern of male clustering at sites of high female traffic (Théry 1990).</para>
+      <section id="id1169303563756">
+        <title>Support</title>
+        <section id="id1169296485022">
+          <title>THE MANAKIN</title>
+          <para id="id1169319192481">Support for the preference hypothesis as an explanation for lek formation has come from studies on a very diverse array of species, from mammals such as the topi antelope to amphibians such as moor frogs. A study conducted by researchers at the University of Missouri-St. Louis followed blue-crowned manakins (<emphasis effect="italics">Lepidothrix coronata</emphasis>) at a site in Ecuador to monitor the behavior of the organisms and determine patterns between and within leks (Durães et al. 2009). Part of the preference hypothesis proposes that females choose mates based on the size of their lek and that the females strongly prefer mating with males on larger leks. The study established male to female ratio between leks as an accurate indicator of this aspect of the hypothesis for a high ratio of females to males at larger leks would indicate that the females either actively or passively chose to mate with males on larger leks. </para>
+          <para id="id1169315764879">
+            <figure id="id1169321658211"><media id="id1169321658211_media" alt="a blue-crowned manakin bird">
+                <image mime-type="image/png" src="../../media/graphics1-5904.png" id="id1169321658211__onlineimage" height="348" width="521"/>
+              </media>
+            <caption>Blue-Crowned Manakin
+<newline/>
+http://farm4.static.flickr.com/3253/2537888503_94b7b41b23.jpg
+          </caption></figure>
+          </para>
+          
+          <para id="id1169294983748">Support for the preference hypothesis as an explanation for lek formation has come from studies on a very diverse array of species, from mammals such as the topi antelope to amphibians such as moor frogs. A study conducted by researchers at the University of Missouri-St. Louis followed blue-crowned manakins (<emphasis effect="italics">Lepidothrix coronata</emphasis>) at a site in Ecuador to monitor the behavior of the organisms and determine patterns between and within leks (Durães et al. 2009). Part of the preference hypothesis proposes that females choose mates based on the size of their lek and that the females strongly prefer mating with males on larger leks. The study established male to female ratio between leks as an accurate indicator of this aspect of the hypothesis for a high ratio of females to males at larger leks would indicate that the females either actively or passively chose to mate with males on larger leks. </para>
+          <para id="id1169325521530">The study also used relationships within leks to test the hypothesis that females choose mates that will maximize <term>heterozygosity</term> of their offspring. The theory of heterozygosity stems from the fact that sexual reproduction is costly because it carries with it the potential of accumulating in the offspring the parents’ inferior recessive alleles (Brown 1997). If females were able to choose mates to increase heterozygosity, this would decrease the chance of their offspring suffering from recessive homozygosity. Another benefit of heterozygosity is that it diversifies the genes of the offspring, increasing potential for adaptation to the environment, should it change. Thus, studies have shown that heterozygous males tend to have progeny that are more successful than the average in a fluctuating environment. Studies across many species have determined heterozygosity to be advantageous in areas such as pathogen resistance, growth rate, and developmental stability (Brown 1997). Thus, the University of Missouri-St. Louis study also controlled for among-lek variations and looked at mate choices within individual leks to determine whether females chose mates that were able to maximize heterozygosity in progeny. The study used vocal signaling as an indicator of heterozygosity, as it is costly and easily accessible as an honest signal to females (Durães et al. 2009). The quantifiable objective of this party of the study, then, was the correlation between vocal display and fitness in number of offspring, with the predation that more vocal males will produce more offspring because vocalizing is an honest indicator of heterozygosity (Durães et al. 2009).</para>
+          <figure id="id1169303117067"><media id="id1169303117067_media" alt="a bar graph representing the distance between females' nests and the nearest lek.">
+              <image mime-type="image/png" src="../../media/graphics2-e785.png" id="id1169303117067__onlineimage" height="557" width="599"/>
+            </media>
+            
+          <caption>Side a) represents the distance between the females’ nest and the edge of the nearest lek. Side b) represents the distance between the nest and the lek of the male with which the female mates.  The top striped bars represent females nesting at the closest lek.</caption></figure>
+          <para id="id1169315692467">The evidence of female preference was found in the distance the female manakins traveled in order to mate. If females had no preference of lek, they could be expected to mate at the lek closest to their current location in order to minimize search costs. However, the results of this study found that only 33% of females mated at the nearest lek and most mated at leks located significant distances from the lek nearest to their nest (Durães et al. 2009). This shows that females did, in fact, have a preference for where they mated, and the preference seemed to be based on size of the lek. Females that passed up the nearest lek to mate elsewhere were located close to a lek that was significantly smaller than the one at which they chose to mate. In other words, the lek closest to the female’s nest was very small so the females chose to travel a greater distance in order to mate at a larger lek. However, females that were nesting in close proximity to an average-sized lek were no more likely to visit a larger lek than the one nearest them.</para>
+          <para id="id1854499">In determining whether heterozygosity was a factor in the mating choices of females, the researchers found that the male manakins increased vocal displaying on larger leks but that the rate of vocalization did not reflect heterozygosity of the male or of his offspring (Durães et al. 2009). However, the males that females chose to mate with did vocalize more than non-siring males on a given lek. This indicates that the investment of vocalization is effective in increase a male’s probability of producing offspring and that male success is limited by the extent to which they are able to increase display (Durães et al. 2009).</para>
+          <example id="oo-id1169316900306"><label>Box</label><title>Fisherian Model of Female Preference</title>
+            <para id="id1169308372488">The Fisherian model proposes that female preference is rooted in selection for traits that yield reproductive advantage in males and male progeny. Fisher holds that these traits are distinct from those acted upon by natural selection and only confer advantage in sexual selection by female preference (Kodric-Brown 1984). </para>
+          </example>
+          <para id="id1169302240362">The overall conclusion of the study supports a subset of the preference model called the “best-of-n” hypothesis (Durães et al. 2009). The “best-of-n” males is a model describing female mating behavior that describes female behavior as choosing the best of <emphasis effect="italics">n</emphasis> males she encounters (Janetos 1979). This model is unique in that it requires the assumption that females have a memory capacity, and the capacity may be measured by the size of <emphasis effect="italics">n</emphasis>. Additionally, in the case of leks, a female might encounter the first of <emphasis effect="italics">n</emphasis> males on one lek and the last in another lek. If the best of <emphasis effect="italics">n</emphasis> is in the first lek, the model requires that the female is able to return to the first lek and mate with that organism (Janetos 1979). The results of this study support the best-of-<emphasis effect="italics">n­ </emphasis>model over strict female preference because while female preference is a main condition for determining which organism is “best,” the females who were able to encounter <emphasis effect="italics">n</emphasis> males at a nearby lek visited only that lek, whereas females who were nesting close to a lek of smaller size than <emphasis effect="italics">n</emphasis> were forced to travel until they came upon another lek in which to find the best. Strict female preference, on the other hand, indicates that the act of being at a larger lek benefits males. </para>
+          <para id="id1169294991903">The preference indicated by this study is consistent with the Fisherian model (<link target-id="oo-id1169316900306"/>) of female preference, first proposed by Fisher in 1930 (Kodric-Brown 1984). Because the vocal displays of the males are sexually selected and heritable, the Fisherian model predicts that females who mate with the dominant males may actually increase the fitness of their offspring by other indirect means such as “attractive” genes that caused the female to mate with the male on lek. Because the display behavior of the males is determined at least in part by the males’ natural abilities and instincts, female preference for males that show this behavior serves to increase the fitness benefits and mating success of the offspring (Durães et al. 2009). </para>
+        </section>
+      </section>
+    </section>
+    <section id="id1169289175105"><title>The Hotspot Hypothesis</title><para id="id1169291021606"> Another theory on lekking behavior is known as the “hotspot” hypothesis. This theory proposes that leks form as an aggregation of males each settling in an area where females are most likely to pass by (Théry 1991). Thus, male clusters are expected to occur in regions of high female density or in regions determined likely to encounter females based on studies of female dispersion patterns (Westcott 1994). While perhaps less supported than the preference model, the hotspot model is appealing to many scientists as a result of its congruity with generally-accepted knowledge of the fundamentals of mating systems. Leks provide an opportunity to study mating fundamentals, because in leks, males contribute only sperm and are therefore able to act solely out of concern for maximum reproductive success without the confound of providing parental care to offspring. Logically, then, the hotspot hypothesis of leks is a natural phenomenon of male behavior as a function of female behavior, which is to be expected in a mating system where males are focused solely on genetic distribution (Westcott 1994).</para>
+      <section id="id1169298622309">
+        <title>Support</title>
+        <section id="id1169313242810">
+          <title>MANAKINS</title>
+          <figure id="id1169289353622"><media id="id1169289353622_media" alt="a white-crowned manakin">
+              <image mime-type="image/png" src="../../media/graphics3-a126.png" id="id1169289353622__onlineimage" height="438" width="348"/>
+            </media>
+            
+          <caption>White-crowned manakin</caption></figure>
+          <para id="id1169300491489">The manakins (Pipridae) are a group of approximately 40 different Neotropical bird species characterized partially by their lekking behavior (Prum 1990, Théry 1991). <term>Sympatric</term> manakin species demonstrate various distributions of clustering, but lekking display to some degree is present in all manakin species (Théry 1991, Prum 1990). Manakins are noted and selected for their bright plumage displays, and thus <term>sexual selection</term> has led to strong <term>dimorphism</term> in male characteristics (Prum 1990). Male birds are selected for bold, bright patterns of black and white with very bright colors while females are more camouflaged in greens and yellow. Manakins are traditionally <term>frugivorous</term>, feeding on fruits similar to other tropical birds. Manakin displays tend to vary among species. Some display on tree branches and limbs while others perform their mating dances on fallen logs or in cleared patches. Behaviors also vary in complexity, which many species demonstrating simple callings and flights while others show orchestrated wing noises, postures, flights, and patterns (Prum 1990). </para>
+          <para id="id1169296900856">
+            <figure id="id1169303641387"><media id="id1169303641387_media" alt="a golden-headed manakin">
+                <image mime-type="image/png" src="../../media/graphics4-0948.png" id="id1169303641387__onlineimage" height="417" width="521"/>
+              </media>
+              
+            <caption>Golden-headed manakin</caption></figure>
+          </para>
+          <para id="id1169300483765">A study by Marc Théry in French Guiana followed six species of manakins, white-crowned (<emphasis effect="italics">Pipra pipra pipra</emphasis>), golden-headed (<emphasis effect="italics">P. erythrocephala erythrocephala</emphasis>), white-fronted (<emphasis effect="italics">P. serena serena</emphasis>), white-bearded (<emphasis effect="italics">Manacus manacus manacus</emphasis>, white-throated (<emphasis effect="italics">Corapipo gutturalis</emphasis>), and thrush-like (<emphasis effect="italics">Schiffornis turdinus wallacii</emphasis>) for 3 years, banding them and studying mating and breeding behaviors as well as movement patterns (Théry 1991). The researchers found that the female manakins stayed within their <term>home ranges</term> when courting and visiting males. Additionally, the location of the leks was always near regions of climaxing feeding activity of females. When studying the ranges of different females, researchers noted that females visiting males on the same lek showed overlapping home ranges and the male manakins were found to settle in regions of high resource density, where female traffic was highest. These observations show strong support for the hotspot theory, with males aggregating in “hotspots,” or regions that attract high densities of females (Théry 1991).</para>
+          <para id="id1169304787582"> This study also demonstrates the importance of fluctuations in food supply on the breeding season of manakins (Théry 1991). Females tended to favor certain nutrient resources over others, and males congregated around these regions of fruit density during breeding seasons. Thus, breeding success is positively correlated with fruit supply and resource distribution shows itself to be a driving force in communal displays (Théry 1991). </para>
+          <para id="id1169294612122"/>
+        </section>
+        <section id="id1169308714836">
+          <title>NEOTROPICAL BIRDS</title>
+          <para id="id1169309547531">Researchers at the University of British Columbia in Canada conducted another study supporting the role of hotspots in lekking behavior. They followed four neotropical bird species, the ochre-bellied flycatcher (<emphasis effect="italics">Mionectes oleaginous</emphasis>), red-capped manakin (<emphasis effect="italics">Pipra mentalis</emphasis>), blue-crowned manakin (<emphasis effect="italics">Pipra coronata</emphasis>), and long-tailed hermit hummingbird (<emphasis effect="italics">Phaethornis superciliosus</emphasis>) (Westcott 1994). The researchers monitored annually male displaying behavior and location of lek center in canopy trees in Corcovado National Park in Costa Rica. The lek distributions were also analyzed for any correlation with geographic qualities of the area that would have an influence on them, such as waterways and drainage. </para>
+          <para id="id1169315942884">The results determined an underlying factor that affects the lek location distributions of all four species, and the researchers propose the geographic features as probable causes. The four species all demonstrate similar movement through the canopies and therefore are expected to show the same effects of the influence of the geography. The features of the land focus the movements of the females, causing males to cluster in these areas (Westcott 1994). </para>
+          <para id="id1169289126754">The potential influence of predators on lek distributions was overruled because, in 500 hours of study, only two instances of predation were noted. If the males were congregating to take advantage of the ability of clusters to fare better against predators, the other leks should be expected to notice the attacks. Contrarily, however, the calling of the other leks had no correlation with predation. It did not stop in response to the predation of neighbors and it did not increase to signal the arrival of a predator (Westcott 1994). </para>
+          <para id="id1169311365389">The study concluded in support of the hotspot hypothesis under certain conditions. Because an area of higher female density, where males are likely to visit, is likely to be very large to accommodate all of the females, many proclaim that it is unlikely to produce the clustering of males that characterizes a lek. However, the researchers at the University of British Columbia claim that if other factors are severe enough to constrain the movement of females, hotspot explanations alone may be sufficient to explain the leks (Westcott 1994). </para>
+        </section>
+      </section>
+      <section id="id1169297527678"><title>Opposition</title><para id="id1169303553819"> A study conducted by Jakob Bro-Jørgensen and other researchers from the Institute of Zoology in London refuted the hotspot hypothesis in a study on topi antelopes. Antelopes lek similarly to manakins, with this study focusing on leks of between 11 and 14 males each, visited by groups of up to 40 females (Bro-Jørgensen 2002). The hotspot hypothesis predicts that resource density would be greatest on lek as benefit to the females, which, in turn, attracts the lekking males. Instead, the results of the study determined the land on leks to be nutritionally deficient. The ground was bare and females grazed off lek close to 7 times more often than they grazed on lek (Bro-Jørgensen 2002). This indicates that the females gained no benefit in resources from the location of the lek, which refutes the hotspot hypothesis.</para>
+       
+</section>
+      <section id="eip-680"><title>The Hotshot Hypothesis</title><para id="id1427189"> While the preference model suggests that females are biased towards aggregated males in general, the hotshot model proposes that females show a preference for particular individual males (Young 2009). The theory claims that leks form as aggregations of inferior males around the preferred “hotshots” in attempts to increase their successes in attracting females by intercepting the females attracted to the hotshot. This theory leads to the logical prediction that preferred males should display in central territories with inferior males aggregated about them (Young 2009). </para>
+        <figure id="id1169325463443"><media id="id1169325463443_media" alt="Lake Malawi Cichlids">
+            <image mime-type="image/png" src="../../media/graphics5-7e48.png" id="id1169325463443__onlineimage" height="347" width="521"/>
+          </media>
+          
+        <caption><emphasis effect="bold">Lake Malawi Cichlids</emphasis>
+          </caption></figure>
+      <section id="id1169294754735">
+        <title>Opposition</title>
+        <section id="id1169303555153">
+          <title>CICHLIDS</title>
+          <para id="id1169291517975"> A study performed in Africa by Kyle Young followed the behavior of a species of <term>bower</term>-building cichlid fish, <emphasis effect="italics">Nyassachromis cf. microcephalus</emphasis> (Young 2009). Male bowers are volcano-shaped nests that males defend and territorialize in their courtship of passing females. This species is native to Lake Malawi, Africa, and demonstrates many characteristics that suit it for studying lek behavior. The male cichlids build bowers that are easily quantified in size and their reproductive behaviors are easily assigned cost and benefit figures. Additionally, researchers can easily study female choice, as males of this species do not actively pursue females but rather court them as they pass the males’ bowers. Variation in courtship rates is therefore a result of female, rather than male, choice because the males play no role in the coordination of a partnership. Finally, the series of mating behaviors in this species relies first on indirect female choice, in swimming past a male’s bower, then on direct female choice, as the female assesses the pursuing male and his bower and determines whether to proceed with the mating process (Young 2009). </para>
+          <para id="id1169315639187"> Researchers followed three different leks for one week during peak mating season, documenting every instance of a male beginning courtship with a female, acting out of aggression toward a male of the same species, acting aggressively toward a male of a different species, building his bower, and engaging in foraging behavior. The researchers then created a correlation matrix relating the position and size of the bower, male behaviors, and female interest.</para>
+          <para id="id1169303928562">
+            <figure id="id4102366"><media id="id4102366_media" alt="Five graphs showing courtship, conspecific attack, heterospecific attack, bower-building, or foraging behaviors as a function of lek size.">
+                <image mime-type="image/png" src="../../media/graphics6-f6e2.png" id="id4102366__onlineimage" height="692" width="211"/>
+              </media>
+              
+            <caption>Results showing courtship, conspecific attack, heterospecific attack, bower-building, and foraging behaviors as a function of lek size Young 2009</caption></figure>
+          </para>
+          <para id="id1169316285865">The results of the study, however, did not show support for the hotshot hypothesis. Researchers determined a negative correlation between <term>conspecific</term> attack rate and bower location, which suggests that there is, in fact, an added cost that the hotshots must bear to hold the central lek territory, but this did not affect their encounter rate with females (Young 2009). In other words, lek position, bower size, and attack rate had no correlation to courtship initiation by females. Additionally, none of these factors correlated significantly with the reproductive success of the cichlid males either. In further evidence against the hotshot theory, once courted, females did not show any direct preferential selection for males holding territories in the center of the lek.</para>
+        </section>
+      </section>
+    </section></section>
+    <section id="id1169308070505">
+      <title>The Kin Selection Hypothesis</title>
+      <para id="id1169317571529">This chapter will conclude with a brief analysis of the support and opposition for kin selection as a mechanism of lek creation and persistence. Although kin selection is not a distinct hypothesis in itself, it can play a role in any of the mechanisms proposed to explain lek behavior. Kin selection is a common evolutionary explanation for the basis of many animal behaviors. At heart, the theory proposes relatedness as an explanation for behaviors that would otherwise prove disadvantageous for an organism. An organism can pass on its genes directly, through traditional reproduction, or indirectly, by increasing the reproductive fitness of its relatives who share its genes (Hamilton 1964). Thus, it is oftentimes more advantageous for an organism to forgo reproduction in order to assist in the reproductive efforts of his kin. Researchers see potential for the explanation of the group mating structure of leks in terms of kin selection and increased relatedness between members. One of the biggest conundrums of the lek system comes from trying to understand the role of lesser males on the lek. Numerous studies have shown a positive correlation between lek size and frequency of female visits to the lek (see The Preference Hypothesis), which indicates that these lesser, unsuccessful, males are actually increasing the fitness of their more successful counterparts (Petrie 1999). When considering full benefit to the organism, including indirect benefits, this behavior can be understood if the successful males are closely related to the unsuccessful males. Because lower ranking are very unlikely to successfully copulate, theoretical evidence predicts that they join leks where the dominant male is closely related so that they receive indirect benefits (Loiselle 2006).</para>
+      <example id="oo-id1169321658108"><label>Box</label><title>Hamilton’s Rule</title>
+        <para id="id1169309136212">Hamilton’s Rule is a simple and effective method for analyzing indirect benefits and inclusive fitness. The rule states that a behavior with benefit <emphasis effect="italics">b</emphasis> and cost <emphasis effect="italics">c</emphasis> to an organism, with relatedness <emphasis effect="italics">r</emphasis> between organism and partners in the act, is evolutionarily favored if</para>
+        <para id="id1169310538503">
+          <emphasis effect="italics">rb – c &gt; 0</emphasis>
+        </para>
+        <para id="id1169320747481">(Hamilton 1964)</para>
+      </example>
+      <section id="id1169307755924">
+        <title>Support</title>
+        <section id="id1169326914289">
+          <title>PEACOCKS</title>
+          <para id="id1169290065816"> Peacocks establish their permanent display areas in the lek during their fourth year and return to this site every year, where they remain for the duration of the mating season (Petrie 1999). Peacocks are traditional lekking organisms in that the males play no role in reproduction once copulation is complete. On lek, the males are oftentimes as close as 2.5m from one another. Peacock leks demonstrate many characteristics of any classic lekking species. The peacocks congregate in large display arenas and call together, as a group, to attract the peahens. A peahen’s arrival at the lek signals the males to stop calling and instead display their tail <emphasis effect="bold">coverts </emphasis>in competitive display behavior. Like most leks, the success of the displaying males is very skewed and the majority of the peacocks receive no copulations in return for their elaborate calling and displaying.</para>
+          <example id="oo-id4098269"><label>Box</label><title>Multilocus Fingerprinting</title>
+            <para id="id1169306475719">DNA fingerprinting is used across a wide range of disciplines, such as ecology, population genetics, conservation, and breeding. Multilocus fingerprinting is often the preferred method for determining parentage and genetic variability. This method has also been used to “distinguish between… crops, between sexually reproducing… berry species, and to establish paternity in apples” (Bruford 1998).</para>
+          </example>
+          <para id="id1169297452342">Marion Petrie and researchers at the University of Newcastle, UK attempted to determine the relatedness of peacocks on leks to conclude whether relatedness plays a role in the persistence of group display behaviors in the species. They studied 4 peacock leks at Whipsnade Park, UK, totaling 21 organisms (Petrie 1999). They used <term>multilocus fingerprinting</term><emphasis effect="bold"/>as a method of determining relatedness among the peacocks, as closely related individuals share a greater number of bands. Petrie and team compared the degree of relatedness in peacocks within the same lek to peacocks between leks and found the organisms on the same lek to be more closely related, to about the degree of half-siblings (Petrie 1999).</para>
+          <figure id="id1169318008954"><media id="id1169318008954_media" alt="a peacock">
+              <image mime-type="image/png" src="../../media/Picture 200.png" id="id1169318008954__onlineimage" height="226" width="350"/>
+            </media>
+            
+          <caption>Peacock 
+<newline/>http://s0.geograph.org.uk/photos/08/39/083993_a0152c68.jpg</caption></figure>
+          <para id="id1169290929186">Because the males do not assist in the rearing of young, birds have no opportunity to learn the identity of their father, which makes Petrie’s results surprising. One possible explanation could be that the peacocks simply don’t disperse far from their nests, but the results of Petrie’s study refuted this by showing that the birds need not even be born in the park for them to show preference in displaying with kin. In fact, “when the birds established their permanent adult display sites several years after their release there was a clear tendency for known brothers or half-brothers to display close together” (Petrie 1999). </para>
+          <para id="id1169315086067"> Another possible explanation for this behavior is that the related birds have a genetically based preference for a particular type of display site. In other words, they don’t actually choose the site based on the fact that relatives are there but indirectly lek with relatives because they all prefer the same type of location. However, this, too, can be refuted because the male peacocks showed no preference in lekking on the sites at which their fathers lekked. If the genetic basis of preference is true, it can be expected that they would share the preference with their father as well. Because this is not seen in the data, the explanation can be rejected (Petrie 1999). The researchers then concluded that kin selection is a viable explanation of the results, with the benefits of inclusive fitness due to relatedness outweighing the costs of forming a lek and displaying communally. </para>
+        </section>
+      </section>
+      <section id="id1169299550840">
+        <title>Opposition</title>
+        <section id="id1169303842685">
+          <title>MANAKINS</title>
+          <para id="id4222171">Two separate studies on manakins, one headed by Bette Loiselle at the University of Missouri-St. Louis and the other by David McDonald, oppose the findings of Petrie. The Loiselle study covered 4 manakin species (<emphasis effect="italics">Pipra filicauda, Pipra pipra, Lepidothrix coronata, </emphasis>and <emphasis effect="italics">Chiroxiphia pareola</emphasis>) in Ecuador. In these species, the males lek at essentially the same location annually. The leks were monitored for activity and genetic samples were taken to study relatedness (Loiselle 2006). The results of the study found that “in no case were males within leks more related than expected by chance” (Graph 3). The data showed that the male manakins appeared to join leks randomly and without correlation to relatedness (Loiselle 2006). The McDonald study, also covering manakins, found that the “mean relatedness among network males was less than zero.” Because of this and the fact that neither direct nor indirect relationships preferred kin, the manakin networks showed no evidence of the kin selection hypothesis (McDonald 2007).</para>
+          <para id="id1169315878945">
+            <figure id="id1169316102893"><media id="id1169316102893_media" alt="four graphs showing the relatedness coefficient of organisms leks of different species of manakin.">
+                <image mime-type="image/png" src="../../media/graphics7-04c5.png" id="id1169316102893__onlineimage" height="491" width="600"/>
+              </media>
+              
+            <caption>Displaying Relatedness Among Members of Manakin Leks<newline count="2"/>
+This graph shows the relatedness coefficients of organisms in leks of different species of manakin.  The average relatedness is 0, which led Loiselle and team to conclude that relatedness did not have an effect on lek formation and persistence (Loiselle 2006).</caption></figure>
+          </para>
+          <para id="id1169303425605">McDonald concludes that while some studies have shown kin selection to play a role in lekking, the results of this study demonstrate that kin selection is unlikely to be the driving evolutionary force in lek formation (McDonald 2007). To completely rule out kin selection as a mechanism for lek formation in manakins, however, the relationship between male status and reproductive success within lek must be analyzed. Additionally, future experiments must be done to determine whether or not males can recognize unfamiliar kin (Loiselle 2006).</para>
+        </section>
+      </section>
+    </section>
+    <section id="id1169327097545">
+      <title>Conclusion</title>
+      <para id="id1169294750385">The study of lekking animals has led to important hypotheses and explanations for their paradoxical behavior, but a conclusive explanation has yet to be drawn. The preference, hotshot, hotspot, and hypotheses are all attempts to explain the peculiar behavior of this classification of animals, but no theory accurately accounts for all of the observations observed across all lekking species. The diversity of animals that mate in leks further complicates the research and explanation process, as behaviors that can be explained in one species may persist for different reasons in organisms of another species, making it difficult for researchers to draw definite conclusions. The <term>phenotypic gambit</term> enables researchers to assume a genetic basis for lek behavior, but the exact mechanism is yet unknown. </para>
+    </section>
+    <section id="id1169294437074">
+      <title>Discussion Questions</title>
+      <list id="id1169298415918" list-type="enumerated" number-style="arabic">
+        <item>Do you think lekking is selected for by similar or different selective forces in different species? </item>
+        <item>Why does lekking appear paradoxical from an evolutionary standpoint? How is this paradox overcome? </item>
+      </list>
+    </section>
+    <section id="id1169318165726"><title>Glossary</title><list id="eip-id1164539986580"><item id="id1169306434232"><term>Bower</term>- a shelter, dwelling, or nest</item>
+      <item id="id4274518"><term>Conspecific</term>- referring to the same species as the organism in question</item>
+      <item id="id1169295338868"><term>Coverts</term>- in birds, the small feathers that conceal the base of the animal’s larger tail and wing feathers</item>
+      <item id="id1169302389962"><term>Dimorphism</term>- often the result of sexual selection or disruptive natural selection, dimorphism refers to the existence of two distinct forms of the same species that differ in one or more characteristics such as size, color, pattern, etc.</item>
+      <item id="id3263241"><term>Epigamic</term>- any mal characteristic, such as coloring, behavior, or patterning, that serves to attract the other sex during courtship</item>
+      <item id="id1169313008211"><term>Fecundity</term>- having abundant offspring </item>
+      <item id="id1169302185484"><term>Frugivorous</term><emphasis effect="bold">: </emphasis>having a diet consisting mostly of fruit</item>
+      <item id="id1169300851455"><term>Gene</term>- the fundamental unit of inheritance and evolution; a hereditary unit that results in the expression of a phenotype through protein manufacture</item>
+      <item id="id1169304472342"><term>Genotype</term>- the genetic makeup of an organism</item>
+      <item id="id1169316267990"><term>Heterozygosity</term>- the state of being heterozygous, i.e. having more than one allele at a locus</item>
+      <item id="id1169309609065"><term>Hierarchy</term>- a system of ranking determined by escalations between individuals of a species. Often, the hierarchy is determined by strength, fitness, and/or age.</item>
+      <item id="id1169317509108"><term>Home range</term>- the limits to the area in which an animal lives the majority of the time</item>
+      <item id="id1169304819345"><term>Hotspot</term>- an area characterized by high encounter rates with females of a given species. One explanation for lekking behavior is that male settlement is determined by these hotspots and, thus, leks are formed by the aggregation of individual males settling where they are most likely to be encountered by a female.</item>
+      <item id="id1169303113297"><term>Inclusive fitness</term>- the fitness of an organism determined by taking into account not only its direct offspring but those of its kin as well. Because an organism shares many of its genes with its kin, certain cost-benefit tradeoffs increase its fitness by helping its kin reproduce rather than reproducing itself. </item>
+      <item id="id1169295095450"><term>Kin selection</term>- an evolutionary theory that posits some behaviors, though they may not directly improve an individual’s fitness, improve the fitness of relatives that share their genes and thus are selected for. Kin selection can be explained by Hamilton’s Rule. </item>
+      <item id="id1169303477901"><term>Lek</term>- an area in which males of a certain species gather together in competitive sexual courtship and mating displays. Leks themselves are small and are composed of the individual territories of many males. Leks are often characterized by a lack of resources and by a clear hierarchy among males. </item>
+      <item id="id1169289209311"><term>Monogamy</term>- the practice of having only one sexual partner throughout a period of time; males mate with the same female for multiple attempts during a period of time.</item>
+      <item id="id1169302993385"><term>Obligate monogamy</term>- monogamy that occurs across an organisms life span; a life-pair</item>
+      <item id="id1169289184849"><term>Multilocus fingerprinting</term>- a form of DNA analysis designed to identify polymorphisms at multiple loci </item>
+      <item id="id1169316248316"><term>Natural selection</term>- the process, defined by Charles Darwin, by which animals best suited for their environment are the most successful in reproduction and thus pass on their adaptive genes in a greater percentage to the next generation</item>
+      <item id="id1169318039509"><term>Networking</term>- male-male social interactions, as seen in coordinated displays</item>
+      <item id="id1169320004318"><term>Phenotype</term>- observable, physical expression of a trait</item>
+      <item id="id1169291343947"><term>Phenotypic gambit</term>- the assumption that, because genes control the expression of phenotypic characteristics and behaviors, evolution of characteristics/behaviors can be assumed to have a genetic basis, even if the genes are unknown. This enables researchers to study the persistence of traits without having to determine the exact chemical mechanism by which they persist. </item>
+      
+      <item id="id4893841"><term>Polyandry</term>- the state of having more than one male mate at a time</item>
+      <item id="id1169318837029"><term>Polygyny</term>- the state of having more than one female mate at a time</item>
+      <item id="id1169294981776"><term>Sexual selection</term>- behaviors or characteristics that are not necessarily of adaptive advantage but increase the likelihood of successful mating of an organism</item>
+      <item id="id1169308067268"><term>Sympatric</term>- of or relating to the same geographic region (without interbreeding)</item>
+      <item id="id1169302983052"><term>Variability</term>- the description of deviation between individuals in genetic characteristics in a population<emphasis effect="bold">; </emphasis>the potential of a genotype to diverge when subjected to environmental pressures </item></list>
+</section>
+    <section id="eip-540"><title>Bibliography</title><list id="id1169290959832" list-type="labeled-item"><item>Alatalo, Rauno V., Jacob Höglund, Arne Lundberg, and William J. Sutherland. 1992."Evolution of Black Grouse Leks: Female Preferences Benefit Males in Larger Leks." <emphasis effect="italics">Evolution of Black Grouse Leks: Female Preferences Benefit Males in Larger Leks.</emphasis> 3(1): 53-59. </item>
+        <item>Bro-Jørgensen, Jakob. 2002. "Overt Female Mate Competition and Preference for Central Males in a Lekking Antelope." <emphasis effect="italics">Proceedings of the National Academy of Sciences of the United States of America.</emphasis> 99(14): 9290-293.</item>
+        <item>Brown, Jerram L. 1997. “A Theory of Mate Choice Based on Heterozygosity.” <emphasis effect="italics">Behavioral Ecology</emphasis>. 8(1): 60-65.</item>
+        <item>Bruford, Michael W. 1998. “Multilocus and Singlelocus DNA Fingerprinting.” <emphasis effect="italics">Oxford</emphasis>. 287-370. </item>
+        <item>Clutton-Brock, T. H. 1989. “Review Lecture: Mammalian Mating Systems.” <emphasis effect="italics">Proceedings of the National Academy of Sciences of the United States of America</emphasis>. 236(1285): 339-372.</item>
+        <item>Dastagir, Shekib, Kim Di Minni', Jeffrey Pritsky, and Hamid Saadati. "Evolution of Leks." Thesis. New York University, 1997. Print.</item>
+        <item>Duncan, Brittany A., Patrick D. Ulam, and Ronald C. Arkin. "Lek Behavior as a Model for Multi-Robot Systems." <emphasis effect="italics">Scientific Commons</emphasis>. Institute for Media and Communications Management, 2009. Web.</item>
+        <item>Durães, Renata. 2009. "Lek Structure and Male Display Repertoire of Blue-Crowned Manakins in Eastern Ecuador." <emphasis effect="italics">The Condor.</emphasis> 111: 453-61. </item>
+        <item>Durães, Renata, Bette A. Loiselle, Patricia G. Parker, and John G. Blake. 2009. "Female Mate Choice Across Spatial Scales: Influence of Lek and Male Attributes on Mating Success of Blue-Crowned Manakins." <emphasis effect="italics">Proceedings of the Royal Society.</emphasis> 276(1663): 1875-881.
+      <para id="id1169291114638">This study concludes that while females will travel to reach a larger lek, males at larger leks are not individually more likely to have offspring. Additionally, males that display more are more likely to have offspring. Also concluded was that as the size of the lek increases, display frequency and heterozygosity both increase as well. </para></item>
+        <item>Emlen, Stephen T. 1976. “Lek Organization and Mating Strategies in the Bullfrog.” <emphasis effect="italics">Behavioral Ecology and Sociobiology</emphasis>. 1(3): 283-313.</item>
+        <item>Emlen, Stephen T. and Lewis W. Oring. 1977. “Ecology, Sexual Selection, and the Evolution of Mating Systems.” <emphasis effect="italics">Science</emphasis>. 197(4300): 215-223.</item>
+        <item>Gibson, R. M. and J. W. Bradbury. 1987. “Lek Organization in Sage Grouse: Variations on a Territorial Theme.” <emphasis effect="italics">The Auk</emphasis>. 104(1): 77-84.</item>
+        <item>Hall, Edward T. (1966). <emphasis effect="italics">The Hidden Dimension</emphasis>. Anchor Books.</item>
+        <item>Hamilton, W. D. The genetical evolution of social behavior. J Theor Biol. (1964) 1:1-16.</item>
+        <item>Hamilton, Ian M., Marcel P. Haesler, and Michael Taborsky. 2006. "Predators, Reproductive Parasites, and the Persistence of Poor Males on Leks." <emphasis effect="italics">Behavioral Ecology.</emphasis> 17(1): 97-107. </item>
+        <item>Hernandez, Marcel L., Alasdair I. Houston, and John M. McNamara. 1999. "Male Rank and Optimal Lek Size." <emphasis effect="italics">Behavioral Ecology.</emphasis> 10(1): 73-79. </item>
+        <item>Isvaran, Kavita, and Colette M. St. Mary. 2003. "When Should Males Lek? Insights From a Dynamic State Variable Model." <emphasis effect="italics">Behavioral Ecology</emphasis> 14(6): 876-86. </item>
+        <item>Knopp, T., M. Heimovirta, H. Kokko, and J. MerilÄ. 2008. "Do Male Moor Frogs (Rana arvalis) Lek with Kin?" <emphasis effect="italics">Molecular Ecology</emphasis>. 17(10): 2522-530. </item>
+        <item>Kokko, Hanna, and Jan Lindstrom. 1996. "Kin Selection and the Evolution of Leks: Whose Success do Young Males Maximize?" <emphasis effect="italics">Proceedings: Biological Sciences.</emphasis> 263(1372): 919-23.</item>
+        <item>Kotiaho, Janne S., Leigh W. Simmons, and Joseph L. Tomkins. 2001. “Towards a Resolution of the Lek Paradox.” <emphasis effect="italics">Nature</emphasis>. 410: 684-686.</item>
+        <item>Kotiaho, Janne S., Natasha R. LeBas, Mikael Purrtinen, and Joseph L. Tomkins. 2007. “On the Resolution of the Lek Paradox.” <emphasis effect="italics">TRENDS in Ecology and Evolution.</emphasis> 23(1).</item>
+        <item>Loiselle, Bette A., Thomas B. Ryder, Renata Durães, Wendy Tori, John G. Blake, and Patricia G. Parker. 2007. "Kin Selection Does Not Explain Male Aggregation at Leks of 4 Manakin Species." <emphasis effect="italics">Behavioral Ecology.</emphasis> 18(2): 287-91.
+      <para id="id1169291494081">This article describes how a common explanation for lekking behavior is the theory of inclusive fitness, because some hypothesize that males gain indirect benefits from genetically related reproducing males. This, however, is unlikely to be an explanation for the behavior of manakins, because the birds studied were no more significantly related to one another than would be expected from random distribution. </para></item>
+        <item>McDonald, David B. 2009. "Young-Boy Networks Without Kin Clusters in a Lek-Mating Manakin." <emphasis effect="italics">Behavioral Ecology and Sociobiology.</emphasis> 63(7): 1029.      <para id="id1774032">The author’s previous work showed that the networking of young males predicts their future reproductive success. In this article, the author attempted to determine whether kinship has an effect on the networking of the young males. He found that males that were not as closely related tended to be found in leks that were further apart and relatedness and distance between individuals were inversely related. However, the mean in relatedness was negative, so overall, the author concluded that kin selection does not play a role in the cooperation of leks.</para></item>
+        <item>Miller, Christine W., and Allen J. Moore. 2007. "A Potential Resolution to the Lek Paradox Through Indirect Genetic Effects." <emphasis effect="italics">Proceedings of the Royal Society</emphasis>. 274(1615): 1279-286. </item>
+        <item>Neff, Bryan D., and Trevor E. Pitcher. 2008. "Mate Choice for Non-Additive Genetic Benefits: A Resolution to the Lek Paradox." <emphasis effect="italics">Journal of Theoretical Biology.</emphasis> 254(1): 147-55. </item>
+        <item>Pomiankowski, A., and A. P. Moller. 1995. "A Resolution of the Lek Paradox." <emphasis effect="italics">Proceedings: Biological Sciences.</emphasis> 260: 21-29. </item>
+        <item>Prum, Richard O. 1990. “Phylogenetic Analysis of the Evolution of Display Behavior in the Neotropical Manakins (Aves: Pipridae). <emphasis effect="italics">Ethology</emphasis>. 84: 202-231.</item>
+        <item>Reynolds, John D., and Mart R. Gross. 1990. "Costs and Benefits of Female Mate Choice: Is There a Lek Paradox?" <emphasis effect="italics">The American Naturalist.</emphasis> 136(2): 230-43. </item>
+        <item>Ryder, T. B., Blake, J. G., &amp; Loiselle, B. R. A. 2006. “A Test of the Environmental Hotspot Hypothesis for Lek Placement in Three Species of Manakins (Pipridae) in Ecuador.” <emphasis effect="italics">The</emphasis><emphasis> Auk, 123</emphasis>(1): 247-258.</item>
+        <item>Ryder, Thomas B., David B. McDonald, John G. Blake, Patricia G. Parker, and Bette A. Loiselle. 2008. "Social Networks in the Lek-Mating Wire-Tailed Manakin." <emphasis effect="italics">Proceedings of the Royal Society.</emphasis> 275(1641): 1367-374. </item>
+        <item>Ryder, Thomas B., Patricia G. Parker, John G. Blake, and Bette A. Loiselle. 2009. "It Takes Two to Tango: Reproductive Skew and Social Correlates of Male Mating Success in a Lek-Breeding Bird." <emphasis effect="italics">Proceedings of the Royal Society.</emphasis> 276(1666): 2377-384. </item>
+        <item>Starr, Cecie; Taggart, Ralph (1992). <emphasis effect="italics">Biology – the Unity and Diversity of Life, 6th Ed.</emphasis>. Wadsworth Publishing Company.</item>
+        <item>Théry, Marc. 1990. "The Evolution of Leks Through Female Choice: Differential Clustering and Space Utilization in Six Sympatric Manakins." <emphasis effect="italics">Behavioral Ecology and Sociobiology.</emphasis> 30: 227-37. </item>
+        <item>Westcott, David A. 1994. "Lek of Leks: A Role for Hotspots in Lek Evolution?" <emphasis effect="italics">Proceedings: Biological Sciences</emphasis>. 258(1353): 281-86. </item>
+        <item>Westcott, D. A. 1997. “Lek locations and patterns of female movement and distribution in a Neotropical frugivorous bird..” <emphasis>Animal Behaviour. 53</emphasis>: 235-247.</item>
+        <item>Young, Kyle A., Martin J. Genner, Domino A. Joyce, and Marcel P. Haesler. 2009. "Hotshots, Hot Spots, and Female Preference: Exploring Lek Formation Models with a Bower-Building Cichlid Fish." <emphasis effect="italics">Behavioral Ecology.</emphasis> 20(3): 609-15. 
+      <para id="id1169303089517">
+        <emphasis effect="italics">This study focuses on the three hypotheses for lek formation, the hotshot hypothesis, the hotspot hypothesis, and female choice. The results favor the female preference hypothesis, as female encounters increase with the size of the lek but behavior did not increase with size once courted. Competitive interactions between males also increased with the lek size but their hunting rate decreased, which also supports the female choice model because it indicates that males experience a high cost of upholding their territories in the larger leks. The experiments in the study were performed on a species of cichlid fish.</emphasis>
+      </para></item>
+    </list></section><section id="id1611720">
+      <title>Author’s Biography</title>
+      <figure id="id1169315738246"><media id="id1169315738246_media" alt="a picture of the author">
+          <image mime-type="image/png" src="../../media/Picture 190.png" id="id1169315738246__onlineimage" width="200px"/>
+        </media>
+      </figure>
+      <para id="id1169315821649">Kirby Kempe is a first-year Economics major and first-time city dweller at Rice University in Houston, Texas. Originally from Florida, Kempe grew up on the beach and quickly fell in love with the outdoors, taking the phrase “tree hugger” to the extreme. In those rare moments of tranquility hiding in the life of a college student, Kempe enjoys reading, laughing, photographing, Houston highways, loose-leaf tea, and StumbleUpon. She has dreams of becoming a neonatologist, and is most frequently seen on shift for EMS on the ambulance or in the Emergency Rooms of Houston’s local hospitals.</para>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,247 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Host Learning as a Defense Against Avian Brood Parasitism</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34735</md:content-id>
+  <md:title>Host Learning as a Defense Against Avian Brood Parasitism</md:title>
+  <md:abstract>Avian brood parasitism, in which certain species of birds utilize the nests and efforts of other birds to raise their young, is a well-known example of coevolution that has been documented in several lineages of birds around the world.  Such behavior is adaptive for parasites as one study suggests that this has risen independently at least seven times in birds alone.  Since unwitting hosts are left to rear parasitic offspring, often at the loss of their own offspring, parasitized species respond to such selective pressures and develop methods by which to thwart deception.  In turn, parasitic species develop counter-defenses in order to evade those methods.  Host birds have made use of learning and imprinting in order to detect foreign eggs and hatchlings, though the extent of the behavior is modulated by the balance between costs of mistakenly rejecting own eggs and the benefits from correctly rejecting parasitic eggs.  I focus here on learning among hosts of the common cuckoo (Cuculus canorus), a specialist which exhibits host specificity that varies from female to female, and the brown-headed cowbird (Molothrus ater), which is a generalist that parasitizes many species of birds.</md:abstract>
+  <md:uuid>9ce70c42-509f-4d15-a16d-5d9c5b03d857</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1164338031929"><emphasis effect="bold">Author:</emphasis> Mary Mao</para>
+    <section id="id1164327360705">
+      <title>Introduction</title>
+      <figure id="id1164323253043"><media id="id1164323253043_media" alt="pictures of baby birds pushing eggs out of a nest.">
+          <image mime-type="image/png" src="../../media/graphics1-b590.png" id="id1164323253043__onlineimage" height="335" width="450"/>
+        </media>
+        
+      <caption>Hatchling cuckoos eject the chicks and eggs of hosts.<newline/>
+Credits M. Honza (upper left), M. Bán (right), and C. Moskát (lower left).</caption></figure>
+      <para id="id1164323564088">Seven taxa comprising approximately 80 species of birds around the world reproduce as <term>obligate interspecific brood parasites</term>, which means that they must make use of the nests of other species of birds in order to reproduce (Sorenson and Payne 2002). Such behavior is detrimental to the fitness of the hapless hosts, frequently <term>passerines</term> or perching birds, who sacrifice part or all of their own brood when deceived by parasitic species. The high cost of parasitism has spurred an evolutionary arms race, with hosts developing mechanisms by which to recognize and reject parasitic eggs and hatchlings, and parasites developing techniques such as mimicry, or protective and deceptive imitation, and bullying to thwart such defenses. Evolution is based on costs and benefits; hosts will only learn to recognize or reject hatchlings when the potentially beneficial fitness gains outweigh costs such as erroneously rejecting the wrong eggs. One important consequence of selectively rejecting eggs, for example, is that certain parasitic birds will return to depredate such nests in what has come to be called the “<term>Mafia hypothesis</term>” (Hoover and Robinson 2007). This system of costs and balances is one of the most robust examples of <term>coevolution</term>, where related parties exert selective forces on each other to spur evolution, known to occur in the natural world.</para>
+      <para id="id1164351486759">Since many factors are involved in the success of learned behaviors, the method by which a host is parasitized greatly affects the resulting behavior; some birds are more likely to simply accept the parasitic eggs and cut losses, while others are far more discriminatory (Rothstein 1975). We focus on host responses to parasitism by the brown-headed cowbird (<emphasis effect="italics">Molothrus ater</emphasis>) and the common cuckoo (<emphasis effect="italics">Cuculus canorus</emphasis>). The brown-headed cowbird is a <term>generalist</term> and has been known to parasitize over 200 species of birds (Marchetti, H. Nakamura, H. L. Gibbs 1998; Friedmann and L.F. Kiff 1985). On the other hand, the common cuckoo is more of a <term>specialist</term>; although it has been known to parasitize a handful of species, each female acquires specificity to only one (Vogl et al. 2002). Selection for learned host recognition and rejection behavior is determined by a number of factors including whether host chicks remain in the nest; extent of mimicry of parasitic eggs, hatchlings, or begging; and the experience of the host breeder. We will hope to elucidate these factors for a better explanation of how host learning has adapted to selection pressure from brood parasites.</para>
+    </section>
+    <section id="id1164323251071"><title>Body </title><section id="eip-id1167311251782">
+<title>The Basics of Avian Brood Parasitism</title>
+      
+        <figure id="id1164327302375" orient="vertical"><subfigure id="eip-id1167319436784">
+          <media id="id1164327302375_media" alt="a cuckoo">
+            <image mime-type="image/png" src="../../media/graphics2-aa91.png" id="id1164327302375__onlineimage" height="319" width="452"/>
+          </media>
+<caption>common cuckoo<newline/>
+Credits: Wikimedia Commons</caption>          
+</subfigure>
+<subfigure id="eip-id1167314012324">      
+    <media id="id1164326438977_media" alt="a brown-headed cowbird">
+            <image mime-type="image/png" src="../../media/graphics3-9f9d.png" id="id1164326438977__onlineimage" height="140" width="210"/>
+          </media>
+  <caption>brown-headed cowbird   <newline/>
+Credits: Wikimedia Commons</caption>
+</subfigure>        
+        </figure>
+            <para id="id7461373">Avian brood parasites such as the brown-headed cowbird and the common cuckoo are known as “obligate” brood parasites, meaning that they must parasitize other birds in order to reproduce. They do not build nests of their own to house their eggs or raise any of their own nestlings. As a result, whether hosts choose to reject or accept parasitic eggs controls the reproduction of these species of birds.</para>
+      <para id="id1164326960335">Parasitic birds watch for opportunities to exploit hosts in the nesting season. When host birds leave the nests, they approach the nest and lay their own eggs inside. Several differences may occur at this point depending on the species of parasite, such as the time in the laying period when the parasites act and whether host eggs are eaten or ejected. The common cuckoo, for instance, pushes out a host egg before laying its own. Its young hatch before the other nestlings and eject the other eggs, monopolizing the food source. Brown-headed cowbird hatchlings, on the other hand, do not exhibit this behavior and are raised with the host’s own hatchlings. These will result in different strategies by hosts in responding to reduce the costs imposed by parasitism. </para>
+      <para id="id1164325584844">
+        <figure id="id1164342006920"><media id="id1164342006920_media" alt="a warbler feeding a parasitic cuckoo chick.">
+            <image mime-type="image/png" src="../../media/graphics4-6978.png" id="id1164342006920__onlineimage" height="438" width="320"/>
+          </media>
+          
+        <caption>Reed warbler feeding a parasitic cuckoo chick.<newline/>  Credits: Wikimedia Commons</caption></figure>
+      </para>
+</section>
+      <section id="id7652819">
+        <title>Preying Upon the Naïve </title>
+        <section id="id1164322790206">
+          <title>Evidence for Imprinting</title>
+          <para id="id1164323617012">Just as experience in humans helps us to avoid being duped, there is some evidence suggesting that experienced breeders are less likely to be fooled into accepting and raising parasitic chicks. In one of the first studies investigating breeder age, Lotem et al. (1992, 1995) introduced and removed eggs from nests of reed warblers (<emphasis effect="italics">Acrocephalus arundinaceus</emphasis>) and then observed rejection of cuckoo eggs and artificial painted eggs. The authors argue for a learning-based mechanism for rejection; that is, breeders memorized their own eggs through the instinctual learning process called <term>imprinting</term> in order to reject dissimilar eggs. When eggs were introduced, false eggs were accepted more often by mid-season breeders, which are younger on average than early-season breeders Replacing all of a reed warbler host’s eggs rather than one, and therefore reducing the host’s exposure to its own eggs, caused the naïve mid-season breeders to accept more false eggs, but had no effect on experienced early-season breeders. As further support for learning through experience, returning an original egg to the experienced early breeders prompted rejection of an entire clutch of eggs, but had no effect on less inexperienced mid-season breeders. The experienced breeders were better able to detect sudden changes in their clutches than the naïve breeders and were able to respond accordingly.</para>
+          <example id="oo-id1164333427331"><label>Box</label><title>An Alternative to Imprinting</title>
+            <para id="id2414776">A species may reject parasitic eggs by one of a number of methods. For example, the yellow-browed leaf warbler (<emphasis effect="italics">Phylloscopus inornatus</emphasis>) accepts eggs based on size and then adjust their preferences based on variations within the clutch (Marchetti 1999). When clutches were entirely replaced with large artificial eggs, the birds would accept and incubate them. The birds would also completely accept the original eggs if they were exchanged for the batch of artificial eggs. However, the presence of even one large artificial egg resulted in its rejection. Although it is parasitized by cuckoos, this warbler has a very brief learning period since it judges based on size instead of appearance. This is opposite of the predictions by Strausberger and Rothstein, but the bird’s dynamic ability to adjust preference depending on the variation between its eggs at any given time offers a distinct advantage against cuckoo eggs.</para>
+          </example>
+        </section>
+        <section id="id1164325224339">
+          <title>The Dangers of Misimprinting</title>
+          <para id="id1164324065078">Imprinting is an irreversible sort of learning that is commonly seen between nestlings and their mothers. Mallard drakes will take this farther, choosing to mate with females that resemble their mother when they become of breeding age (Kruijt et al. 1982). Problems may arise even in such situations, such as imprinting on the incorrect organism. If a mallard drake imprinted on a different species of female, he would be unable to produce offspring later on. Similarly, imprinting can be a harmful strategy for birds that imprint on their own eggs since there is always the chance of <term>misimprinting</term>, or falsely recognizing parasitic eggs as own.</para>
+          <para id="id1164325597836">Imprinting as a defense has different implications due to the different strategies adopted by the common cuckoo and brown-headed cowbird. Strausberger and Rothstein (2009) investigated the frequency at which parasitic species took advantage of imprinting by parasitizing early on before naïve birds had learned the appearance of their own eggs. Both the gray catbird (<emphasis effect="italics">Dumetella carolinensis</emphasis>) and brown thrasher (<emphasis effect="italics">Toxostoma rufum</emphasis>) accepted more parasitic cowbird eggs when the eggs were placed early in laying or incubation stages in areas where cowbirds were more abundant, which would also increase the frequency at which naïve birds are parasitized, suggesting that hosts were induced to misimprint. However, misimprinting increasing with parasite frequency is not observed in cuckoo hosts. Since cuckoos are host-specific rather than generalistic like cowbirds, their eggs more closely resemble host eggs and therefore select for finer tuning of recognition and rejection behavior rather than a short period of imprinting. Many cowbird eggs, on the other hand, do not resemble host eggs at all, so a short period of imprinting is sufficient to distinguish between one’s own eggs and parasitic eggs (See <link target-id="id1164324134110"/>).</para>
+          <para id="id1164322159232">
+            <figure id="id1164324134110"><media id="id1164324134110_media" alt="eggs in a nest.">
+                <image mime-type="image/png" src="../../media/graphics5-acb8.png" id="id1164324134110__onlineimage" height="200" width="267"/>
+              </media>
+              
+            <caption>Brown-headed cowbird egg in a phoebe (<emphasis effect="italics">Sayornis phoebe</emphasis>) nest. <newline/> 
+Credits: Wikimedia Commons
+</caption></figure>
+          </para>
+        </section>
+        <section id="id1164325595342">
+          <title>Genetic and Environmental Components to Learning</title>
+          <para id="id1164322563888">While it is assumed that recognition behavior among hosts of brood parasites is related to genes, there is evidence that recognition has both a genetic and a learning component. Soler et al. (1999) performed a study on magpie rejection rates of cuckoo eggs and found evidence for flow of genes regulating rejection behavior between populations. Magpies living in areas where they were not parasitized by cuckoos were still able to reject cuckoo eggs, suggesting that there is some innate genetic component to host recognition that did not rely on previous exposure to selection by parasitism. However, the rejection of mimetic eggs was found to be strongly correlated with the geographic component, which would result from exposure to selective pressures. The authors concluded that while all magpies with genes for recognizing eggs could reject nonmimetic eggs, a learning process for fine-tuning was needed to explain the ability for magpies to reject mimetic eggs.</para>
+        </section>
+        <section id="id1164324365482">
+          <title>Not All Egg Rejection is Explainable by Learning</title>
+          <para id="id1164324131094">While authors have found evidence that experience affects the ability of host birds to reject eggs, there are other systems where learning is not a sufficient explanation for how birds reject eggs. Amundsen et al. dispute the finding that breeder age affects egg rejection rates in another species, the bluethroat (<emphasis effect="italics">Luscinia svecica</emphasis>). Through egg replacement and return experiments, no evidence was found suggesting that that age of breeder played any role in egg rejection rates (2002). Instead, the authors postulated that differences in acceptance or rejection are better explained by the <term>evolutionary lag hypothesis</term> rather than learning. This hypothesis states that rejection is adaptive but the behavior may not yet have spread to all members of the species, which is why some will still accept parasitic eggs. Although learning may be a method that some species use to defend against parasitism, it is certainly not the only explanation for differences among individuals within a species.</para>
+        </section>
+      </section>
+      <section id="id1164325202716">
+        <title>Choosing when to Reject Eggs</title>
+        <section id="id1164327058838">
+          <title>Acceptor versus Rejector Strategies</title>
+          <figure id="id1164325202194"><media id="id1164325202194_media" alt="a chart showing the rejection rate of parasite eggs at different clutch sizes.">
+              <image mime-type="image/png" src="../../media/graphics6-5c05.png" id="id1164325202194__onlineimage" height="215" width="278"/>
+            </media>
+            
+          <caption>Rejection frequency of cuckoo eggs by the great reed warbler at various clutch sizes. <newline/> Redrawn from Moskat and Hauber 2007.</caption></figure>
+          <para id="id1164326746143">As previously discussed, cowbird and cuckoo hosts exhibit different responses to learning their own eggs due to the specialist and generalist strategies of the two parasites. The result is that some species are far more willing to accept a parasitic egg than to reject it. Stokke et al. (2007) constructed a model to show how variation in egg appearance can affect whether a host species adopts an <term>acceptor</term> or <term>rejecter</term> approach. While acceptors accept all eggs, regardless of whether they are their own, rejecters will attempt to discriminate and reject parasitic eggs, risking misrecognition and rejection of own eggs. The model predicts that hosts that may potentially suffer greater losses from mistakes in recognition and rejection will be more likely to adopt an acceptor strategy. However, in cases where clutches have very similar eggs, hosts are more likely to reject since they are less likely to mistake their own eggs for a parasitic egg. The authors conclude that an increased learning period is more adaptive for clutches that have high variation between eggs since there is a greater risk of mistakes. A similar experiment corroborates these findings, revealing that females were much more successful at rejecting false eggs when mimicry is low and their eggs are more similar, situations in which learning one’s own eggs becomes more advantageous and the cost of losing an own egg is much lower (Rodriguez and Lotem 1999).</para>
+        </section>
+        <section id="id1164345034550">
+          <title>The Effect of Intraclutch Variation</title>
+          <para id="id1164324569800">This dynamic ability of hosts to adjust their thresholds for egg acceptance or rejection is well-illustrated in one experiment by Moskat and Hauber (2007). Reed warblers reject cuckoo eggs more often when they had only laid one egg, but less often when several eggs or no eggs existed in the clutch (<link target-id="id1164325202194"/>). The authors hypothesized that reed warblers adjust their <term>acceptance thresholds</term>, or point at which eggs are accepted as own, based on the traits of the eggs in the clutch. When no eggs have been laid, the birds have no criteria on which to base their acceptance behavior. When only one egg has been laid, there are only a few traits that the hosts have to recognize as characteristic of their own eggs, so parasitic eggs that fall outside of this narrow range of traits are quickly rejected. However, as more eggs are laid by the host, variation between eggs results in a greater number of acceptable traits, and it becomes easier for a parasitic egg to slip in. To protect against mistaken rejection of their own eggs, hosts expand their acceptance thresholds to allow eggs with a greater variety of traits, resulting in greater acceptance of parasitic eggs as well. As predicted by Stokke et al., greater <term>intraclutch variation</term>, a greater difference between the eggs in the same clutch, prompted hosts to accept more eggs because the costs of misrecognition and misrejection increased. As a result, the birds were more willing to accept parasitic eggs than risk the loss from rejecting their own eggs </para>
+          <para id="id1164327969683">
+            <figure id="id1164323524482"><media id="id1164323524482_media" alt="A chart showing an acceptance threshold for foreign eggs.">
+                <image mime-type="image/png" src="../../media/graphics7-a0e3.png" id="id1164323524482__onlineimage" height="195" width="599"/>
+              </media>
+              
+            <caption>Relative trait distribution at A) one-egg and B) many egg stages of laying in the reed warbler.  As more eggs are laid, the variation among eggs also increases.  The birds increase their acceptance threshold to reduce costs of misrecognition if it is more likely that foreign eggs will resemble their own, which results in decreased rejection rates of parasitic eggs that once fell outside of their range of acceptable traits.<newline/> Redrawn from Moskat and Hauber 2007.</caption></figure>
+          </para>
+          <para id="id1164334010176">The importance of intraclutch variation in affecting the costs of mistaken recognition explains the success of another type of host bird. One species that shows great success against cuckoo eggs is the blackcap (<emphasis effect="italics">Sylvia atricapilla</emphasis>). Within clutches, the birds’ own eggs show very little variation, so rejection decisions are based on the degree of mimicry of cuckoo eggs when compared to own eggs. In this case, there is very little cost to learning to distinguish own eggs and foreign eggs, so learning to recognize and reject is adaptive (Honza et al. 2004).</para>
+        </section>
+        <section id="id1164327125649">
+          <title>The Effect of Parasitism Probability on Egg Rejection</title>
+          <para id="id1164326902379">The likelihood that a host will be parasitized will result in differences in frequency of egg rejection. If the threshold for accepting eggs is too low, then many of the host’s own eggs will be rejected along with the parasitic eggs. However, if the threshold is set too high, then the host will accept many of the parasitic eggs, but retain its own eggs. Among reed warblers, this threshold is set depends on the stage of egg laying as described above as well as their perceived probability that the nest has been parasitized. Birds that recognized a cuckoo at their nest usually rejected an egg afterward because the probability of benefitting from rejection was much greater than if no cuckoo had been observed at the nest (Davies et al. 1993) (See also <link target-id="oo-id1164345216803"/>). On the other hand, the rejection behavior of reed warblers that did not observe a parasite at the nest was best explained by the parasitism level in the area. As parasitism level decreases overall, the benefit of rejecting eggs diminishes since it is more likely that a bird will mistakenly reject its own eggs. Therefore, lower parasitism levels results in increased acceptor behavior.</para>
+          <example id="oo-id1164345216803"><label>Box</label><title>How to Recognize a Cowbird</title>
+            <para id="id1164323981445">While species such as reed warblers will reject eggs based on whether they see a parasite at the nest, it is unclear how host birds learn to recognize parasites. One study performed on yellow warblers (<emphasis effect="italics">Dendroica petechia</emphasis>), a species that suffers heavily from brown-headed cowbird parasitism, found several cues that elicited defensive responses such as sitting in the nest. Female yellow warblers responded strongly to stuffed cowbirds, which had shorter bills than models that had been modified with a longer bill. The authors suggest that recognition of shape confers an advantage since parasitism usually occurs in low light conditions.</para>
+            <para id="id1164322370820">Additionally, yellow warblers respond differently to male and female cowbirds even though their physical appearances are quite similar. When female cowbird chatter and male cowbird songs were played, female yellow warblers responded much more intensely to the female vocalizations, suggesting that difference in sexes is recognized by sound.</para>
+          </example>
+        </section>
+      </section>
+      <section id="id1164322772166">
+        <title>When Learning is Hindered</title>
+        <para id="id1164324439280">As before described, whether learning is adaptive or maladaptive depends on the relative costs, benefits, and level of parasitism within a system. In many cases, the cost of mistaken recognition and rejection is too high, especially when intraclutch variation is high, so the acceptor approach is favored. One special case, explained by the <term>mafia hypothesis</term>, is one in which parasitic birds raise the costs for rejection behavior to pressure hosts into acceptor schemes (see <link target-id="oo-id1164329381091"/>).</para>
+        <para id="id1164349572293"/>
+        
+        <example id="oo-id1164329381091"><label>Box</label><title>Mafia Hypothesis</title>
+<para id="id1164322923040">One study investigated the high levels at which the prothonotary Warbler (<emphasis effect="italics">Protonotaria citrea</emphasis>) accepted cowbird eggs and concluded that rejection of eggs provoked retaliatory, mafia-like behavior from cowbirds. Nests which rejected eggs would later be depredated (Hoover et al 2006). In this case, the high cost of losing everything leads hosts to accept parasitic eggs, even if it reduces their own clutch sizes. In the case of cowbirds, where some of the host nestlings typically grow up in the nest with the parasites, it is to the host bird’s benefit to save some of the brood by accepting the parasitic chick than to lose all chicks (see <link target-id="eip-id1170041929880"/>).</para>
+        <figure id="eip-id1170041929880"><media id="id1164345902770_media" alt="A chart of nest depredation rates.">
+            <image mime-type="image/png" src="../../media/graphics8-32fa.png" id="id1164345902770__onlineimage" height="179" width="207"/>
+          </media>
+        </figure></example>
+        
+        <para id="id1164323446683">As before described, rejection behavior is less common as parasitism levels decrease because the costs of mistaken rejection increase. Laws and Marthews 2003). created a model for which learning to recognize and reject parasitic nestlings would be beneficial for cowbird hosts (2003). When parasitism levels are high, the chance of properly rejecting parasitic eggs increases as well, so the rejecter strategy is favored. Additionally, low host nestling survival when raised with parasitic nestlings increases the benefit of adopting rejecter strategies because rejection of parasitic eggs would allow more of a host’s own nestlings to survive. In such cases, the benefits of choosing to reject would outweigh the costs of false rejection or accepting the parasitic eggs.</para>
+        <para id="id1164345062949">Even though rejection behavior produces a greater benefit when parasitism levels are high due to greater chance of correctly rejecting parasitic eggs, high levels of parasitism still inhibit selection for learning. Hauber et al. (2004) showed that repeated parasitism and increased costs of parasitism affect evolution of learning-based strategies simply because fewer offspring that possess the genes for learned behavior survive. One result they describe is that cowbird hosts that are smaller in size are more likely to adopt acceptor strategies. The small size results in greater costs from parasitism and fewer of their own nestlings survive. As a result, the appearance of learning-based rejection lags far behind for these smaller birds than it does for larger ones if the pressure is too high and prevents adaptive genes from surviving to the next generation.</para>
+        <para id="id1164325967960">Learning is beneficial for hosts of avian brood parasites only under certain conditions such as low parasitism rate and low intraclutch variation. Under other conditions, there may be other alternatives that are better. With the spread of many brood parasites, many previously naïve species have been exposed to the threats of parasitism and have been observed to display non-learned defenses (See <link target-id="oo-id6171041"/>.)</para>
+        <example id="oo-id6171041"><label>Box</label><title>Non-learned Defenses in Naïve Populations of Songbirds</title>
+          <para id="id1164322835299">The hooded warbler (<emphasis effect="italics">Wilsonia citrine</emphasis>), a bird that has relatively recently become a target of parasitism by brown-headed cowbirds, is significantly more responsive to stuffed cowbirds than to the stuffed veeries (<emphasis effect="italics">Catharus fuscescens</emphasis>). Even young, naïve breeders were able to differentiate between the cowbird threat and the harmless veery, and this ability did not vary with the age of the birds. This suggests that the basis for determining the cowbird threat is not learned since age and experience seem to play no part in recognition of cowbirds, but is instead based primarily on a non-learned, genetic component. Given the short time in which the bird has served as host to cowbirds, it is likely that non-learned behavior has evolved quickly as a defense. If such behavior is sufficient to ward off parasites, then learning to differentiate between eggs may not even be necessary.</para>
+        </example>
+        
+      </section>
+    </section>
+    <section id="id1164333591785">
+      <title>Discussion Questions: </title>
+      
+      <list id="id1164325465672" list-type="enumerated" number-style="arabic"><item>Explain the meaning of each word in the term “obligate interspecific brood parasite.”</item>
+        <item>What is the difference between a generalist and a specialist brood parasite?</item>
+        <item>Why is the concept of coevolution important for understanding avian brood parasitism?</item>
+      
+<item>How have imprinting experiments demonstrated learning among host birds?</item>
+        <item>What is an explanation for rejection behavior that is not based on learning through experience?</item>
+        <item>Explain a situation in which parasitic birds have been known to exploit defensive imprinting.</item>
+        <item>Describe how experimenters have shown unlearned defensive strategies against parasitism.</item>
+        <item>Explain how costs and benefits affect whether birds adopt an acceptor or rejecter strategy.</item>
+        <item>What is the response of birds to different levels of intraclutch variation, and why is this adaptive?</item>
+        <item>How do levels of parasitism affect adopted acceptor/rejecter strategies?</item>
+        <item>Explain how the Mafia Hypothesis explains the importance of cost in rejection decisions by hosts.</item>
+        <item>How do levels of parasitism affect the selection for learning-based defenses? </item>
+      </list>
+    </section>
+    <section id="eip-638"><title>Glossary</title><list id="eip-id1165599609460"><item id="id1164324497692"><term>acceptor</term>- In terms of avian brood parasitism, a strategy of response to foreign eggs in which a species always accepts parasitic eggs. This usually occurs when the cost of mistaken recognition and rejection are high, so it is more advantageous to accept all eggs.</item>
+      <item id="id1164327308623"><term>rejecter</term>- In terms of avian brood parasitism, a strategy of response to foreign eggs in which a species attempts to distinguish parasitic eggs from its own eggs and then reject them. In cases where the risk of mistake are low, such as in species with low intraclutch variation, learning to reject foreign eggs is favored even at low levels of parasitism.</item>
+      <item id="id1164322939826"><term>obligate interspecific brood parasite</term>- A species of bird that must parasitize nests of other species in order to reproduce. Brood parasites fool host birds into accepting their eggs and then raising the young as their own.</item>
+      <item id="id1164325383636"><term>passerine</term>- A member of the order Passeriformes, which comprises a number of small perching birds. This group makes up a majority of bird species.</item>
+      <item id="id7030761"><term>coevolution</term>- a system of interactions in which multiple parties exert selective forces upon each other and drive each other’s evolution.</item>
+      <item id="id1164327060346"><term>mimicry</term>- an imitation of something for purposes of protection or deception. In this context, parasitic birds have varying levels of egg mimicry; while cuckoos can have highly mimetic eggs, cowbird eggs can be extremely different from their hosts.</item>
+      <item id="id1164323661270"><term>acceptance threshold</term>- the point at which eggs satisfy a host bird’s criteria for “self” eggs and are accepted</item>
+      <item id="id1164323224565"><term>intraclutch</term>- characteristic of eggs that were laid in the same clutch. For example, intraclutch variation refers to the extent to which eggs laid in one clutch vary from each other.</item>
+      <item id="id1164325427041"><term>mafia hypothesis</term>- Sometimes, when hosts reject eggs, the parasitic birds return to depredate nests. The cost prompts some hosts to adopt an acceptor approach as it is better to accept a few parasitic chicks than to lose everything.</item>
+      <item id="id1164322351215"><term>generalist</term>- In this context, a species of bird that parasitizes many different species of hosts, such as the brown cowbird.</item>
+      <item id="id1164325961928"><term>specialist</term>- In this context, a species of bird that parasitizes specific hosts. The common cuckoo’s females each specialize on a certain species of host, though each female’s preference may be different.</item>
+      <item id="id1164341131390"><term>evolutionary lag hypothesis</term>- Hypothesis on why some birds in a species adopt acceptor strategies while others adopt rejecter strategies. It states that rejection is always adaptive but the behavior may not yet have had enough time to become fixed within the species, which is why some will still accept parasitic eggs.</item>
+    </list></section><section id="eip-968"><title>References</title><list id="eip-id1165101012742" list-type="labeled-item"><item id="id1164336021304">Sorenson, M.D. and Payne, R. B. Molecular Genetic Perspectives on Avian Brood Parasitism (2002). Integrative and Comparative Biology 42(2):388-400.
+
+
+      <para id="id1164326284870"><space count="5"/>Sorensen and Payne analyzed genetic data of many avian brood parasites in regards to promiscuity and host-specificity. Cuckoos were found to be loyal parasites of several host species over evolutionarily significant time periods.</para>
+</item>
+
+
+      <item id="id1164321747324">Marchetti, K., Nakamura, H., Gibbs, H. L. (1998). Host-Race Formation in the Common Cuckoo. Science 282( 5388):471-472.</item>
+      <item id="id1164324712431">Friedmann, H. and Kiff, L. F. (1985). The Parasitic Cowbirds and Their Hosts. Proceedings of the Western Foundation of Vertebrate Zoology 2( 4):225-302. </item>
+      <item id="id1164325293769">Anderson M. G., Moskat C., Ban M., Grim T., Cassey P., et al. (2009) Egg Eviction Imposes a Recoverable Cost of Virulence in Chicks of a Brood Parasite. PLoS ONE 4(11): e7725. </item>
+      <item id="id1164323654484">Hoover, J. P. and Robinson, S.K. (2007). Retaliatory mafia behavior by a parasitic cowbird favors host acceptance of parasitic eggs. Proceedings of the National Academy of Sciences of the United States of America. 104, 4479–4483.
+
+
+      <para id="id1164326956539"><space count="5"/>Hoover and Robinson manipulated the nests of breeding prothonotary warblers, experimentally changing egg number and accessibility. They found that nests where parasitic eggs had been removed were much more likely to experience depredation and conclude that this increased cost of rejection would prompt certain birds to be more accepting of all eggs.</para>
+</item>
+
+      <item id="id1164323549296">Rothstein, SI (1975). Evolutionary Rates and Host Defenses Against Avian Brood Parasitism. The American Naturalist 109(966) 161-176.
+      
+
+
+
+<para id="id1164323066961"><space count="5"/>Rothstein provides an evolutionary explanation for why some species accept parasitic eggs while others reject them. The method by which hosts are parasitized and whether they may have surviving young will affect acceptance/rejection behavior, as some birds are more likely to accept the parasitic eggs and cut losses.</para>
+</item>
+
+
+      <item id="id1164322632795">Vogl W, Taborsky M, Taborsky B, Teuschl Y, Honza M (2002). Cuckoo females preferentially use specific habitats when searching for host nests. Animal Behaviour 64 843-850 Part 6.
+
+
+      <para id="id1164329477618"><space count="5"/>Vogl et al. describe how cuckoo females imprint on habitats that they grow up in and parasitize birds in similar habitats later, developing specificity to certain hosts to which their egg appearances may be better adapted.</para></item>
+      
+
+<item id="id1164325208458">Sealy, S. G., Bazin, R. C. (1995). Low-Frequency of Observed Cowbird Parasitism On Eastern Kingbirds - Host Rejection, Effective Nest Defense, Or Parasite Avoidance. Behavioral Ecology. 6(2) 140-145.</item>
+      <item id="id1164325504118">Lotem, A., Nakamura, H. and Zahavi, A. (1992). Rejection of cuckoo eggs in relation to host age: a possible evolutionary equilibrium. Behav. Ecol. 3: 128-132
+    
+
+
+
+
+
+
+  <para id="id1164323993741"><space count="5"/>One of the first studies relating host age with rejection rates of parasitic cuckoo eggs, Lotem et al. manipulated the clutches of reed warblers and found that inexperienced breeders were more likely to accept false eggs and less likely to abandon the clutch if one of their own eggs was returned. The authors argue for a imprinting-based learning mechanism.</para>
+</item>
+
+
+
+      <item id="id1164327409120">Lotem A, Nakamura H, Zahavi A (1995). Constraints on Egg Discrimination and Cuckoo Host Coevolution. Animal Behaviour. 49 (5) 1185-1209.</item>
+      <item id="id1164339628649">Amundsen, T., Brobakken, P. T., Moksnes, A., Roskaft, E (2002). Rejection of common cuckoo Cuculus canorus eggs in relation to female age in the bluethroat Luscinia svecica. JOURNAL OF AVIAN BIOLOGY 33(4) 366-370.</item>
+      <item id="id1164323157686">Kruijt, J. P., Bossema, I, and Lammers, G. J. (1982). Effects of Early Experience and Male Activity on Mate Choice in Mallard Females (Anas platyrhynchos). BEHAVIOUR 80(1/2): 32-43.</item>
+      <item id="id1164323570758">Strausberger, B.M., Rothstein, S.I. (2009). Parasitic cowbirds may defeat host defense by causing rejecters to misimprint on cowbird eggs. BEHAVIORAL ECOLOGY 20(4) 691-699.
+      
+
+<para id="id1164337894990"><space count="5"/>Strausberger and Rothstein investigated the effect of parasitizing early in the laying stage and found that some species were more likely to accept parasitic eggs as their own, especially in places where parasite frequency was high. This led them to conclude that the hosts were induced to mistakenly imprint on cowbird eggs.</para></item>
+
+
+      <item id="id1164323854310">Moskat, C., Hauber, M.E. (2007). Conflict between egg recognition and egg rejection decisions in common cuckoo (Cuculus canorus) hosts. ANIMAL COGNITION 10(4) 377-386.</item>
+      <item id="id1164325190826">Marchetti, K (2000). Egg rejection in a passerine bird: size does matter. ANIMAL BEHAVIOUR. 59 877-883 Part 4.</item>
+      <item id="id1164323950370">Stokke, B. G., Takasu, F., Moksnes, A., Roskaft, E (2007). The importance of clutch characteristics and learning for antiparasite adaptations in hosts of avian brood parasites. EVOLUTION 61(9):2212-2228.</item>
+      <item id="id1164323999060">Anderson MG, Hauber ME (2007). A recognition-free mechanism for reliable rejection of brood parasites. TRENDS IN ECOLOGY &amp; EVOLUTION 22(6):283-286.</item>
+      <item id="id1164323475915"> Hoover JP, Yasukawa K, Hauber ME(2006). Spatially and temporally structured avian brood parasitism affects the fitness benefits of hosts' rejection strategies. ANIMAL BEHAVIOUR 72:881-890 Part 4 </item>
+      <item id="id1164323952690">Hauber ME, Yeh PJ, Roberts JOL (2004). Patterns and coevolutionary consequences of repeated brood parasitism. PROCEEDINGS OF THE ROYAL SOCIETY OF LONDON SERIES B-BIOLOGICAL SCIENCES 271:S317-S320</item>
+      <item id="id1164322608899">Lawes MJ, Marthews TR (2003). When will rejection of parasite nestlings by hosts of nonevicting avian brood parasites be favored? A misimprinting-equilibrium model. BEHAVIORAL ECOLOGY 14(6) 757-770.</item>
+      <item id="id1164324210023">Honza M, Prochazka P, Stokke BG, Moksnes A, Roskaft E, Capek M, Mrlik V (2004). Are blackcaps current winners in the evolutionary struggle against the common cuckoo? JOURNAL OF ETHOLOGY 22(2):175-180.</item>
+      <item id="id1164339821227">Langmore NE, Hunt S, Kilner RM (2003). Escalation of a coevolutionary arms race through host rejection of brood parasitic young. NATURE 422(6928):157-160</item>
+      <item id="id1164326044031">Grim T (2002). Why is mimicry in cuckoo eggs sometimes so poor?. JOURNAL OF AVIAN BIOLOGY. 33(3):302-305</item>
+      <item id="id1164322034802">Rodriguez-Girones, MA; Lotem, A (1999). How to detect a cuckoo egg: A signal-detection theory model for recognition and learning. AMERICAN NATURALIST. 153(6):633-648.</item>
+      <item id="id1164331183918">Soler JJ, Martinez JG, Soler M, Moller AP (1999). Genetic and geographic variation in rejection behavior of cuckoo eggs by European magpie populations: An experimental test of rejecter-gene flow. EVOLUTION. 53(3):947-956.</item>
+      <item id="id1164345796578">Lotem A (1993). Learning To Recognize Nestlings Is Maladaptive For Cuckoo Cuculus-Canorus Hosts. Nature. 362 (6422):743-745.</item>
+      <item id="id1164326399850">Sharon A. Gill, Diane L. Neudorf And Spencer G. Sealy (1997). Host Responses To Cowbirds Near The Nest: Cues For Recognition. Animal Behaviour 53(6):1287-1293 </item>
+      <item id="id1164327232914">Davies NB, Brooke MDL, Kacelnik A (1996). Recognition errors and probability of parasitism determine whether reed warblers should accept or reject mimetic cuckoo eggs. PROCEEDINGS OF THE ROYAL SOCIETY OF LONDON SERIES B-BIOLOGICAL SCIENCES 263(1372):925-931 </item>
+      <item id="id1164322874286">May Rm, Robinson Sk (1985). Population-Dynamics Of Avian Brood Parasitism. American Naturalist 126(4):475-494.</item>
+      <item id="id1164331299219">Vogl W, Taborsky M, Taborsky B, Teuschl Y, Honza M (1994). RESPONSE OF A FOREST-INTERIOR SONGBIRD TO THE THREAT OF COWBIRD PARASITISM. ANIMAL BEHAVIOUR 47(2):275-280</item>
+    </list></section>
+<section id="id1164323672464"><title>About the Author</title><para id="id8905429">
+        <figure id="id1164323824147"><media id="id1164323824147_media" alt="a photo of the author.">
+            <image mime-type="image/png" src="../../media/graphics9-74f6.png" id="id1164323824147__onlineimage" width="200px"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1164326497272">Mary Mao grew up as the daughter of immigrants in the small town of Oxford, Mississippi. It was in this rural setting that she was first exposed to wildlife in the surrounding woods and forests and became interested in the ecosystems in which local fauna and flora. She now resides in Houston, Texas as an undergraduate at Rice University majoring in Biochemistry and Cell Biology and hopes to attend medical school after graduation in spring 2010.</para>
+      </section>
+  </content>
+</document>

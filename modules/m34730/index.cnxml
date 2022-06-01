@@ -1,0 +1,230 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Foraging in the Domestic Pig, Sus Scrofa</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34730</md:content-id>
+  <md:title>Foraging in the Domestic Pig, Sus Scrofa</md:title>
+  <md:abstract>Pigs were domesticated from the wild boar over 8,000 years ago and have been shaped by natural and artificial selection. As omnivores with a wide variety of food choices, they are an interesting model for optimal foraging theory. Wild boars often eat grass, nuts, berries, insects, and small mammals, but have also been observed to prey on deer and large wild cats. Domestic pigs in captivity are provided with food, but still exhibit a wide variety of foraging related behaviors, such as chewing, biting, and rooting. These behaviors may sometimes be hunger-motivated, but are also an important way for pigs to explore their environment and learn about potential nutrient sources. Through domestication, pigs have lost the need to forage effectively. However, their behavior still follows the predictions of optimal foraging theory. The differences between domestic pig and wild boar foraging patterns reveal an interesting interplay between artificial and natural selection.</md:abstract>
+  <md:uuid>a7222f4b-4e28-42d6-bc60-3de0b4afb1c4</md:uuid>
+</metadata>
+
+<content>
+    
+    <para id="id1166571789800"><emphasis effect="bold">Author:</emphasis> Arielle Layman</para>
+    <section id="fs-id1171921699068"><title>Introduction</title>
+    
+    <figure id="id1166564866597"><media id="id1166564866597_media" alt="A pig">
+        <image mime-type="image/png" src="../../media/Picture 2-a7b5.png" id="id1166564866597__onlineimage" height="439" width="529"/>
+      </media>
+    <caption>A domestic pig, <emphasis effect="italics">Sus scrofa</emphasis>. Creative Commons-Licensed <newline/>
+&lt;http://www.flickr.com/photos/fleur-design/428341583&gt;</caption></figure>
+    
+    
+    
+    <para id="id1166549031866"><emphasis effect="bold">Optimal foraging theory</emphasis> uses theories of natural selection to interpret organisms’ feeding strategies. It predicts that animals that maximize caloric intake while minimizing costs will increase their fitness (Stephens, 2007). When applying the theory to an organism, three factors, which are called assumptions, must be considered: </para>
+    <list id="id1166555697635" list-type="enumerated" number-style="arabic">
+      <item>Decision Assumptions<list id="id1166554962105" list-type="enumerated" number-style="lower-alpha"><item>What is the organism’s goal in foraging? For example, is it looking to maximize nutrient intake or prevent starvation?</item></list></item>
+      <item>Currency Assumptions<list id="id1166567522451" list-type="enumerated" number-style="lower-alpha"><item>How will the organism compare choices?</item></list></item>
+      <item>Constraint Assumptions<list id="id1166564971757" list-type="enumerated" number-style="lower-alpha"><item>What limits does the organism face? For instance, what is available and what is safe to eat? (Stephens, 1986)</item></list></item>
+    </list>
+    <para id="id7562610">The predictions of optimal foraging theory vary greatly depending on the organism studied. An herbivore may have to weigh the risk of being preyed upon while against the nutritional benefit of the food. A carnivore may have to choose between a high-risk high-gain scenario, such as attacking large but difficult to subdue prey, and a low-risk low-gain scenario, such as consuming easy to attack but less substantial prey. Optimal foraging theory can therefore be divided into two main questions: how long should an herbivore stay in a food patch and which prey should a carnivore consume? (Stephens, 1986).</para>
+    <para id="id1166539567117">Often, a forager’s decisions are dependent on those of another forager, and <term>social foraging</term> theories apply. For example, a bee may perform a dance to show its hive the location of nectar (Kamil, 1987) or predators may hunt in packs (Giraldeau, 2000)</para>
+    <para id="id1166571773265">The domestic pig, <emphasis effect="italics">Sus scrofa domestica</emphasis>, is an interesting organism to study in the light of optimal foraging theory. It is an omnivore that faces few constraints—it is preyed upon by few predators and has a varied diet— so it has many foraging options (Watson, 2004). Comparing its behavior to its undomesticated predecessor, the wild boar (<emphasis effect="italics">Sus scrofa</emphasis>), provides a unique perspective on the evolution of foraging. </para>
+    <example id="fs-id1171918547413"><label>Box</label><title>What are some criticisms of optimal foraging theory?</title>
+    <para id="id1166547983090">When optimal foraging theory emerged in 1966, it was highly controversial and stayed that way for years. Many criticisms of the theory centered on use of the word “optimal”. Opponents of the theory claimed that as a result of trade offs in natural selection, behavior can never truly be optimal (Gould, 1979). Others asserted that optimal behavior would require animals to achieve a high level of intelligence to determine the consequences of their foraging actions (Stephens et al., 2007). Early on, the most damaging criticisms were that optimal foraging theory either had not been tested sufficiently, or that it had been tested and failed (Perry and Pianka, 1997).</para>
+    <para id="id1166547181737">Proponents of optimal foraging theory responded in several ways. When the theory was most controversial, researchers continued studying it but did not use the word “optimal” in their work (Perry and Pianka, 1997). Stephens et al. explain that an animal does not need to understand its own foraging behavior for it to be optimal, just as a baseball player does not have to understand physics (2007). Most importantly, numerous studies, including some mentioned in this chapter, have upheld the predictions of optimal foraging theory.</para></example></section>
+    <section id="id1166568947111"><title>How have natural and artificial selection shaped pigs’ foraging strategies?</title><para id="id1166568341949">Humans domesticated pigs over 8,000 years ago (Mignon-Grasteau et al., 2005). Although the domestic pig and its ancestor the wild boar are vastly different in appearance (<link target-id="id1166569054981"/> and <link target-id="id1166559020735"/>), few behavioral differences between the subspecies have been found (Gustafsson, 1999b). For more about domestication, see <link target-id="eip-id1166387627236"/>.</para>
+      <para id="id1166564892791">Gustafsson et al. examined foraging differences between domestic pigs and crossbred pigs, which had one domestic parent and one wild parent. The pigs foraged in a maze containing buckets with a limited amount of food to model gradually depleting patches. In some conditions, the researchers put barriers between patches in order to induce a cost of moving from one patch to another. They made three predictions based on optimal foraging theory: that pigs would adjust their foraging strategy as food in a patch was depleted by spending less time in that patch; that pigs would spend more time in each patch when there was a cost associated with moving between patches, and that wild boar hybrids would move between patches more frequently and spend less time in each patch, using a costlier strategy. (Gustafsson, 1999a)</para>
+      <para id="id1166567490480">
+        <figure id="id1166569054981"><media id="id1166569054981_media" alt="A female domestic pig with piglets and a wild pig with piglets.">
+            <image mime-type="image/png" src="../../media/Picture 3-9aa3.png" id="id1166569054981__onlineimage" height="619" width="404"/>
+          </media>
+        <caption>Top: A female domestic pig and her piglets. Creative Commons- Licensed &lt;http://commons.wikimedia.org/wiki/File:Sow_and_five_piglets.jpg&gt;. <newline/>
+Bottom: A female wild boar and her piglets. Creative Commons- Licensed <newline/>
+&lt;http://www.flickr.com/photos/j-pocztarski/3456321271&gt; </caption></figure>
+      </para>
+      
+      
+      
+      <para id="id1166538949728">Each prediction is based on the main tenet of optimal foraging theory: that animals minimize costs and maximize food intake while foraging. Domestic pigs were expected to use a less costly strategy because through the process of domestication, costly strategies are selected against (Jensen and Gustafsson, 1997). A costly strategy that involves moving frequently between patches may be beneficial in the wild because it reduces the chance of being caught by predators. Under the protection of humans, this strategy would not be advantageous because it would cause the pigs to expend energy moving when they were not in danger of being caught by predators.</para>
+      <para id="id1166556167714">
+        <figure id="id1166559020735"><media id="id1166559020735_media" alt="Differences in the amount of time spent on foraging on different patches compared between wild and domesticated pigs.">
+            <image mime-type="image/png" src="../../media/Picture 4-3eb1.png" id="id1166559020735__onlineimage" height="336" width="439"/>
+          </media>
+        <caption>After Gustafsson et al., 1999.</caption></figure>
+      </para>
+      
+      <para id="id1166571753296">Gustafsson et al.’s data support their hypotheses. Domestic and crossbred pigs’ behavior followed optimal foraging theory. Both groups spent less time in patches with less food and visited fewer patches when there was a cost to move to a different patch. As predicted, the crossbred pigs used a costlier foraging strategy by moving between patches more frequently than the domestic pigs (<link target-id="id1166559020735"/>). </para>
+      <para id="id1166539321112">The finding that domesticated animals use a less costly foraging strategy than wild ones is not limited to pigs—for example, it has been found in comparisons of domesticated and crossbred chickens (Andersson, 2001; Schutz, 2000)—and may be characteristic of the domestication process (Jensen and Gustafsson, 1997).</para>
+      <example id="eip-id1166387627236"><label>Box</label><title>What is the relationship between domestication and natural selection?</title>
+      <para id="id1166573619908"><term>Domestication</term> is the process by which animals adapt to humans and their environment (Price, 1984). The main feature of domestication that separates it from taming<emphasis effect="italics"/>is that for domestication to occur, humans must control which individuals reproduce (Mignon-Grasteau et al., 2005). This process, in which humans select for desired traits and may produce new breeds, is called artificial selection.</para>
+      <para id="id1166552620341"><term>Resource allocation theory</term> argues that an animal’s resources are balanced between traits for breeding and production (Mignon-Grasteau et al., 2005). Thus, when humans select for a particular trait, there will be a decrease in another trait unless the animal’s resources increase. As a consequence of this, humans selecting for one trait may unintentionally change an unrelated trait.</para>
+      <para id="id1166547079172">For some traits, the pressures of artificial selection and natural selection may bring about the same result. For example, both natural and artificial pressures favor large pigs. Traits for self-defense or predatory behavior are not selected by humans, and often decrease or are lost in the process of domestication (Mignon-Grasteau et al., 2005). For instance, natural selection has resulted in wild boars with long, sharp tusks while selective breeding has resulted in domestic pigs with less conspicuous tusks.</para></example></section>
+      <section id="id1166564924218">
+        <title>How do pigs interact when foraging?</title>
+        <para id="id1166551836656">Wild and domestic pigs are highly social animals (Grandin, 2009, Graves 1984). As piglets, they fight viciously over their mother’s teats before setting up a hierarchy that determines which sibling receives the most milk (Fraser, 1991; Fig. 4).. Even after they are weaned, pigs’ feeding behavior is complex and rarely solitary. <term>Social foraging theory</term> is used to study these types of interactions, in which one forager’s actions affect another’s (Giraldeau and Caraco, 2000). Social foraging theory and optimal foraging theory are not competing theories. Optimal foraging theory predicts the behavior of individual foragers while social foraging theory predicts the behavior of foragers in groups.</para>
+        <para id="id3717934">Adult pigs also establish dominance hierarchies that help quell competition for food (Nielsen, 1996), but this does not mean that aggression motivated by food resources disappears entirely. Wild boars fight more often in the winter when food is scarce than in the summer when it is more plentiful (Graves, 1984). Thomsen et al. hypothesized that this may be due to the spatial distribution of food as well as its availability (Thomsen et al., 2010). They predicted that the number of aggressive interactions between domestic pigs would increase when buckets of food were clustered together versus spread out to a medium or far distance from each other, even if the total amount of food were the same in each condition. As shown in <link target-id="id1166550438107"/>, this hypothesis was supported.</para>
+        <figure id="id1166564944308"><media id="id1166564944308_media" alt="Several domesticated piglets suckling.">
+            <image mime-type="image/png" src="../../media/Picture 5-b007.png" id="id1166564944308__onlineimage" height="354" width="418"/>
+          </media>
+        <caption>Piglets suckling. Creative Commons-Licensed. &lt;http://commons.wikimedia.org/wiki/File:Sau_mit_ihren_Ferkeln.jpg&gt;</caption></figure>
+        
+        <para id="id1166570031640">
+          <figure id="id1166550438107"><media id="id1166550438107_media" alt="Number of aggressive interactions compared to proximity.">
+              <image mime-type="image/png" src="../../media/Picture 6-6c4b.png" id="id1166550438107__onlineimage" height="306" width="407"/>
+            </media>
+          <caption>After Thomsen, et al., 2010</caption></figure>
+        </para>
+        
+        <para id="id1166564855242">Thomsen et al. explain that this is because when pigs are foraging at a medium or far distance from each other, a subordinate pig has more time to react between the time a dominant pig chooses to feed from the subordinate pig’s bucket and the time it gets to that bucket. The subordinate pig can quickly abandon its bucket, avoiding a confrontation. When buckets are close together, a dominant pig can choose to feed from a subordinate pig’s bucket and get there before the subordinate pig can move. </para>
+        <figure id="id1166564893659"><media id="id1166564893659_media" alt="Duration of aggressive events compared to proximity.">
+            <image mime-type="image/png" src="../../media/Picture 7-9b4b.png" id="id1166564893659__onlineimage" height="344" width="503"/>
+          </media>
+        <caption>After Thomsen, et al.</caption></figure>
+        
+        <para id="id1166555171319">This was supported by the finding that on average, fights between pigs were shorter when buckets were close together (<link target-id="id1166564893659"/>). When buckets were close together, a dominant pig would begin a fight and a subordinate pig would back down quickly. When buckets were far apart, there were fewer of these short fights because the subordinate pig had time to leave before the dominant pig could initiate a fight. This suggests another possible reason why wild pigs are more aggressive in the winter- in the winter, the small amount of food available is clumped together so pigs must forage close together. There is a low cost of moving, so dominant pigs may move often and fight with subordinate pigs that do not have time to move out of the way.</para>
+        <para id="id1166574506884"> The pigs in this study followed optimal foraging theory. Pigs moved between patches (buckets) more frequently when costs were lower (the distance between buckets was smaller). This also explains why there were more aggressive interactions when buckets were closer together; pigs were more likely to move and therefore more likely to have to compete for an occupied bucket. </para>
+        <para id="id1166558341137">When food is limited and foragers are in a social hierarchy, social foraging theory predicts that different individuals should play different roles. Dominant animals can seek out food for themselves or take food from their subordinates. Finding food expends more energy than taking it from others, so dominant animals are likely to adopt a “<term>scrounger</term>” strategy in which they exploit their subordinates. Since subordinate animals cannot take food from higher-ranked individuals, they have no choice but to use a “<term>producer</term>” strategy in which they find food and eat as much as possible before it is taken from them (Giraldeau and Caraco, 2000).</para>
+        <para id="id1166568037448"> Held, et al. conducted an experiment to test if pigs follow the producer-scrounger model. First, they took pigs to food sources and trained them to relocate them. These sources were buckets full of food in a pen also containing empty buckets. When it was clear that these “informed” pigs were able to remember where the full buckets were, they were paired with heavier “uninformed” pigs that did not know where the food was. The researchers predicted that the larger uninformed pigs would follow a scrounger strategy by following the informed pigs and taking food from them. (Held et al., 2000)</para>
+        <para id="id1166562361930"> Held et al. found evidence to support their hypothesis. The informed pigs were capable of remembering and relocating buckets of food. When given access to empty buckets and buckets with food that they had been shown previously, they showed a significant preference for the food-filled buckets. When the larger, more dominant pigs were paired with the informed pigs, they inspected food buckets that had just been visited by the informed pigs more often than would be expected by chance. In over half the trials, the dominant pig displaced the informed pig from the bucket it was investigating, which was statistically significant. Non-informed dominant pig spent less time searching for food when paired with an informed subordinate pig than when they foraged alone. Thus, dominant pigs utilized the scrounger strategy, and this strategy was successful. Feral pigs have also been found to use producer and scrounger strategies. Subordinate feral pigs are more likely than dominant pigs to find food sites, which dominant pigs benefit from (Held et al., 2000).</para>
+      </section>
+    
+    <section id="id1166554961383"><title>Why do captive pigs exhibit foraging-like behaviors?</title><para id="id1166564882275">Captive domesticated pigs are provided with food and thus do not need to forage. However, they still spend large amounts of their time exhibiting foraging-related behaviors such as rooting, sniffing, biting, and chewing on edible and inedible materials. Often, they are provided with hay so they may carry out these behaviors (Studnitz et al., 2007). When deprived of material suitable for these behaviors, pigs perform <term>stereotypies</term>, which are fixed repetitive actions indicative of boredom or frustration (Grandin, 2009). In pigs, stereotypies may include chewing metal bars on their crates, pacing, and chewing with nothing in their mouths.</para>
+      <para id="id1166554961196"> The importance of foraging behaviors and the relationship between pig stereotypies and inability to forage are well established. When pigs kept on concrete floors were allowed access to soil outdoors, they immediately began to root (Day et al., 1995). Pigs with nose rings do not root, presumably because the pressure of the ring causes pain when rooting (Bornett, 2003). However, when pigs’ nose rings were removed, they resumed rooting (Studnitz et al., 2003). Pigs prevented from rooting were found to spend approximately the same amount of time performing stereotypies as other pigs spend rooting (Day et al., 1996).</para>
+      <para id="id1166571602822"> This suggests that biting and chewing non-edible materials and rooting are related to boredom and the desire to explore surroundings. However, stereotypies and foraging behaviors increase when food is depleted, suggesting that some of these behaviors are hunger related. </para>
+      <para id="id1166572122721">Day et al. explored the reasons behind these behaviors by offering domestic pigs three tubes to chew. The first tube released water. Because the pigs were given unlimited access to water, chewing on this first tube indicated exploratory behavior. The second tube released a saccharin solution, which tastes sweet but has no nutritional value. The third tube released a sucrose solution, which provided the pigs with a sweet tasting and nutritious drink. Some pigs were put on a low feeding schedule (restricted access to food) while others were put on a high feeding schedule (unrestricted access to food). The researchers’ results are shown in <link target-id="id1166555976560"/>. </para>
+      <figure id="id1166555976560"><media id="id1166555976560_media" alt="Chewing incidents on different substances.">
+          <image mime-type="image/png" src="../../media/Picture 8-826a.png" id="id1166555976560__onlineimage" height="358" width="461"/>
+        </media>
+      <caption>After Day et al., 1996.</caption></figure>
+      
+      <para id="id1166569530739">They found that when pigs were given unlimited food, there was no significant difference in tube preference. However, pigs whose food intake was reduced had a significant preference for saccharin over water and sucrose over saccharin. Pigs whose food intake was limited spent more time chewing the tubes than pigs on the high feeding level schedule. This indicates that some chewing activities were motivated by hunger. However, the substantial amount of time pigs spent chewing the water tube suggests that chewing is also an exploratory behavior. The researchers concluded that young pigs chew to gain information. Taste and nutrition serve as feedback to promote chewing particular materials so that the pig obtains proper nutrition. (Day et al., 1996). </para>
+      <example id="eip-id1167505408653"><label>Box</label><title>How can an animal’s behavior be explained?</title>
+      <para id="id1166569951871">Causes of animal behavior can be divided into two broad categories: proximate causes and ultimate causes. Questions about <term>proximate causes </term> ask how a behavior occurs while questions about <term>ultimate causes</term> ask why it occurs. Proximate causes involve the immediate condition of an animal that allows it to behave the way it does, including its development and physiology. For example, as noted above, pigs exhibit more stereotypies when they are hungry versus when they are sated. A simple proximate explanation for this might involve low blood sugar triggering the activation of certain genes that code for hormones that make the pig feel hungry and signal the brain to stimulate jaw muscles to bite or chew. Alternatively, ultimate explanations examine how a behavior evolved over time. An ultimate explanation for increased stereotypic behavior in hungry pigs would involve how this would contribute to the pigs’ fitness. For instance, hungry pigs chewing nearly anything they can find may have a better chance at finding food than hungry pigs that only exhibit foraging-like behaviors when they are sure they have encountered food. Pigs chewing inedible material would thus be less prone to starvation and more fit. Genes for this behaviors would be selected for, and stereotypies would result.</para>
+    </example></section>
+
+    <section id="id1166544065031">
+      <title>Summary</title>
+      <para id="id1166568349314">Pigs were domesticated from the wild boar over 8,000 years ago, but few behavioral differences between the species have been noted. Both species are called <emphasis effect="italics">Sus scrofa</emphasis>. Domestic pigs are sometimes referred to as <emphasis effect="italics">Sus scrofa domesticus</emphasis>. In the process of domestication, humans control which animals reproduce and animals adapt to their given environment. Artificial selection occurs when humans select for particular traits by allowing animals with those traits to breed.</para>
+      <para id="id1166564927756">Optimal foraging theory examines how animals make foraging decisions. It argues that animals forage in such a way as to maximize their caloric intake while minimizing energetic costs. Domestic pigs and wild boars use similar foraging strategies that follow the predictions of optimal foraging theory. For example, they spend more time in one area containing food when energetic costs to move to another area increase. Crossbred pigs use a costlier strategy that involves moving between areas with food more often. That is, they expend more energy when foraging than domestic pigs do. This is likely because vigilance as a means of protection against predators is selected for in wild animals but not domestic ones. Aggression between pigs increases as distance between food sites decreases because pigs move between sites more frequently and subordinate pigs have less time to escape an approaching dominant pig. Domestic and feral pigs follow a producer-scrounger model in which subordinate pigs find food and eat what they can before dominant pigs prevent them from eating more. Foraging is such an important behavior for pigs that even in captivity when unlimited food is available, they will display foraging-like behaviors like rooting in the dirt and biting and chewing inedible materials.</para></section>
+      <section id="id1166539284778"><title>Discussion Questions</title><list id="eip-id1171904846574">
+        
+            <item id="id1166568188460">According to Gustafsson, crossbred pigs used a costlier strategy than domestic pigs because they were more vigilant against predators. Present an alternative hypothesis. How would you test it?</item>
+         
+            <item id="id1166555947349">Held et al.’s study found that dominant pigs used a scrounger strategy by exploiting informed subordinate pigs, but it did not test whether subordinate pigs preferentially use a producer strategy. How would you determine if they do? Do you predict that pigs can alternate between strategies?</item>
+          
+            <item id="id1166575336934">Chewing and biting inedible objects expends energy and does not provide nutrition. How do you reconcile this behavior with optimal foraging theory?</item>
+         </list></section>
+      <section id="id1166556445876"><title>Glossary</title><list id="eip-id1171846530079">
+        <item id="id1166552511881"><term>Artificial selection</term>- human control over animal breeding in order to increase the prevalence of desired traits</item>
+        <item id="id1166569955870"><term>Conditional strategy</term>- an inherited mechanism that allows an animal to adapt to various conditions</item>
+        <item id="id1166574398437"><term>Contrafreeloading</term>- the phenomenon in which an animal chooses food that requires effort to obtain even though other food is available </item>
+        <item id="id1166565985099"><term>Domestication</term>- the process by which humans take care of and breed animals and animals become accustomed to humans</item>
+        <item id="id2237986"><term>Feral</term>- semi-wild; a feral animal was domesticated but escaped captivity and returned to the wild</item>
+        <item id="id1166563553918"><term>Optimal foraging theory</term>- theory that uses natural selection to explain animals’ feeding choices</item>
+        <item id="id1166567718018"><term>Producer</term>- in social foraging theory, an animal that finds food</item>
+        <item id="id2348309"><term>Proximate cause</term>- a cause based on immediate reasons for a behavior, such as physiology</item>
+        <item id="id1166546564819"><term>Resource allocation theory</term>- theory that argues that in a particular environment, an animal’s resources are balanced between traits for breeding and traits for production</item>
+        <item id="id1166547639560"><term>Scrounger</term>- in social foraging theory, a dominant animal that takes food from subordinates</item>
+        <item id="id1166572176761"><term>Social foraging</term>- foraging in which an individual’s decisions are dependent on the actions of another forager</item>
+        <item id="id7197519"><term>tereotypies</term>- repetitive actions resulting from boredom or frustration</item>
+        <item id="id1166574606218"><term>Ultimate cause</term>- an evolutionary reason for a behavior</item>
+      </list></section>
+      <section id="id1166565991333"><title>Sources</title><list id="eip-id1169445366374" list-type="labeled-item"><item id="id1166549955531">Andersson M, Nordin E, Jensen P. 2001. Domestication effects on foraging strategies in fowl. Appl Anim Behav Sci. 72:51-62.
+        <para id="id1166555569463"><space count="5"/>Shows how effects of domestication on foraging strategies are similar in pigs and chickens.</para></item>
+
+        <item id="id1166574753893">Bornett HLI, Edge HL, Edwards SA. 2003. Alternatives to nose-ringing in outdoor sows: The provision of a sacrificial rooting area. Appl Anim Behav Sci. 83:267-276.</item>
+
+        <item id="id1166573195261">Broom DM, Sena H, Moynihan KL. 2009. Pigs learn what a mirror represents and use it to obtain information. Anim Behav. 78: 1037-1041.</item>
+
+        <item id="id1166573333728">Croney CC, Adams KM, Washington CG, Stricklin WR. 2003. A note on visual, olfactory, and spatial cue use in foraging behavior of pigs: Indirectly assessing cognitive abilities. Appl Anim Behav Sci. 83: 303-308.
+        <para id="id8667775"><space count="5"/>An interesting experiment that connects foraging to animal cognition and intelligence.</para></item>
+
+        <item id="id1166547511279">Dailey JW, McGlone JJ. 1997. Oral/nasal/facial and other behaviors of sows kept individually outdoors on pasture, soil or indoors in gestation crates. Appl Anim Behav Sci. 52:25-43.</item>
+
+        <item id="id1166567755625">Day JEL, Kyriazakis I, Lawrence AB. 1996. An investigation into the causation of chewing behaviour in growing pigs: The role of exploration and feeding motivation. Appl Anim Behav Sci. 48:47-59.</item>
+
+        <item id="id8901774">de Jonge FH, Tilly S, Baars AM, Spruijt BM. 2008a. On the rewarding nature of appetitive feeding behaviour in pigs (Sus scrofa): Do domesticated pigs contrafreeload? Appl Anim Behav Sci. 114:359-372.</item>
+
+        <item id="id1166576070677">de Jonge FH, Ooms M, Kuurman WW, Maes JHR, Spruijt BM. 2008b. Are pigs sensitive to variability in food rewards? Appl Anim Behav Sci. 114:93-104</item>
+
+        <item id="id1166567275334">Fraser D, Thompson BK. 1991. Armed sibling rivalry among suckling piglets. Behav Ecol Sociobiol. 19:9-15.</item>
+
+        <item id="id8696407">Giraldeau L, Caraco T. 2000. Social foraging theory. Princeton, NJ: Princeton University Press.</item>
+
+        <item id="id1166575730324">Gould, SJ, Lewontin RC. 1979. The spandrels of San Marco and the Panglossian paradigm: a critique of the adaptionist programme. Proc R Soc Lond. 205:581-598.</item>
+
+        <item>Grandin T, Johnson C. 2005. Animals in translation. New York, NY: Harcourt Books.
+        <para id="id7475336"><space count="5"/>A highly recommended book by an animal science expert. Connects pig behavior to farm animal welfare issues.</para></item>
+
+        <item id="id1166569530477">Grandin T. 2009. Animals make us human. Boston, MA: Houghton Miffler.</item>
+
+        <item id="id8637258">Gustafsson M, Jensen P, de Jonge FH, Schurrman T. 1999a. Domestication effects on foraging strategies in pigs (Sus scrofa). Appl Anim Behav Sci. 62:305-317.</item>
+
+        <item id="id1166558636781">Gustafsson M, Jensen P, de Jonge FH, Illmann G, Spinka M. 1999b. Maternal behaviour of domestic sows and crosses between domestic sows and wild boar. Appl Anim Behav Sci. 65:29-42
+        <para id="id1166567499123"><space count="5"/>Discusses behavioral differences between domestic pigs and wild boars.</para></item>
+
+
+        <item id="id1166567264652">Held S, Mendl M, Devereux C, Byrne RW. 2000. Social tactics of pigs in a competitive foraging task: The "informed forager" paradigm. Anim Behav. 59:569-576. </item>
+
+        <item id="id1166568292015">Held S, Mendl M, Devereux C, Byrne W. 2001. Behaviour of domestic pigs in a visual perspective taking task. Behaviour. 138:1337-1354.</item>
+
+        <item id="id1166560962615">Held S, Baumgartner J, KilBride A, Byrne RW, Mendl M. 2005. Foraging behaviour in domestic pigs (Sus scrofa): Remembering and prioritizing food sites of different value. Anim Cogn. 8:114-121.</item>
+
+        <item id="id5008437">Held, SDE, Byrne RW, Jones S, Murphy E. 2010. Domestic pigs, Sus scrofa, adjust their foraging behaviour to whom they are foraging with. Anim Behav. In press.</item>
+
+        <item id="id1166560973169">Holm L, Jensen MB, Pedersen LJ, Ladewig J. 2008. The importance of a food feedback in rooting materials for pigs measured by double demand curves with and without a common scaling factor. 111:68-84.</item>
+
+        <item>Houpt, KA. 2005. Domestic animal behavior. Ames, Iowa: Blackwell Publishing Professional.
+        <para id="id1166570123005"><space count="5"/>Gives brief summaries of the behavior of various domestic animals.</para></item>
+
+        <item id="id1166556905749">Jansen J, Bolhuis JE, Schouten WGP, Spruijt BM, Wiegant VM. 2009. Spatial learning in pigs: Effects of environmental enrichment and individual characteristics on behaviour and performance. Anim Cogn. 12:303-315.</item>
+
+        <item id="id1166565830861">Jensen P, Gustafsson M. 1997. Towards a functional view of domestication. Proc. 31st Int. Congress of the ISAE, 13-16 August, Prague, Polygravia SAV, Czech Republic. 28.</item>
+
+        <item id="id1166567811317">Jensen P, editor. 2009. The ethology of domestic animals. Cambridge, MA: CAB International.</item>
+
+        <item id="id1166571502088">Kamil AC, Krebs JR, Pulliam HR. 1987. Foraging Behavior. New York, NY: Plenum Press.</item>
+
+        <item id="id8329804">Kouwenberg AL, Walsh CJ, Morgan BE, Martin GM. 2009. Episodic-like memory in crossbred Yucatan minipigs (Sus scrofa). Appl Anim Behav Sci. 117:165-172.</item>
+
+        <item id="id1166575495431">Laughlin K, Mendl M. 1999. Pigs shift too: Foraging strategies and spatial memory in the domestic pig. Anim Behav. 60:403-410.</item>
+
+        <item id="id1166573615378">Marchant-Forde JN, editor. 2009. The welfare of pigs. New York, NY. Springer Science.</item>
+
+        <item>McLeman MA, Mendl M, Jones RB, White R, Wathes CM. 2004. Discrimination of conspecifics by juvenile domestic pigs, Sus scrofa. Anim Behav. 70:451-461.</item>
+
+        <item>Mendl M, Laughlin K, Hitchcock D. 1997. Pigs in space: Spatial memory and its susceptibility to interference. Anim Behav. 54: 1491-1508.</item>
+
+        <item>Nielsen BL, Whittemore CT. 1996. Feeding behavior of growing pigs using single or multi-space feeders. Appl. Anim. Behav. Sci. 63:79-91.</item>
+
+        <item>Pierce, GJ, Ollason, JG. 1987. Eight reasons why optimal foraging theory is a complete waste of time. Oikos. 49(1):111-117.</item>
+
+        <item>Price EO. 2002. Animal domestication and behavior. New York, NY: CABI Publishing.</item>
+
+        <item>Puppe B, Ernst K, Schon PC, Manteuffel G. 2007. Cognitive enrichment affects behavioural reactivity in domestic pigs. Appl Anim Behav Sci. 105:75-86.</item>
+
+        <item>Schutz KE, Forkman B, Jensen P. 2001. Domestication effects on foraging strategy, social behavior and different fear responses: a comparison between the red junglefowl (Gallus gallus) and a modern layer strain. Appl Anim Behav Sci. 74:1-14.</item>
+
+       <item>Stephens DW, Brown JS, Ydenberg RC. 2007. Foraging. Chicago, IL: The University of Chicago Press.
+        <para id="id1166568955563"><space count="5"/>A comprehensive guide to optimal foraging theory.</para></item>
+
+        <item>Stephens DW, Krebs JR. 1986. Foraging theory. Princeton, NJ: Princeton University Press.</item>
+
+       <item>Studnitz M, Jensen KH, Jorgensen E. 2003. The effect of nose rings on the exploratory behaviour of outdoor gilts exposed to different tests. Appl Anim Behav Sci. 84:41-57.</item>
+
+       <item>Studnitz M, Jensen MB, Pedersen LJ. 2007. Why do pigs root and in what will they root? A review on the exploratory behaviour of pigs in relation to environmental enrichment. 107:183-197.</item>
+
+        <item>Thomsen LR, Nielsen BL, Larsen, ON. 2010. Implications of food patch distribution on social foraging in domestic pigs (Sus scrofa). Appl Anim Behav Sci. 122:111-118.</item>
+
+        <item>Watson L. 2004. The whole hog. England: Profile Books LTD.
+        <para id="id1166574402668"><space count="5"/>Describes numerous species of hogs, including the wild boar and the domestic pig.</para></item>
+</list>
+      </section>
+   <section id="eip-580"><title>About the Author</title><figure id="eip-id1166073358664">
+<media id="eip-id1171977784168" alt="A portrait of the author."><image mime-type="image/png" src="../../media/alayman1.png" width="200px"/></media>
+</figure>
+<para id="eip-467">
+Arielle Layman is a senior majoring in Biochemistry and Cell Biology at Rice University. She is from New Jersey and loves animals, science fiction, and cooking and baking vegan food. Next year she will be moving to rural New Mexico to teach high school science as a Teach For America corps member.
+</para></section>
+  </content>
+</document>

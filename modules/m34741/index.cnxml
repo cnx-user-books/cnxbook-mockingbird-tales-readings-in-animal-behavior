@@ -1,0 +1,215 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Mind Games: Acanthocephalan infection and behavioral modification</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34741</md:content-id>
+  <md:title>Mind Games: Acanthocephalan infection and behavioral modification</md:title>
+  <md:abstract>The ability to control someone’s mind, change their behavior, and force them to perform self-destructive, unnatural acts seems like a scene from a bad alien-zombie movie. However, some parasites, such as worms of the phylum Acanthocephala, manage to do just that – they infect another organism, drain their resources, and then alter their host’s behavior and physiology to become more susceptible to a predator, who is the parasite’s next host. They manipulate the host, so that it does not hide when it senses visual and olfactory signals that indicate a predator’s presence; it does not reproduce, and it escapes non-host predators with greater efficiency. The variability, specificity, and flexibility of the behaviors induced in the intermediate host demonstrate the complexity of the parasite-host relationship. Moreover, the extent to which the parasite controls the host shows the dependency of even the most basic behaviors and instincts, such as hiding from a predator or finding a mate, on physiological, chemical, and genetic factors.</md:abstract>
+  <md:uuid>b2fa4237-c37e-43f8-94bd-f5ff76c8888a</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1165102596832"><emphasis effect="bold">Author:</emphasis> Dina Yangirova</para>
+    <section id="id1165125479520">
+      <title>Introduction</title>
+      <para id="id1165100180917">Parasitism is a long-term, durable interaction between two species, in which one uses the other as a source of nutrients, a transport vehicle, or a habitat without providing anything in return (Combes 2001). The parasite’s activities lack the glory and drama of a predator eating its hard-won prey. Instead, the parasite works quietly and diligently behind the scenes, often hidden, but nevertheless profoundly influential in the life of its host. For instance, the parasite might literally, physically change the host, because some of its genes become expressed by the host. Moreover, the parasite influences the host by consuming the resources that it would otherwise use for its own growth, repair, or reproduction. It may also influence the dynamics of the host population by killing individuals susceptible to infection, and thus indirectly increasing the number of infection-resistant individuals. By doing so, the parasite is creating strong selective pressures for the host to develop defenses against exploitation, which in turn causes selection for parasites that can bypass these defenses. In this way, the host and the parasite find themselves in an evolutionary arms race, which has wide-ranging effects on both organisms (Combes 2001).</para>
+      <para id="id1165105519794">Effective transmission to another host or transmission of the eggs to another host is an important task for parasites, because otherwise when the host dies due to the parasite’s activities or otherwise – the parasite, its offspring, and most importantly its genes will perish as well. Transmission can occur through contact, consumption, or an active <term>free-living stage</term><emphasis effect="bold"/>(Combes 2001). This task becomes especially important if the parasite requires more than one host to complete its development and reproduce. In such cases, one of the most extreme cases of host manipulation by a parasite can be observed, in which the parasite turns its host into a veritable zombie by radically changing its behavior and appearance to increase the chance of transmission to the next host. An organism that vividly demonstrates this phenomenon is a thorn-headed worm of the phylum Acanthocephala, which causes radical changes in the life and behavior of its invertebrate <term>intermediate host</term> in order to improve the chances that it will be consumed by its next, vertebrate <term>definitive host</term>. A relationship between parasitic worms of the phylum Acanthocephala and their hosts provide great insights into the dynamics and complexity of parasite-induced behavioral modifications, and provide a great demonstration of the <term>extended phenotype</term>. </para>
+    </section>
+    <section id="id4447164">
+      <title>Life cycle</title>
+      <para id="id1982475">The acanthocephalans are one of the smallest and least diverse metazoan parasites, yet they can be found on all continents and in a variety of environments, including sea and fresh water (Kennedy 2006). They are thorn-headed parasitic worms whose life cycle requires two hosts. They begin their development when an intermediate host (typically an isopod, amphipod, or an insect) inadvertently consumes the acanthocephalan eggs<emphasis effect="italics">.</emphasis> Once inside, the parasite grows in the host’s alimentary canal, avoiding significant mechanical damage to the host’s body. Once the parasite reaches the <term>cystacanth</term> stage, it needs to transfer to a new, definitive, vertebrate (generally a bird or a fish), in order to be able to reproduce and complete its life cycle. Inside the definitive host, they reproduce sexually and the eggs are released with the host’s feces. The transfer requires that the definitive host consume the intermediate host (Bierbower et al 2007, Benesh et al 2008, Moore 1983, Kennedy 2006). </para>
+      <para id="id1165104342889">The cystacanths do not leave such a crucial step in their life cycle to fate and work to modify the behavior and physiology of the invertebrate so as to maximally increase their chance of being eaten by the definitive host (Bakker 1997). The parasite makes the intermediate host more vulnerable to predation by variety of ways such as by decreasing its stamina, making it highly conspicuous, making it disoriented, and inversing its responses to environmental stimuli that indicate definitive host presence (Moore 1983). For acanthocephalans like <emphasis effect="italics">Pomphorhynchus laevis,</emphasis> the level of behavior manipulation is higher if two parasites infect an individual rather than one, but the manipulation level does not increase for higher number of parasites. They cystacanths also have to be of the right age during transmission, i.e. older than 30 days. If they infect the definitive host too early, they might not be able to remain in the intestine. On the other hand, they usually do not survive longer than a year if not passed on to the next host (Kennedy 2006). Behavioral changes are more intense if the host is infected with older cystacanths (Franceschi 2008), reflecting the urgency to move on.</para>
+      <figure id="id5100582"><media id="id5100582_media" alt="an Acanthocephalan life cycle diagram">
+          <image mime-type="image/png" src="../../media/D 5.png" id="id5100582__onlineimage" height="436" width="599"/>
+        </media>
+        
+      <caption>Acanthocephalan life cycle (Moore 1983, Kennedy 2006)</caption></figure>
+      <para id="id1165107561540">The size of the parasite population may follow an annual cycle (Brattey 1988). For instance, adult <emphasis effect="italics">Acanthocephalus lucii </emphasis>living in Scotland are most abundant in late spring and summer, decline in numbers during autumn, and reach a minimum during winter. There is only one generation per year and there is a continual flow of parasites through the population of its final host, the European perch, <emphasis effect="italics">Perca flaviatilis.</emphasis> The cycle may be driven by seasonal changes in the number of infective larvae, host’s resistance to infection, or host feeding behavior (Brattey 1988). </para>
+      <section id="id1165106633755">
+        <title>Parasite-host dynamics</title>
+        <para id="id1165101990837">Along with serving as a mode of transmission to the final host, the intermediate host’s other role in the parasite’s life is as a source of nutrients. It is in the parasite’s interest to consume as many nutrients (i.e. eat as much of the host) as possible in order to grow and develop, but it is also in its interests to keep the host alive and fit, in order to escape predation until the parasite is ready to be transmitted. Thus, the parasite must find an optimum level of exploitation that maximizes growth and also maximizes the chances eventual of predation on the host (Benesh 2000). One method of dealing with this conflict is to infect a larger host in the first place, so that there are more nutrients to consume and more room to grow (Hasu 2007). </para>
+        <para id="id1165097482421">The conflict is exacerbated when multiple parasites infect a single host and find themselves in competition for the host’s resources. One might expect that each would try to consume as many of host’s nutrients as possible and grow as much as possible to maximize its own fitness. Instead, the growth of parasites in crowded conditions appears to slow down over time. One possible explanation may be that the parasites are related and they are sharing the resources equally to ensure that all the relatives have maximum possible fitness and pass on the genes (Benesh 2007).</para>
+        <example id="oo-id1165097060209"><label>Box</label><title>Conflicts of Interest</title>
+          <para id="id1165125022031">If another type of parasite, like the microspordium <emphasis effect="italics">Dictyocoela</emphasis> (roeselum), infects the same host as the acanthocephalan (e.g. <emphasis effect="italics">P. minutus</emphasis>), a competition between two survival strategies may ensue (Haine 2005). The microspordia are transmitted vertically, from infected parent to offspring, so they are highly invested in the reproductive fitness of their host. On the other hand, the acanthocephalans are transmitted horizontally, that is between unrelated hosts, and thus are not invested in their hosts’ reproductive success. In fact, they sometimes manipulate the behavior or physiology of their host in order to use the resources like time, energy, and nutrients that would normally go toward reproductive activities to increase their own fitness. So, when these two parasites infect the same host, an obvious conflict of interest occurs. In these situations, the microspordia are not above sabotage, and cause <emphasis effect="italics">P. minutus</emphasis> to have less success in manipulating the behavior of the host (Haine 2005).</para>
+        </example>
+        <para id="id1165105088748">In order to inhabit the host’s body for significant amount of time, the parasite has to bypass the immune system defenses (Rigaud 2000). The fact that they often manage to do so may indicate <term>co-evolution</term> of the two organisms. If the host’s immune system were able to kill the parasites, then there would be strong selective pressures for the acanthocephalans to develop anti-immune system defenses, because only those parasites that have these defenses would be able to survive and pass on their genes. However, a growing prevalence of immune system resistant parasites would put selective pressures on the host to develop new mechanisms against infection, especially since the parasite dramatically decreases the host’s reproductive fitness. Thus, the two organisms are in an arms race. Furthermore, the parasite’s ability to suppress an immune response is specific to a particular host species, and does not work on invasive species (Rigaud 2000).</para>
+        <table id="id2300894" summary="A diagram of the intermediate and definitive hosts of the parasite species discussed.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>Parasite Species</entry>
+                <entry>Intermediate Host</entry>
+                <entry>Definitive Host</entry>
+              </row>
+              <row>
+                <entry>Acanthocephalus dirus</entry>
+                <entry>Isopod: <emphasis effect="italics">Caecidotea intermedius</emphasis></entry>
+                <entry>Chub: <emphasis effect="italics">Semotilus atromaculatus</emphasis></entry>
+              </row>
+              <row>
+                <entry>Acanthocephalus lucii</entry>
+                <entry>Isopod: <emphasis effect="italics">Asellus aquaticus</emphasis></entry>
+                <entry>Perch: <emphasis effect="italics">Perca fluviatilis</emphasis></entry>
+              </row>
+              <row>
+                <entry>Pomphorhynchus laevis</entry>
+                <entry>Amphipod: <emphasis effect="italics">Gammarus pulex</emphasis></entry>
+                <entry>Perch: <emphasis effect="italics">Perca fluviatilis</emphasis></entry>
+              </row>
+              <row>
+                <entry>Corynosoma constrictum</entry>
+                <entry>Amphipod: <emphasis effect="italics">Hyalella azteca</emphasis></entry>
+                <entry>Variety of waterfowl</entry>
+              </row>
+              <row>
+                <entry>Echinorhynchus borealis</entry>
+                <entry>Amphipod: <emphasis effect="italics">Pallasea quadrispinosa</emphasis></entry>
+                <entry>Burbot: <emphasis effect="italics">Lota lota</emphasis></entry>
+              </row>
+              <row>
+                <entry>Plagiorhynchus cylindraceus</entry>
+                <entry>Isopod: <emphasis effect="italics">Armadillidium vulgare</emphasis></entry>
+                <entry>Starling: <emphasis effect="italics">Sturnus vulgaris</emphasis></entry>
+              </row>
+              <row>
+                <entry>Polymophus paradoxus</entry>
+                <entry>Crustacean: <emphasis effect="italics">Gammarus lacustris</emphasis></entry>
+                <entry>Mallard ducks, muskrats, and beavers</entry>
+              </row>
+              <row>
+                <entry>Polymorphus minutus</entry>
+                <entry>Crustacean: <emphasis effect="italics">Gammarus roeseli</emphasis></entry>
+                <entry>Waterbird</entry>
+              </row>
+            </tbody>
+          
+
+</tgroup><caption>The intermediate and definitive hosts of the parasite species discussed<newline/>
+(Bierbower 2007, Brattey 1988, Benesh 2005, Benesh et al. 2008, Helluy 1990)</caption>
+</table>
+        
+        
+      </section>
+      <section id="id1165095991009">
+        <title>Acanthocephalan host specificity</title>
+        <para id="id1165118056186">Acanthocephalans are highly successful in causing elaborate changes in the behavior of their intermediate host; however, their mechanisms of manipulation are often highly specific to that particular host and do not work on other species. Consequently, parasites that are adapted to a local host may have little to no influence on an <term>invasive host</term> (i.e. one that has recently arrived to the area). For instance, the <emphasis effect="italics">P. laevis </emphasis>parasite, whose local host is the amphipod <emphasis effect="italics">G. pulex</emphasis>, fails to alter the behavior and immune system of a recent invader which is also an amphipod, the crustacean <emphasis effect="italics">G. roeseli </emphasis>(Moret et al 2006). The invading population’s resistance to parasitism gives it a selective advantage over the native population, and helps it invade the area successfully. This finding suggests that the two amphipod species have evolved due to parasite-mediated competition with each other, which demonstrates a profound effect a parasite’s specificity may have on its host in terms of its species evolution (Bauer 2000). </para>
+        <para id="id1165110390741">Two acanthocephalans may have different behavioral effects on the same intermediate host. For instance, <emphasis effect="italics">P. laevis </emphasis>and <emphasis effect="italics">P. minutus</emphasis> have the same intermediate host, <emphasis effect="italics">G. pulex</emphasis>. However, the definitive host of <emphasis effect="italics">P. laevis</emphasis> is freshwater fish, while the definitive host of <emphasis effect="italics">P. minutus</emphasis> is a waterbird. In the presence of a fish predator, the amphipods infected with <emphasis effect="italics">P. laevis </emphasis>remained outside of refuge more and spend more time in areas with the predator ‘odor’ than the amphipods infected with <emphasis effect="italics">P. minutus</emphasis>, (Kaldonski 2007).</para>
+      </section>
+      <section id="id1165096309329">
+        <title>Physiological effects of an acanthocephalan infection</title>
+        <para id="id1165115437570">Acanthocephalan infection can cause drastic changes of the host’s physiology and distribution of resources. In particular, the parasites often decrease the reproductive capability of the intermediate host because their transmission to the definitive host does not depend on the survival of the intermediate. The significant amount of resources and time that the host spends on finding a mate and producing offspring could be used instead to maximize the parasite’s own fitness and chances of advancing to the next host. </para>
+        <para id="id1165110202908">For example, the acanthocephalan <emphasis effect="italics">Pomphorhynchus laevis</emphasis> causes its intermediate amphipod host, <emphasis effect="italics">Gammarus pulex</emphasis>, to have lower lipid content in pregnant females. Females need lipids for yolk synthesis, and cannot successfully reproduce without them. The parasites instead use the energetic resources to increase the intermediate host’s survivorship until it is eaten by the parasite’s definitive host (Plaistow 2001).</para>
+        <para id="id1165106790454">The parasites can also reduce reproductive capability of its male hosts. When the isopod, <emphasis effect="italics">Caecidotea intermedius,</emphasis> is parasitized by <emphasis effect="italics">Acanthocephalus dirus, </emphasis>the host males still develop sperm and have the same fertilization ability as noninfected males. However, they are less likely to initiate mating in noncompetitive situations and are less responsive to females (see <link target-id="id8174891"/>) (Bierbower 2007). Likewise, acanthocephalan infection causes the amphipod <emphasis effect="italics">G. pulex </emphasis>males to have significantly lower pairing success and to be less likely to engage in competition with other males for females (Bollance 2000). The parasite can use the energy that the host would spend on competition and mating for its own growth.</para>
+        <para id="id1165110179997">
+          <figure id="id1165105279652"><media id="id1165105279652_media" alt="mating and fertilization success in C. intermedius.">
+              <image mime-type="image/png" src="../../media/C 1.png" id="id1165105279652__onlineimage" height="323" width="508"/>
+            </media>
+            
+          <caption>C. intermedius male mating and fertilization success is lower when infected with an acanthocephalan A. dirus compared to uninfected males in the lab and field ( Drawn from Table 1, Beirbower 2007)</caption></figure>
+        </para>
+        <para id="id1165125121606">Acanthocephalans also use physiological changes to directly make their intermediate hosts more vulnerable to predation by final host. For example, the acanthocephalan <emphasis effect="italics">P</emphasis>. <emphasis effect="italics">laevis</emphasis> has a conspicuous yellow-orange color (see <link target-id="id1165105279652"/>), caused by the pigments called carotenoids. They are readily visible through the transparent cuticle of its host <emphasis effect="italics">G. pulex</emphasis>, which makes the infected host become more vulnerable to predation due to enhanced visibility (also called <term>oddity selection</term><emphasis effect="bold">)</emphasis>, as well as due to parasite-induced behavioral changes (Bakker 1997).</para>
+        <para id="id1165105836002">
+          <figure id="id8174891"><media id="id8174891_media" alt="Pigments called carotenoids are visible through the transparent cuticle of its host G. pulex.">
+              <image mime-type="image/jpg" src="../../media/Picture 0-b94f.jpg" id="id8174891__onlineimage" height="407" width="542"/>
+            </media>
+            
+          <caption>P. laevis (Raschka 2007)</caption></figure>
+        </para>
+      </section>
+    </section>
+    <section id="id1165110481635">
+      <title>Parasite-induced Behavioral Changes Result in Predation</title>
+      <para id="id1165104977096">Acanthocephalans alter the behavior of their hosts in many ways to make them more vulnerable to predation. First, they can manipulate their hosts’ response to various aspects of light stimuli, including light and wavelength. For example, the acanthocephalan <emphasis effect="italics">Corynosoma constrictum </emphasis>alters its amphipod intermediate host <emphasis effect="italics">Hyalella azteca’</emphasis>s response to higher red (600-700 nm) and green (500-550 nm) wavelength regions. The host uses properties of light to identify various microhabitats, and acanthocephalan infection causes the amphipod to become lost and enter foreign microhabitats. The host also becomes less photophobic and begins to prefer dangerous, well-lit areas (Benesh 2005). Uninfected amphipods usually stay away from such sunlit areas, as well as from areas disturbed by duck movement. However, acanthocephalan infection interferes with such self-preserving tactics and increases the chance of their intermediate host being eaten by their final host (Bethel 1976).</para>
+      <para id="id1165096377817">Deep under water, the sense of smell is often more important than sight in detecting aquatic predators. Infection by acanthocephalans reduces the ability of the host to respond to olfactory signals that indicate the presence of predator. For example, acanthocephalan <emphasis effect="italics">Echinorhynchus borealis </emphasis>causes its host, amphipod <emphasis effect="italics">Pallasea </emphasis><emphasis effect="italics">quadrispinosa, </emphasis>to spend less time hiding, and thus is more exposed, in water containing strong chemical cues from its predator (Benesh et al 2008). </para>
+      <para id="id1165106205921">Another way in which acanthocephalans like <emphasis effect="italics">Plagiorhynchus cylindraceus</emphasis> manipulate their host (isopod <emphasis effect="italics">Armadillidium vulgare</emphasis>)<emphasis effect="italics"/>is by increasing their tolerance to low humidity (Moore 1983). As the result, the infected isopods spend more time in exposed, dry spots, which causes them to be isolated from the group and more visible to predators. The parasites also increase the visibility of the host by increasing its affinity to light-colored areas, so that they stand out more (Moore 1983).</para>
+      <section id="id1165119387111">
+        <title>Serotonin and Behavior Manipulation: A Mechanism of Action</title>
+        <para id="id1165106474134">One mechanism by which acanthocephalan parasites alter the behavior of their host is through manipulation of <term>neuromodulators</term> (Adamo 2002). For example, <emphasis effect="italics">P. laevis</emphasis> changes the <term>serotonin</term><emphasis effect="bold"/>(5-HT) levels in the brain its host <emphasis effect="italics">G. pulex, </emphasis>which causes it to have an inverse reaction to light. Laboratory injection of serotonin into an amphipod, such as <emphasis effect="italics">G. pulex, </emphasis>causes the same inversed reaction to light, which indicates that the change in serotonin levels is the reason for the behavior and not merely byproduct of the invasion (Tain 2006).</para>
+        <para id="id1165101908075">Another effect of high serotonin levels is demonstrated by crustacean <emphasis effect="italics">Gammarus lacustris</emphasis>, which display an abnormal response to disturbances in the water by swimming up the surface and clinging to solid objects when infected with the acanthocephalan <emphasis effect="italics">Polymorphus paradoxus </emphasis>(Helluy 1990). When uninfected amphipods were injected with serotonin, they displayed the same behavior. The increased serotonin levels might have influenced chemical pathways related to the precopulatory clinging of the male amphipod (Helluy 1990).</para>
+        <example id="oo-id1165102627075"><label>Box</label><title>Behavior Manipulation in Vertebrates: Rabies</title>
+          <para id="id1165100519101">Rabies is a disease caused by the lyssa virus that affects many vertebrates, such as dogs, bats, monkeys, foxes, and humans (Easmon 2005). It is found on all continents and between 40,000 and 70,000 people die of the infection every year.</para>
+          <para id="id1165095905981">As with acanthocephalans, the rabies virus requires transmission from one host to the next for survival. One of the mechanisms of transmission is through saliva, with the current host biting the next one to transfer the virus. After the initial penetration into the new host’s body, the virus bypasses the immune system and travels through the nervous system into the brain, skin, mucous membranes, and salivary glands. The virus causes inflammation in the brain and interferes with many of its functions. The new host becomes aggressive and prone to biting, which helps further transmission of the virus.</para>
+          <para id="id1165110093892">Rabies infection proceeds through several stages. The time that it takes for the virus to reach the brain constitutes an incubation period, which can last months. Following incubation is a preliminary stage during which the individual develops various gastrointestinal and respiratory problems, such as loss of appetite, fever, nausea, and vomiting. The individual also experiences copious salivation and tear production. Then, during the neurological stage, the infected host begins to suffer from paralysis, throat spasms, fear of water, anxiety, hyperactivity, confusion, uncontrolled movement, and delirium. After the appearance of symptoms, the mortality rate is nearly one hundred percent. However, a vaccine has been developed that treats the infection if administered before or soon after the transmission (Easmon 2005).</para>
+        </example>
+      </section>
+      <section id="id1165105032049">
+        <title>Behavior Modification to Avoid Non-host Predators</title>
+        <para id="id1165096286926">While the acanthocephalans work hard to improve the chances of their intermediate host being eaten, the last thing that they want is for someone besides the definitive host taking advantage of the situation and getting an easy meal. Thus, the parasites also modify the behavior of their hosts in various ways to prevent consumption by non-host predators. For example, uninfected crustacean <emphasis effect="italics">Gammarus roeseli</emphasis> usually resides in the benthic (i.e. bottom) areas of the lake. However, when infected by <emphasis effect="italics">Polymorphus minutus</emphasis>, they appear in higher concentrations near the water surface, often clinging to floating material, in the presence of non-host predators, such as another aggressive crustacean near the bottom of the lake (Medoc et al. 2006). The parasites also improve the host’s performance when it comes to escaping non-host predators, so that infected <emphasis effect="italics">G. roeseli</emphasis> have higher average and maximum swimming speeds, greater speeds during the moment of escape, and cover greater distance while fleeing. This counterintuitive effect on the host’s fitness may increase the chances of the intermediate host being eaten by an appropriate definitive host (Medoc 2007).</para>
+        <figure id="id1165112456315"><media id="id1165112456315_media" alt="Distance covered by uninfected and infected hosts.">
+            <image mime-type="image/png" src="../../media/C 2.png" id="id1165112456315__onlineimage" height="335" width="508"/>
+          </media>
+          
+        <caption>Cumulative distance (mm) covered by uninfected and P. minutus infected G. roeseli after contact with non-host predator D. villosus (redrawn from Table 1, p&lt; 0.001, Medoc 2008).</caption></figure>
+        
+      </section>
+    </section>
+    <section id="id1165106159929">
+      <title>Discussion Questions</title>
+      <list id="id1165106647183" list-type="enumerated" number-style="arabic">
+        <item>How can a parasite both increase the possibility of being eaten by a definitive host and decrease the possibility of being consumed by a non-host predator?</item>
+        <item>Why is behavior modification so important for many parasites?</item>
+      </list>
+    </section>
+    <section id="id1165097161977"><title>Glossary</title><list id="eip-id1164545643459">
+      <item id="id1165102040076"><term>Cystacanth</term>- developed acanthocephalan larva, which is able to infect its definitive host (Moore 1983).</item>
+      <item id="id1165120448231"><term>Co-evolution</term>- phenomenon when a change in one species causes a change in another species, which triggers a counter-adaptation in the first species again, so that the two species evolve together.</item>
+      <item id="id1165115664042"><term>Definitive host</term>- an organism in which parasite reproduces and resides until death.</item>
+      <item id="id1165106631244"><term>Extended phenotype</term>- term coined by Richard Dawkins to describe the phenomenon of genes not only determining physical phenotypes but also various behaviors of an organism.</item>
+      <item id="id1165105504076"><term>Free-living stage</term>- a stage in parasite’s life when following a signal from the environment or the host’s body the parasite escapes the host’s body and lives outside (Sukhdeo 1995).</item>
+      <item id="id1165111494587"><term>Intermediate host</term>- an organism that contains the parasite for a limited amount of time, when the parasite life cycle requires more than one host.</item>
+      <item id="id1165113283598"><term>Invasive host</term>- a potential host for a parasite that is not native to the area, often harder to invade than local hosts</item>
+      <item id="id1165105123932"><term>Neuromodulators</term>- can alter the neural circuits and allow the organism to be flexible in its responses to the environment (Adamo 2002).</item>
+      <item id="id1165100235537"><term>Oddity selection</term>- when conspicuous appearance of an organism causes it to becomes more vulnerable to predation.</item>
+      <item id="id1165106432491"><term>Serotonin</term>- a neurotrasmitter and hormone, also known as 5-HT, that is known to constrict blood vessels and have an effect on mood (Medicinenet.com)</item>
+      <item id="id1165105454062"><term>Parasitism</term>- a relationship between two species in which one benefits and another suffers losses to fitness.</item>
+  </list></section>
+    <section id="id1639389"><title>References</title><list id="eip-id1172278165524" list-type="labeled-item"><item id="id1165120111402">Adamo S. 2002. Modulating the modulators: parasites, neuromodulators and host behavioral change. Brain Behavioral Evolution. 60: 370-377.</item>
+      <item id="id1165097344811">Bakker T., Mazzi D., Zala S. 1997. Parasite-induced changes in behavior and color make <emphasis effect="italics">Gammarus pulex </emphasis>more prone to fish predation. Ecology. 78:1098-1104.</item>
+      <item id="id1165100329529">Baldauf S., Thunken T., Frommen J., Bakker T., Heupel O., Kullmann H., 2007. Infection with an acanthocephalan manipulates an amphipod’s reaction to a fish predator’s odours. International Journal of Parasitology. 37:61-65.</item>
+      <item id="id1165102807782">Bauer A., Trouve S., Gregoire A., Bollanche L., Cezilly F. 2000. Differential influence of <emphasis effect="italics">Pomphorhynchus laevis</emphasis> (Acanthocephala) on the behavior of native and invader gammarid species. International Journal and Parasitology. 30:1453-1457.</item>
+      <item id="id1165105551986">Benesh, D., Duclos L., and Nickol B. 2005. The behavioral response of amphipods harboring <emphasis effect="italics">Corynosoma constrictum</emphasis> (acanthocephala) to various components of light. American Society of Parasitologists. 91: 731-36.</item>
+      <item id="id1165100358712">Benesh D., Kitchen J., Pulkkinen K., Hakala I., Valtonen E. 2008. The effect of <emphasis effect="italics">Echinorhyncus borealis </emphasis>(Acanthocephala) infection on the anti-predator behavior of a benthic amphipod. American Society of Parasitologists. 94:542-545.</item>
+      <item id="id1165108947103">Benesh D., Valtonen E. 2007. Effects of <emphasis effect="italics">Acanthocepalus lucii </emphasis>(Acanthocephala) on intermediate host survival and growth: implications for exploitation strategies. J. Parasitol. 93:735-741.</item>
+      <item id="id1165110030412">Benesh D., Valtonen E. 2007. Proximate factors affecting the larval life history of <emphasis effect="italics">Acanthocepalus lucii </emphasis>(Acanthocephala). J. Parasitol. 93:742-749.</item>
+      <item id="id1165106608339">Benesh D., Valtonen E., Seppala O. 2008. Multidimensionality and intra-individual variation in host manipulation by an acanthocephalan. Parasitology. 135:617-626.</item>
+      <item id="id1165105769280">Bentley C., Hurd H. 1995. Depressed protein and copper content of the midgut gland in an intermediate host, <emphasis effect="italics">Gammarus pulex</emphasis> (Crustacea), infected with cystacanths of <emphasis effect="italics">Pomphorhynchus laevis</emphasis> (Acanthocephala). Journal of Invertebrate Pathology. 66:1-5.</item>
+      <item id="id1165111519547">Bethel W., Holmes, J. 1977. Increased vulnerability of amphipods to predation owing to altered behavior induced by larval acanthocephalans. Can. J. Zool. 55:110-115.</item>
+      <item id="id1165110693248">Bierbower S., Sparkes T. 2007. Parasite-related pairing success in an intermediate host, <emphasis effect="italics">Caecidotea Intermedius </emphasis>(Isopoda): effects of male behavior and reproductive physiology. American Society of Parasitologists. 93:445-449.</item>
+      <item id="id1165104282836">Bollance L., Gamade G., Cezilly F. 2001. The effects of two acanthocephalan parasites, <emphasis effect="italics">Pomphorhynchus laevi </emphasis>and<emphasis effect="italics"> Polymorphus minutus</emphasis>, on pairing success in male <emphasis effect="italics">Gammarus pulex </emphasis>(Crustacea:Amphipoda). Behavioral Ecology and Sociobiology. 49:296-303.</item>
+      <item id="id1165105619071">Brattey J. 1988. Life History and Population Biology of Adult Acanthocephalus lucii (Acanthocephala: Echinorhynchidae). Journal of Parasitology. 74:72-80.</item>
+      <item id="id1165104898822">Combes C. 2001. Parasitism: The Ecology and Evolution of Intimate Interactions. Chicago, Illinois: University of Chicago Press.</item>
+      <item id="id1165100244644">Easmon C. 2005. “Rabies.” Netdoctor.co.uk. Nov. 16, 2008. <link url="http://www.netdoctor.co.uk/travel/diseases/rabies.htm">http://www.netdoctor.co.uk/travel/diseases/rabies.htm</link>.</item>
+      
+      <item id="id1165106054423">Franceschi N., Bauer A., Bollanche L., Rigaud T. 2008. The effects of parasite age and intensity on variability in acanthocephalan-induced behavioral manipulation. International Journal of Parasitology. 38:1161-1170.</item>
+      <item id="id1850814">Gottrop M. 2005. “Corynosoma drawing.” Wikipedia Commons. <link url="http://en.wikipedia.org/wiki/File:Corynosoma_drawing.jpg">http://en.wikipedia.org/wiki/File:Corynosoma_drawing.jpg</link></item>
+      
+      <item id="id1165110647776">Haine E., Boucansaud K., Rigaud T. 2005. Conflict between parasites with different transmission strategies infecting an amphipod host. Proceedings of the Royal Society B. 272:2505-2510.</item>
+      <item id="id1165125089496">Hasu T. 2007. Isopod (<emphasis effect="italics">Asellus aquaticus)</emphasis> size and acanthocephalan <emphasis effect="italics">(Acanthocephalus lucii)</emphasis> infection. J. Parasitol. 93:450-457.</item>
+      <item id="id1165105422582">Helluy S., Holmes J. 1990. Serotonin, octopamine, and the clinging behavior induced by the parasite <emphasis effect="italics">Polymorphus paradoxus</emphasis> (Acanthocephala) in <emphasis effect="italics">Gammarus lacustris</emphasis> (Crustacea). Can. J. Zool. 68:1214-1220.</item>
+      <item id="id1165107413538">Kaldonski N., Perrot-Minnot M.-J., Cezilly F. 2007. Differential influence of two acanthocephalan parasites on the antipredator behavior of their common intermediate host. Animal Behavior. 74: 1311-1317.</item>
+      <item id="id1165100159016">Kaldonski N., Perrot-Minnot M.-J., Motreuil S., Cezilly F. 2008. Infection with acanthocephalans increases the vulnerability of <emphasis effect="italics">Gammarus pulex </emphasis>(Crustacea, Amphipoda) to non-host invertebrate predators. Parasitology. 135:627-631.</item>
+      <item id="id1165112155374">Kennedy C. 2006. Ecology of the Acanthocephala. New York, NY: Cambridge University Press.</item>
+      <item id="id1165108749166">Medoc V., Bollanche L., Beisel J.-N. 2006. Host manipulation of a freshwater crustacean (<emphasis effect="italics">Gammarus roeseli) </emphasis>by an acanthocephalan parasite (<emphasis effect="italics">Polymorphus minutus)</emphasis> in a biological invasion context. International Journal of Parasitology. 36:1351-1358.</item>
+      <item id="id7846282">Medoc V., Biesel J.-N. 2008. An acanthocephalan parasite boosts the escape performance of its intermediate host facing non-host predators. International Journal of Parasitology. 977-983.</item>
+      <item id="id1165114014225">Moore J. 1983. Responses to an avian predator and its isopod prey to an acanthocephalan parasite. Ecology. 64:1000-1015.</item>
+      <item id="id1165100405290">Moret Y., Bollanche L., Wattier R., Rigaud T. 2007. Is the host or the parasite the most locally adapted in an amphipod-acanthocephalan relationship? A case study in a biological invasion context. International Journal of Parasitology. 37:637-644.</item>
+      <item id="id1165104135004">Perrot-Minnot M.-J. 2004. Larval morphology, genetic divergence, and contrasting levels of host manipulation between forms of <emphasis effect="italics">Pomphorhynchus laevis</emphasis> (Acanthocephala). International Journal for Parasitology. 34:45-54.</item>
+      <item id="id1165111966587">Piscart C., Webb D., Beisel J. 2007. An acanthocephalan parasite increases the salinity tolerance of the freshwater amphipod <emphasis effect="italics">Gammarus roeseli</emphasis> (Crustacea: Gammaridae). Naturwissenschaften. 94:741-747.</item>
+      <item id="id1165125080084">Plaistow S., Troussaud J.-P., Cezilly F. 2001. The effect of the acanthocephalan parasite <emphasis effect="italics">Pomphorhynchus laevis</emphasis> on the lipid and glycogen content of its intermediate host <emphasis effect="italics">Gammarus pulex. </emphasis>International Journal of Parasitology.31:346-351.</item>
+      <item id="id1165112003018">Raschka A. 2007. “Acanthocephala Pomphorhynchus.” Wikipedia Commons. <link url="http://en.wikipedia.org/wiki/File:Acanthocephala_Pomphorhynchus.jpg">http://en.wikipedia.org/wiki/File:Acanthocephala_Pomphorhynchus.jpg</link></item>
+      
+      <item id="id1165105736157">Rigaud T., Moret Y. 2003. Differential phenoloxidase activity between native and invasive gammarids infected by local acanthocephalans: different immunosuppression? Parasitology. 127:571-577.</item>
+      <item id="id1165095789086">Sukhdeo M., Chappell L. 1995. Parasitology and Behavior. New York, NY: Cambridge University Press.</item>
+      <item id="id1165103904426">Tain L., Perrot-Minnot M.-J., Cezilly F. 2006. Altered behavior and brain serotonergic activity caused by acanthocephalans: evidence for specificity. Proceeding of the Royal Society B-Biological Sciences. 273:3039-3045.</item>
+      <item id="id1165103312644">Tain L., Perrot-Minnot M.-J., Cezilly F. 2007. Differential influence of <emphasis effect="italics">Pomphorhynchus laevis </emphasis>(Acanthocephala) on brain serotonergic activity in two congeneric host species. Biology Letters. 3:68-71.</item>
+    </list></section>
+    <section id="id1165096350219"><title>About the Author</title><figure id="id1165106205283"><media id="id1165106205283_media" alt="picture of the author.">
+            <image mime-type="image/jpg" src="../../media/Picture 22.jpg" id="id1165106205283__onlineimage" width="200px"/>
+         </media>
+        <caption>Dina Yangirova</caption></figure>
+        <para id="id1165105171577">I was born in Russia, but have lived in Houston, Texas for nine years. I am a junior biochemistry major and I have taken the Animal Behavior class because I dearly love all animals, even the ugly ones. In my spare time, I like to dance, take pictures, draw, watch movies, and read. The hardest part of writing this chapter was putting together all the disparate, disjoined pieces of information and constructing a coherent picture of how the acanthocephalans operate. In the process, I have realized yet again that even the smallest and slimiest creatures can be incredibly complex and exciting.</para>
+
+    </section>
+  </content>
+</document>
