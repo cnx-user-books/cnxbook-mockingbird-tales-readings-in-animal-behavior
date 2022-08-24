@@ -1,3 +1,88 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Book">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11211</md:content-id>  <md:title>Mockingbird Tales: Readings in Animal Behavior</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>      <md:uuid>0a9f2c0b-893f-48b4-98e9-a85af3aa4e45</md:uuid>
-<md:slug>mockingbird-tales-readings-in-animal-behavior</md:slug>
-</metadata>  <col:content>          <col:module document="m36683"/>                                          <col:subcollection>        <md:title>Why form groups?</md:title>                                <col:content>                    <col:module document="m34746"/>                            <col:module document="m34737"/>                            <col:module document="m34723"/>                            <col:module document="m34750"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Sexual conflict, and sometimes cooperation</md:title>                                <col:content>                    <col:module document="m34752"/>                            <col:module document="m34755"/>                            <col:module document="m34756"/>                            <col:module document="m34749"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Parent-offspring interactions</md:title>                                <col:content>                    <col:module document="m34707"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Why help someone else breed?</md:title>                                <col:content>                    <col:module document="m34719"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Evolution of sterile castes</md:title>                                <col:content>                    <col:module document="m34733"/>                            <col:module document="m34734"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Communicating, eavesdropping, and deception</md:title>                                <col:content>                    <col:module document="m34711"/>                            <col:module document="m34744"/>                            <col:module document="m34739"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Deception between predators and their prey</md:title>                                <col:content>                    <col:module document="m34757"/>                            <col:module document="m34743"/>                            <col:module document="m34751"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Host - parasite interactions</md:title>                                <col:content>                    <col:module document="m34732"/>                            <col:module document="m34741"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Learning</md:title>                                <col:content>                    <col:module document="m34754"/>                            <col:module document="m34735"/>                            <col:module document="m34748"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Foraging</md:title>                                <col:content>                    <col:module document="m34730"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Book" authors="Mimus Polyglottus">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11211</md:content-id>
+    <md:title>Mockingbird Tales: Readings in Animal Behavior</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>0a9f2c0b-893f-48b4-98e9-a85af3aa4e45</md:uuid>
+    <md:slug>mockingbird-tales-readings-in-animal-behavior</md:slug>
+  </metadata>
+  <col:content>
+    <col:module document="m36683"/>
+    <col:subcollection>
+      <md:title>Why form groups?</md:title>
+      <col:content>
+        <col:module document="m34746"/>
+        <col:module document="m34737"/>
+        <col:module document="m34723"/>
+        <col:module document="m34750"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Sexual conflict, and sometimes cooperation</md:title>
+      <col:content>
+        <col:module document="m34752"/>
+        <col:module document="m34755"/>
+        <col:module document="m34756"/>
+        <col:module document="m34749"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Parent-offspring interactions</md:title>
+      <col:content>
+        <col:module document="m34707"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Why help someone else breed?</md:title>
+      <col:content>
+        <col:module document="m34719"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Evolution of sterile castes</md:title>
+      <col:content>
+        <col:module document="m34733"/>
+        <col:module document="m34734"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Communicating, eavesdropping, and deception</md:title>
+      <col:content>
+        <col:module document="m34711"/>
+        <col:module document="m34744"/>
+        <col:module document="m34739"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Deception between predators and their prey</md:title>
+      <col:content>
+        <col:module document="m34757"/>
+        <col:module document="m34743"/>
+        <col:module document="m34751"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Host - parasite interactions</md:title>
+      <col:content>
+        <col:module document="m34732"/>
+        <col:module document="m34741"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Learning</md:title>
+      <col:content>
+        <col:module document="m34754"/>
+        <col:module document="m34735"/>
+        <col:module document="m34748"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Foraging</md:title>
+      <col:content>
+        <col:module document="m34730"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
