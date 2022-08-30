@@ -64,7 +64,7 @@ Similar studies in orb-weaving and wolf spiders indicate that spider females ach
     <image mime-type="image/jpeg" src="../../media/fig3.jpg"/>
   </media>
   
-<caption>Female body condition before and after a trial in which females either cannibalized or did not cannibalize mates.  Cannibalistic females were in poorer condition initially, but their body condition improved more than that of non-cannibals throughout the test (<m:math display="display">
+<caption>Female body condition before and after a trial in which females either cannibalized or did not cannibalize mates.  Cannibalistic females were in poorer condition initially, but their body condition improved more than that of non-cannibals throughout the test (<m:math>
   <m:apply>
     <m:lt/>
     <m:ci>p</m:ci>
@@ -84,7 +84,7 @@ Similar studies in orb-weaving and wolf spiders indicate that spider females ach
     <image mime-type="image/jpeg" src="../../media/fig4.jpg"/>
   </media>
   
-<caption>Relationship in <emphasis effect="italics">Tenodera sinensis</emphasis> between female hunger treatment, male orientation of approach, and speed with which males approached females.  Males approached females more quickly from behind (not in female’s direct line of sight), and approached satiated females more quickly  (<m:math display="display">
+<caption>Relationship in <emphasis effect="italics">Tenodera sinensis</emphasis> between female hunger treatment, male orientation of approach, and speed with which males approached females.  Males approached females more quickly from behind (not in female’s direct line of sight), and approached satiated females more quickly  (<m:math>
   <m:mrow>
     <m:mi>P</m:mi>
     <m:mo>&lt;</m:mo>
@@ -109,7 +109,7 @@ Similar studies in orb-weaving and wolf spiders indicate that spider females ach
     <image mime-type="image/jpeg" src="../../media/fig5.jpg"/>
   </media>
   
-<caption>Relationship in <emphasis effect="italics">Tenodera sinensis</emphasis> between female hunger treatment, male orientation of approach, and distance from which males leapt onto the backs of females.  Males leapt onto hungry females from a longer distance away (<m:math display="display">
+<caption>Relationship in <emphasis effect="italics">Tenodera sinensis</emphasis> between female hunger treatment, male orientation of approach, and distance from which males leapt onto the backs of females.  Males leapt onto hungry females from a longer distance away (<m:math>
   <m:mrow>
     <m:mi>P</m:mi>
     <m:mo>&lt;</m:mo>
@@ -149,7 +149,7 @@ In an attempt to develop an adaptionist description of sexual cannibalism, sever
 <figure id="fig6"><media id="fig6_pic" alt="graph showing the evolution of sexual cannibalism">
     <image mime-type="image/jpeg" src="../../media/fig6.jpg"/>
   </media>
-  <caption>Buskirk et al.’s model for the evolution of sexual cannibalism, based on the mathematical formula   <m:math display="display">
+  <caption>Buskirk et al.’s model for the evolution of sexual cannibalism, based on the mathematical formula   <m:math>
   <m:mrow>
     <m:mfrac>
       <m:mrow>
@@ -221,7 +221,7 @@ The economic models of Buskirk; and Newman and Elgar help explain previous obser
 </tbody>
 
 </tgroup><caption>Weight and size values are mean.  n represents total number of organisms monitored in given trial.
-“Residuals from a regression of male weight on size.  Weight/size regressions were highly significant (<m:math display="display">
+“Residuals from a regression of male weight on size.  Weight/size regressions were highly significant (<m:math>
   <m:apply>
     <m:lt/>
     <m:ci>p</m:ci>
